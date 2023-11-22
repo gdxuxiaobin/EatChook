@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PassiveRotate_White",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1007,
+      "height": 1007
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 1007,
+      "height": 1007
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -503.5,
+        -503.5,
+        0,
+        503.5,
+        -503.5,
+        0,
+        -503.5,
+        503.5,
+        0,
+        503.5,
+        503.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        1007,
+        1007,
+        1007,
+        0,
+        0,
+        1007,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -503.5,
+        "y": -503.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 503.5,
+        "y": 503.5,
+        "z": 0
+      }
+    },
+    "texture": "1694b47f-c8c1-461b-99ac-bf283885188e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

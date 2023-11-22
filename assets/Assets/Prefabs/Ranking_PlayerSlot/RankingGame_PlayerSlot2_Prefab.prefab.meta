@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.40",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "768ffa69-d7a3-4c9e-9724-cadaecfcd864",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "RankingGame_PlayerSlot2_Prefab"
+  }
+}
