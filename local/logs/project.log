@@ -325,3 +325,4 @@ myProp = 0;
 2023-11-23T04:26:25.142Z - log: [Scene] Cocos Creator v3.6.2
 2023-11-23T04:26:25.142Z - info: [Scene] Forward render pipeline initialized.
 2023-11-23T04:26:25.231Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2023-11-23T05:44:47.983Z - warn: Metrics: no valid info

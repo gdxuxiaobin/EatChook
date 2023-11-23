@@ -522,7 +522,7 @@
     "missing": false
   },
   "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test": {
-    "time": 1700713195431.8723,
+    "time": 1700718137744.8142,
     "uuid": "242291cd-b4ff-405a-958e-8b0482c1f092",
     "missing": false
   },
@@ -608,7 +608,7 @@
     "time": 1700639845000
   },
   "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1700713558381.9424,
+    "time": 1700718193906.8765,
     "uuid": "84353662-86c8-4c94-8e24-72af1db922a1",
     "missing": false
   },
@@ -1197,6 +1197,30 @@
   "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\PlayerProfile\\fa753114257499dd99cca8f65def11cb14231084c38bb-KaCeh1.jpg": {
     "time": 1692154115867.837,
     "uuid": "a962f4d9-696b-407b-9e1e-cadafa39fb24",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\1100_Xiaoji0.png.meta": {
+    "time": 1700718022233.8987
+  },
+  "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\1100_Xiaoji0.png": {
+    "time": 1699755680068.8381,
+    "uuid": "e215199c-029a-495d-8006-a4a3146f187a",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\2100_Xiaoya0.png.meta": {
+    "time": 1700718064378.2224
+  },
+  "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\2100_Xiaoya0.png": {
+    "time": 1700549081751.6057,
+    "uuid": "b9cf26ce-e31a-4d72-bfd9-e114e1585e36",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\c9a6470e7e8c299a61cbb2a1a235cbbd13ec9d2013aa7d-spif1O.png.meta": {
+    "time": 1700718141452.5156
+  },
+  "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Test\\c9a6470e7e8c299a61cbb2a1a235cbbd13ec9d2013aa7d-spif1O.png": {
+    "time": 1700718132079.7805,
+    "uuid": "fbacd57f-265a-49b7-b515-b79db733b891",
     "missing": false
   }
 }
