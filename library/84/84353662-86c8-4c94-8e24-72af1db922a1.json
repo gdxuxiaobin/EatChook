@@ -989,7 +989,10 @@
       "b": 124,
       "a": 255
     },
-    "_normalSprite": null,
+    "_normalSprite": {
+      "__uuid__": "de3146b4-5038-4b73-9efb-c06cdfe7a7b4@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    },
     "_hoverSprite": null,
     "_pressedSprite": null,
     "_disabledSprite": null,
@@ -11785,22 +11788,7 @@
     "_parent": {
       "__id__": 334
     },
-    "_children": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
+    "_children": [],
     "_active": true,
     "_components": [
       {
@@ -11864,18 +11852,7 @@
     "_parent": {
       "__id__": 334
     },
-    "_children": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
+    "_children": [],
     "_active": false,
     "_components": [
       {
@@ -13063,34 +13040,7 @@
   },
   {
     "__type__": "cc.PrefabInfo",
-    "fileId": "84353662-86c8-4c94-8e24-72af1db922a1",
-    "nestedPrefabInstanceRoots": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
+    "fileId": "84353662-86c8-4c94-8e24-72af1db922a1"
   },
   {
     "__type__": "cc.SceneGlobals",
