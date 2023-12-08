@@ -14,10 +14,16 @@
         "f1ccb636-2ee7-4335-bb07-f0f429042000",
         "5d811b57-47b2-4a7c-88e6-2533b5e767a5",
         "7c800a15-a358-4303-b575-990024cab692",
-        "32b24154-5a6b-46a4-a9ca-d041022f6056@f9941",
+        "bb66403f-2a19-403a-9896-8228f0328d90@f9941",
+        "4ff758ae-b930-4f6a-8d45-165ed0bc63ac@f9941",
+        "016df6ff-1d64-4b62-a8f6-8b785bda7255@f9941",
+        "bb66403f-2a19-403a-9896-8228f0328d90@f9941",
+        "4ff758ae-b930-4f6a-8d45-165ed0bc63ac@f9941",
+        "016df6ff-1d64-4b62-a8f6-8b785bda7255@f9941",
         "bcc27884-88e6-4b54-9ec5-60b2e77f6dc3@f9941",
         "c7417205-a266-430e-a28a-9c67c892e2cb@f9941",
         "c7417205-a266-430e-a28a-9c67c892e2cb@f9941",
+        "03dd136a-74d5-4791-92de-e04dce15e421@f9941",
         "4ff28075-5d74-4b03-8eca-65c608a0e830@f9941",
         "078001ee-e2aa-4da7-a35c-6beb0c9343f2@f9941",
         "b525df42-a1aa-4861-9b97-dcb3a88fa707@f9941",
@@ -209,9 +215,7 @@
   },
   "32b24154-5a6b-46a4-a9ca-d041022f6056": {
     "url": "db://assets/Assets/Test/SceneTest.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "32b24154-5a6b-46a4-a9ca-d041022f6056@6c48a": {
     "url": "db://assets/Assets/Test/SceneTest.png@6c48a",
@@ -3287,9 +3291,7 @@
   },
   "fa98795d-802b-4eab-a99f-638c21e60814": {
     "url": "db://assets/Assets/Textures/GameMap/红(拆分）.psd",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "fa98795d-802b-4eab-a99f-638c21e60814@6c48a": {
     "url": "db://assets/Assets/Textures/GameMap/红(拆分）.psd@6c48a",
@@ -3301,9 +3303,7 @@
   },
   "44a7e83b-e8fe-42d6-b255-7abca991a40a": {
     "url": "db://assets/Assets/Textures/GameMap/蓝(拆分）.psd",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "44a7e83b-e8fe-42d6-b255-7abca991a40a@6c48a": {
     "url": "db://assets/Assets/Textures/GameMap/蓝(拆分）.psd@6c48a",
@@ -3315,9 +3315,7 @@
   },
   "ae8b2c2d-0131-4a93-8ffc-5c33a87ee080": {
     "url": "db://assets/Assets/Textures/GameMap/黄(拆分）.psd",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "ae8b2c2d-0131-4a93-8ffc-5c33a87ee080@6c48a": {
     "url": "db://assets/Assets/Textures/GameMap/黄(拆分）.psd@6c48a",
@@ -3718,6 +3716,52 @@
     "value": {
       "depends": [
         "e864d582-d179-492a-a0c3-08dc452d387a"
+      ]
+    }
+  },
+  "03dd136a-74d5-4791-92de-e04dce15e421": {
+    "url": "db://assets/Assets/Textures/GameStart/Btn_GameStart.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "03dd136a-74d5-4791-92de-e04dce15e421@6c48a": {
+    "url": "db://assets/Assets/Textures/GameStart/Btn_GameStart.png@6c48a",
+    "value": {
+      "depends": [
+        "03dd136a-74d5-4791-92de-e04dce15e421"
+      ]
+    }
+  },
+  "03dd136a-74d5-4791-92de-e04dce15e421@f9941": {
+    "url": "db://assets/Assets/Textures/GameStart/Btn_GameStart.png@f9941",
+    "value": {
+      "depends": [
+        "03dd136a-74d5-4791-92de-e04dce15e421@6c48a"
+      ]
+    }
+  },
+  "bb66403f-2a19-403a-9896-8228f0328d90@f9941": {
+    "url": "db://assets/Assets/Textures/GameMap/DragMark1.png@f9941",
+    "value": {
+      "depends": [
+        "bb66403f-2a19-403a-9896-8228f0328d90@6c48a"
+      ]
+    }
+  },
+  "016df6ff-1d64-4b62-a8f6-8b785bda7255@f9941": {
+    "url": "db://assets/Assets/Textures/GameMap/DragMark3.png@f9941",
+    "value": {
+      "depends": [
+        "016df6ff-1d64-4b62-a8f6-8b785bda7255@6c48a"
+      ]
+    }
+  },
+  "4ff758ae-b930-4f6a-8d45-165ed0bc63ac@f9941": {
+    "url": "db://assets/Assets/Textures/GameMap/DragMark2.png@f9941",
+    "value": {
+      "depends": [
+        "4ff758ae-b930-4f6a-8d45-165ed0bc63ac@6c48a"
       ]
     }
   }
