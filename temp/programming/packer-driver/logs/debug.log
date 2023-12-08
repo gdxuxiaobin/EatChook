@@ -1,11 +1,11 @@
-debug: Fri, 08 Dec 2023 06:24:55 GMT
+debug: Fri, 08 Dec 2023 06:26:45 GMT
 debug: Project: D:\MyWorkspace\Heyyogame\EatChook\EatChook
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: D:\Program Files\CocosEditors\Creator\3.7.2\resources\resources\3d\engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 9.666900008916855ms.
+debug: Loading cache costs 1.1699999868869781ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,gfx-empty,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,light-probe,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline,websocket,websocket-server
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -14,7 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 7.687300011515617ms.
+debug: Loading cache costs 0.7497999966144562ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -46,12 +46,12 @@ debug: Our import map(foo:/bar): {
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 6.331699997186661ms.
+debug: Fetch asset-db cost: 4.730700001120567ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
 debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
@@ -82,15 +82,15 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
-debug: Target(editor) ends with cost 52.712600007653236ms.
+debug: Target(editor) ends with cost 53.03810000419617ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
 debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
@@ -120,25 +120,25 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
-debug: Target(preview) ends with cost 47.288599997758865ms.
+debug: Target(preview) ends with cost 45.97199998795986ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 1244.3864999860525ms.
+debug: Fetch asset-db cost: 1254.1498999893665ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 1
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 17.61710000038147ms.
+debug: Target(editor) ends with cost 19.348300009965897ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:13 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 18.66839998960495ms.
+debug: Target(preview) ends with cost 19.906200006604195ms.
