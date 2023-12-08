@@ -1,6 +1,18 @@
 {
   "chunks": {
-    "e61435655889656fbe773d7a4ee2a888f9b2a9ff": {
+    "883961ac0522932983e8777b99325a01706e55cd": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1701313428650
+    },
+    "86ea51a86e5d858891ef07385334b7b1017d7ca2": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
@@ -12,195 +24,211 @@
         "__unresolved_1": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+            "specifierOrURL": "cce:/internal/x/cc-fu/sorting"
           },
           "messages": []
         },
         "__unresolved_10": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+            "specifierOrURL": "cce:/internal/x/cc-fu/light-probe"
           },
           "messages": []
         },
         "__unresolved_11": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
           },
           "messages": []
         },
         "__unresolved_12": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
           },
           "messages": []
         },
         "__unresolved_13": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/physics-ammo"
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
           },
           "messages": []
         },
         "__unresolved_14": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
           },
           "messages": []
         },
         "__unresolved_15": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation"
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-ammo"
           },
           "messages": []
         },
         "__unresolved_16": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
           },
           "messages": []
         },
         "__unresolved_17": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+            "specifierOrURL": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation"
           },
           "messages": []
         },
         "__unresolved_18": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
           },
           "messages": []
         },
         "__unresolved_19": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
           },
           "messages": []
         },
         "__unresolved_2": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
           },
           "messages": []
         },
         "__unresolved_20": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
           },
           "messages": []
         },
         "__unresolved_21": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
           },
           "messages": []
         },
         "__unresolved_22": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
           },
           "messages": []
         },
         "__unresolved_23": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
           },
           "messages": []
         },
         "__unresolved_24": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
           },
           "messages": []
         },
         "__unresolved_25": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
           },
           "messages": []
         },
         "__unresolved_26": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/xr"
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        "__unresolved_27": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
           },
           "messages": []
         },
         "__unresolved_3": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
           },
           "messages": []
         },
         "__unresolved_4": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
           },
           "messages": []
         },
         "__unresolved_5": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
           },
           "messages": []
         },
         "__unresolved_6": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
           },
           "messages": []
         },
         "__unresolved_7": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
           },
           "messages": []
         },
         "__unresolved_8": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
           },
           "messages": []
         },
         "__unresolved_9": {
           "resolved": {
             "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
           },
           "messages": []
         }
       },
-      "timestamp": 1700713580049
+      "timestamp": 1702006355524
     },
-    "d0b5187750a9b5b49aadedeaf74328dc3edecc1c": {
-      "imports": {},
-      "timestamp": 1700713580063
+    "6b8f85b7feaee65395ce6b5e8080983e7f56d534": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "883961ac0522932983e8777b99325a01706e55cd"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1702006358565
     }
   },
   "entries": {
-    "cce:/internal/x/cc": "e61435655889656fbe773d7a4ee2a888f9b2a9ff",
-    "cce:/internal/x/prerequisite-imports": "d0b5187750a9b5b49aadedeaf74328dc3edecc1c"
+    "cce:/internal/x/cc": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
+    "cce:/internal/x/prerequisite-imports": "6b8f85b7feaee65395ce6b5e8080983e7f56d534",
+    "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "883961ac0522932983e8777b99325a01706e55cd"
   }
 }

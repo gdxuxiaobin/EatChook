@@ -51,6 +51,10 @@
     "url": "db://internal/physics",
     "value": {}
   },
+  "99317b62-549d-421a-9cd0-f575591bf3cd": {
+    "url": "db://internal/tools",
+    "value": {}
+  },
   "85f366b2-d149-4b14-aa1d-4634e3c28f69": {
     "url": "db://internal/chunks/builtin",
     "value": {}
@@ -93,6 +97,12 @@
   },
   "e0a8e34d-9242-4f0f-833b-f57e1ffbf285": {
     "url": "db://internal/default_file_content/animgraph",
+    "value": {
+      "depends": []
+    }
+  },
+  "eb9a3479-6087-45cb-82bc-d72e2aa6e9ef": {
+    "url": "db://internal/default_file_content/animgraphvari",
     "value": {
       "depends": []
     }
@@ -181,6 +191,12 @@
       "depends": []
     }
   },
+  "1d5e3139-1826-4b4a-8c4c-2e7b6874a474": {
+    "url": "db://internal/default_file_content/scene-quality",
+    "value": {
+      "depends": []
+    }
+  },
   "e7e9f9b7-58f3-44b4-b31c-7e7b0f601e92": {
     "url": "db://internal/default_file_content/stg",
     "value": {
@@ -251,20 +267,28 @@
     "url": "db://internal/default_prefab/ui",
     "value": {}
   },
-  "7318038e-8127-4c1b-9b93-e809f973ce6c": {
-    "url": "db://internal/effects/dcc",
+  "943258e0-bb7e-46a9-8995-31c983e3b692": {
+    "url": "db://internal/effects/advanced",
     "value": {}
   },
-  "fee95e8e-1d8c-4859-9b40-1cab8e5acbd6": {
-    "url": "db://internal/effects/editor",
+  "c183505b-b5a7-4984-b335-f0e72576ca78": {
+    "url": "db://internal/effects/for2d",
+    "value": {}
+  },
+  "0961841a-d572-45ff-af75-1a8f9c1a470c": {
+    "url": "db://internal/effects/internal",
+    "value": {}
+  },
+  "542f159e-9817-4290-8be0-3682570a3d7f": {
+    "url": "db://internal/effects/legacy",
+    "value": {}
+  },
+  "aa9d4d8a-579c-48e2-82d5-d97dddc28799": {
+    "url": "db://internal/effects/particles",
     "value": {}
   },
   "945524d6-2653-42b8-a8f7-c9deee89862f": {
     "url": "db://internal/effects/pipeline",
-    "value": {}
-  },
-  "943258e0-bb7e-46a9-8995-31c983e3b692": {
-    "url": "db://internal/effects/surfaces",
     "value": {}
   },
   "cb4eb4b7-2a23-4670-b4af-2e6275aa0e0d": {
@@ -371,6 +395,18 @@
     "url": "db://internal/chunks/surfaces/module-functions",
     "value": {}
   },
+  "f81bb320-88da-4db8-b210-75e4d7544f3e": {
+    "url": "db://internal/default_prefab/2d/ui",
+    "value": {}
+  },
+  "fee95e8e-1d8c-4859-9b40-1cab8e5acbd6": {
+    "url": "db://internal/effects/internal/editor",
+    "value": {}
+  },
+  "7318038e-8127-4c1b-9b93-e809f973ce6c": {
+    "url": "db://internal/effects/util/dcc",
+    "value": {}
+  },
   "2cf1e156-25bd-4e1c-8cda-d9f14512debf": {
     "url": "db://internal/chunks/shading-entries/main-functions/misc",
     "value": {}
@@ -459,6 +495,14 @@
     "url": "db://internal/chunks/legacy/output.chunk",
     "value": {}
   },
+  "fa7a90a4-9aa6-45b2-ad63-ec46c9826569": {
+    "url": "db://internal/chunks/legacy/sh-fs.chunk",
+    "value": {}
+  },
+  "ea51061e-deb7-48b9-a35a-c91be103f636": {
+    "url": "db://internal/chunks/legacy/sh-vs.chunk",
+    "value": {}
+  },
   "b2d386c6-615b-4375-accd-574405611e35": {
     "url": "db://internal/chunks/legacy/shading-cluster-additive.chunk",
     "value": {}
@@ -503,6 +547,10 @@
     "url": "db://internal/chunks/post-process/anti-aliasing.chunk",
     "value": {}
   },
+  "7dd16c65-64a1-48c0-a335-f613807810b4": {
+    "url": "db://internal/chunks/post-process/fxaa-hq.chunk",
+    "value": {}
+  },
   "0afb4a28-945f-48ac-91e5-6f483345f8ab": {
     "url": "db://internal/chunks/post-process/fxaa.chunk",
     "value": {}
@@ -513,6 +561,14 @@
   },
   "3adaa06a-e674-487c-9d49-42bc398c255b": {
     "url": "db://internal/chunks/builtin/functionalities/morph-animation.chunk",
+    "value": {}
+  },
+  "92ac3587-8a8c-4405-87b0-5cf026196c64": {
+    "url": "db://internal/chunks/builtin/functionalities/probe.chunk",
+    "value": {}
+  },
+  "c8728e39-6dca-4d22-a4ee-cc1aefb0198a": {
+    "url": "db://internal/chunks/builtin/functionalities/sh.chunk",
     "value": {}
   },
   "d4c26490-0a2d-4b6a-9a52-55b5741f18a4": {
@@ -599,6 +655,14 @@
     "url": "db://internal/chunks/builtin/uniforms/cc-morph.chunk",
     "value": {}
   },
+  "960cff1c-912a-47d1-a3d9-9a25a9568508": {
+    "url": "db://internal/chunks/builtin/uniforms/cc-reflection-probe.chunk",
+    "value": {}
+  },
+  "2c62fe23-f1f4-49f1-a08f-e5e6c650682f": {
+    "url": "db://internal/chunks/builtin/uniforms/cc-sh.chunk",
+    "value": {}
+  },
   "e8411010-e411-43ab-8f2e-4f4865dca4cf": {
     "url": "db://internal/chunks/builtin/uniforms/cc-shadow-map.chunk",
     "value": {}
@@ -639,12 +703,20 @@
     "url": "db://internal/chunks/common/effect/fog.chunk",
     "value": {}
   },
+  "a9f88e4b-6d43-4af4-8a58-f7d918adcb73": {
+    "url": "db://internal/chunks/common/effect/special-effects.chunk",
+    "value": {}
+  },
   "077cca29-6f66-4aad-a3a7-4f0a7ecd523f": {
     "url": "db://internal/chunks/common/lighting/attenuation.chunk",
     "value": {}
   },
   "3a85eafd-0fd0-468f-8a2e-0c81493230c7": {
     "url": "db://internal/chunks/common/lighting/brdf.chunk",
+    "value": {}
+  },
+  "5c21fcb9-179d-4081-99f8-b119f1e6176e": {
+    "url": "db://internal/chunks/common/lighting/bxdf.chunk",
     "value": {}
   },
   "d360c347-a546-4967-bdd3-30cae323f123": {
@@ -679,6 +751,10 @@
     "url": "db://internal/chunks/common/mesh/material.chunk",
     "value": {}
   },
+  "1f9087ef-e3eb-44f2-8520-cfb117e8d618": {
+    "url": "db://internal/chunks/common/mesh/vat-animation.chunk",
+    "value": {}
+  },
   "cac4ba94-f412-4899-83b1-ce035b0c09e0": {
     "url": "db://internal/chunks/common/shadow/native-pcf.chunk",
     "value": {}
@@ -689,6 +765,10 @@
   },
   "d26f7be9-ac7f-4dfd-88ee-6657dfe3426e": {
     "url": "db://internal/chunks/common/texture/texture-lod.chunk",
+    "value": {}
+  },
+  "47e68d9d-c7b2-4cdf-adf9-faaeff9cb61a": {
+    "url": "db://internal/chunks/common/texture/texture-misc.chunk",
     "value": {}
   },
   "2cdcf2a6-42f3-4142-a340-eabfe530ccbf": {
@@ -707,12 +787,28 @@
     "url": "db://internal/chunks/lighting-models/data-structures/lighting-intermediate-data.chunk",
     "value": {}
   },
+  "f5326068-1588-43b4-9f15-c190688fc7c0": {
+    "url": "db://internal/chunks/lighting-models/data-structures/lighting-misc-data.chunk",
+    "value": {}
+  },
   "7646cc74-5fcc-47c4-970b-5958505c17e5": {
     "url": "db://internal/chunks/lighting-models/data-structures/lighting-result.chunk",
     "value": {}
   },
   "9ada82f2-4c4e-433f-8090-e8bfad31fcf2": {
     "url": "db://internal/chunks/lighting-models/default-functions/simple-skin.chunk",
+    "value": {}
+  },
+  "eec6f0f1-607d-4613-9285-e5ab22a89e87": {
+    "url": "db://internal/chunks/lighting-models/default-functions/standard.chunk",
+    "value": {}
+  },
+  "6845eadb-c3d5-4485-9699-de3361cf7aaa": {
+    "url": "db://internal/chunks/lighting-models/default-functions/toon.chunk",
+    "value": {}
+  },
+  "e0e29596-7cc0-45b0-80bc-5193f81e818f": {
+    "url": "db://internal/chunks/lighting-models/includes/common.chunk",
     "value": {}
   },
   "cc12f5ac-3dcf-4455-aea9-b9be2dd9071e": {
@@ -725,6 +821,10 @@
   },
   "41c84281-f2e7-43e2-88bd-6ffcaf1daf5a": {
     "url": "db://internal/chunks/lighting-models/lighting-flow/common-flow.chunk",
+    "value": {}
+  },
+  "5e057755-d68b-41d1-b089-ed7f7f65f2b8": {
+    "url": "db://internal/chunks/lighting-models/model-functions/standard-common.chunk",
     "value": {}
   },
   "4c24618b-1e1d-40e4-883a-cd3fd2304233": {
@@ -879,109 +979,19 @@
     "url": "db://internal/chunks/shading-entries/main-functions/render-to-scene/pipeline/forward-fs.chunk",
     "value": {}
   },
-  "711ebe11-f673-4cd9-9a83-63c60ba54c5b": {
-    "url": "db://internal/effects/builtin-billboard.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "bf4078d6-d2d7-4073-83bb-cd6f1802e880": {
-    "url": "db://internal/effects/builtin-camera-texture.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "810e96e4-e456-4468-9b59-f4e8f39732c0": {
-    "url": "db://internal/effects/builtin-clear-stencil.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "ff9be190-20a4-4e48-b68c-76e3c7cff085": {
-    "url": "db://internal/effects/builtin-debug-renderer.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "4bb480dd-8384-4bc9-987f-de67cc53052a": {
-    "url": "db://internal/effects/builtin-geometry-renderer.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "1c02ae6f-4492-4915-b8f8-7492a3b1e4cd": {
-    "url": "db://internal/effects/builtin-graphics.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "d9937e59-61fe-4ec6-92ab-7ac5a19c89b0": {
-    "url": "db://internal/effects/builtin-occlusion-query.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "971bdb23-3ff6-43eb-b422-1c30165a3663": {
-    "url": "db://internal/effects/builtin-particle-gpu.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "17debcc3-0a6b-4b8a-b00b-dc58b885581e": {
-    "url": "db://internal/effects/builtin-particle-trail.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "e38f81af-70ec-4f7a-b377-767b0ec76377": {
-    "url": "db://internal/effects/builtin-particle-xr-trail.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "d1346436-ac96-4271-b863-1f4fdead95b0": {
-    "url": "db://internal/effects/builtin-particle.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "99498f84-efe6-43a6-a9a7-e6e93eb845c1": {
-    "url": "db://internal/effects/builtin-reflection-deferred.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "c27215d8-6835-4b68-bfbb-bdeac6100c04": {
-    "url": "db://internal/effects/builtin-spine.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "6ef1defe-7997-477a-9b35-c18859ff8066": {
-    "url": "db://internal/effects/builtin-sprite-renderer.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "60f7195c-ec2a-45eb-ba94-8955f60e81d0": {
-    "url": "db://internal/effects/builtin-sprite.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "1baf0fc9-befa-459c-8bdd-af1a450a0319": {
+  "c8f66d17-351a-48da-a12c-0212d28575c4": {
     "url": "db://internal/effects/builtin-standard.effect",
     "value": {
       "depends": []
     }
   },
-  "1d08ef62-a503-4ce2-8b9a-46c90873f7d3": {
+  "a0fd9f76-74fe-423c-92d9-298906c189ba": {
     "url": "db://internal/effects/builtin-terrain.effect",
     "value": {
       "depends": []
     }
   },
-  "a7612b54-35e3-4238-a1a9-4a7b54635839": {
+  "9b20a514-6cc3-49de-b216-b6b863046249": {
     "url": "db://internal/effects/builtin-toon.effect",
     "value": {
       "depends": []
@@ -993,80 +1003,134 @@
       "depends": []
     }
   },
+  "fc0ce5f8-063d-42da-b13a-2fad25abb951": {
+    "url": "db://internal/effects/advanced/hair.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "6308c013-7d49-4160-9516-562dd205b480": {
+    "url": "db://internal/effects/advanced/sky.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "113a72d8-20cd-42cd-ba96-37cc1046971a": {
+    "url": "db://internal/effects/advanced/water.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "c27215d8-6835-4b68-bfbb-bdeac6100c04": {
+    "url": "db://internal/effects/for2d/builtin-spine.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "6ef1defe-7997-477a-9b35-c18859ff8066": {
+    "url": "db://internal/effects/for2d/builtin-sprite-renderer.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "60f7195c-ec2a-45eb-ba94-8955f60e81d0": {
+    "url": "db://internal/effects/for2d/builtin-sprite.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf4078d6-d2d7-4073-83bb-cd6f1802e880": {
+    "url": "db://internal/effects/internal/builtin-camera-texture.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "810e96e4-e456-4468-9b59-f4e8f39732c0": {
+    "url": "db://internal/effects/internal/builtin-clear-stencil.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "ff9be190-20a4-4e48-b68c-76e3c7cff085": {
+    "url": "db://internal/effects/internal/builtin-debug-renderer.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "4bb480dd-8384-4bc9-987f-de67cc53052a": {
+    "url": "db://internal/effects/internal/builtin-geometry-renderer.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "1c02ae6f-4492-4915-b8f8-7492a3b1e4cd": {
+    "url": "db://internal/effects/internal/builtin-graphics.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9937e59-61fe-4ec6-92ab-7ac5a19c89b0": {
+    "url": "db://internal/effects/internal/builtin-occlusion-query.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "99498f84-efe6-43a6-a9a7-e6e93eb845c1": {
+    "url": "db://internal/effects/internal/builtin-reflection-deferred.effect",
+    "value": {
+      "depends": []
+    }
+  },
   "81127eb0-7556-453c-b147-670782dd5e53": {
-    "url": "db://internal/effects/builtin-wireframe.effect",
+    "url": "db://internal/effects/internal/builtin-wireframe.effect",
     "value": {
       "depends": []
     }
   },
-  "2ec11458-f855-4978-b14d-f3ed5cf697fa": {
-    "url": "db://internal/effects/dcc/imported-metallic-roughness.effect",
+  "1baf0fc9-befa-459c-8bdd-af1a450a0319": {
+    "url": "db://internal/effects/legacy/standard.effect",
     "value": {
       "depends": []
     }
   },
-  "f648964e-8d32-41fc-9ac9-7a1e714dd17b": {
-    "url": "db://internal/effects/dcc/imported-specular-glossiness.effect",
+  "1d08ef62-a503-4ce2-8b9a-46c90873f7d3": {
+    "url": "db://internal/effects/legacy/terrain.effect",
     "value": {
       "depends": []
     }
   },
-  "994bae8e-8bfc-4bc4-a32d-ad924f9917d0": {
-    "url": "db://internal/effects/dcc/surfaces-imported-metallic-roughness.effect",
+  "a7612b54-35e3-4238-a1a9-4a7b54635839": {
+    "url": "db://internal/effects/legacy/toon.effect",
     "value": {
       "depends": []
     }
   },
-  "5b7d6814-90a6-4d9f-b7fd-410dca9de957": {
-    "url": "db://internal/effects/dcc/surfaces-imported-specular-glossiness.effect",
+  "711ebe11-f673-4cd9-9a83-63c60ba54c5b": {
+    "url": "db://internal/effects/particles/builtin-billboard.effect",
     "value": {
       "depends": []
     }
   },
-  "9d6c6bde-2fe2-44ee-883b-909608948b04": {
-    "url": "db://internal/effects/editor/gizmo.effect",
+  "971bdb23-3ff6-43eb-b422-1c30165a3663": {
+    "url": "db://internal/effects/particles/builtin-particle-gpu.effect",
     "value": {
       "depends": []
     }
   },
-  "cb2c332a-fa5e-4235-a129-f011634bb7ad": {
-    "url": "db://internal/effects/editor/grid-2d.effect",
+  "17debcc3-0a6b-4b8a-b00b-dc58b885581e": {
+    "url": "db://internal/effects/particles/builtin-particle-trail.effect",
     "value": {
       "depends": []
     }
   },
-  "4736e978-c8fa-449f-9cf6-fe0158ded9d7": {
-    "url": "db://internal/effects/editor/grid-stroke.effect",
+  "e38f81af-70ec-4f7a-b377-767b0ec76377": {
+    "url": "db://internal/effects/particles/builtin-particle-xr-trail.effect",
     "value": {
       "depends": []
     }
   },
-  "ba35f02e-a81c-464c-bfc5-c788328da667": {
-    "url": "db://internal/effects/editor/grid.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "e4e4cb19-8dd2-450d-ad20-1a818263b8d3": {
-    "url": "db://internal/effects/editor/light.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "a3e72674-c38f-4336-a285-1826b1799cd7": {
-    "url": "db://internal/effects/editor/terrain-circle-brush.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "7a115de7-2d94-4620-8b89-766d7f8cbff9": {
-    "url": "db://internal/effects/editor/terrain-image-brush.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "9b4d3fa5-89bf-4715-b69a-dbbd1efaf6a5": {
-    "url": "db://internal/effects/editor/terrain-select-brush.effect",
+  "d1346436-ac96-4271-b863-1f4fdead95b0": {
+    "url": "db://internal/effects/particles/builtin-particle.effect",
     "value": {
       "depends": []
     }
@@ -1079,6 +1143,12 @@
   },
   "5d45aa00-e064-4938-b314-4265f0c2258c": {
     "url": "db://internal/effects/pipeline/deferred-lighting.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "2df0a40b-26c2-47ce-be0d-4d3cd4164737": {
+    "url": "db://internal/effects/pipeline/fxaa-hq.effect",
     "value": {
       "depends": []
     }
@@ -1113,30 +1183,6 @@
       "depends": []
     }
   },
-  "6308c013-7d49-4160-9516-562dd205b480": {
-    "url": "db://internal/effects/surfaces/sky.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "c8f66d17-351a-48da-a12c-0212d28575c4": {
-    "url": "db://internal/effects/surfaces/standard.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "a0fd9f76-74fe-423c-92d9-298906c189ba": {
-    "url": "db://internal/effects/surfaces/terrain.effect",
-    "value": {
-      "depends": []
-    }
-  },
-  "9b20a514-6cc3-49de-b216-b6b863046249": {
-    "url": "db://internal/effects/surfaces/toon.effect",
-    "value": {
-      "depends": []
-    }
-  },
   "f1556893-88b6-4c65-8c16-a5256ef3ad25": {
     "url": "db://internal/effects/util/batched-unlit.effect",
     "value": {
@@ -1160,6 +1206,82 @@
     "value": {
       "depends": []
     }
+  },
+  "084eba38-5336-4444-8c8c-aebb75d5c627": {
+    "url": "db://internal/effects/internal/editor/box-height-light.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d6c6bde-2fe2-44ee-883b-909608948b04": {
+    "url": "db://internal/effects/internal/editor/gizmo.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2c332a-fa5e-4235-a129-f011634bb7ad": {
+    "url": "db://internal/effects/internal/editor/grid-2d.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "4736e978-c8fa-449f-9cf6-fe0158ded9d7": {
+    "url": "db://internal/effects/internal/editor/grid-stroke.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba35f02e-a81c-464c-bfc5-c788328da667": {
+    "url": "db://internal/effects/internal/editor/grid.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "5967a800-25ad-4c00-9872-5c4ba7840d17": {
+    "url": "db://internal/effects/internal/editor/light-probe-visualization.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "e4e4cb19-8dd2-450d-ad20-1a818263b8d3": {
+    "url": "db://internal/effects/internal/editor/light.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "a3e72674-c38f-4336-a285-1826b1799cd7": {
+    "url": "db://internal/effects/internal/editor/terrain-circle-brush.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "7a115de7-2d94-4620-8b89-766d7f8cbff9": {
+    "url": "db://internal/effects/internal/editor/terrain-image-brush.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "9b4d3fa5-89bf-4715-b69a-dbbd1efaf6a5": {
+    "url": "db://internal/effects/internal/editor/terrain-select-brush.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "2ec11458-f855-4978-b14d-f3ed5cf697fa": {
+    "url": "db://internal/effects/util/dcc/imported-metallic-roughness.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "f648964e-8d32-41fc-9ac9-7a1e714dd17b": {
+    "url": "db://internal/effects/util/dcc/imported-specular-glossiness.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594": {
+    "url": "db://internal/tools/debug-view-runtime-control.ts",
+    "value": {}
   },
   "2be36297-9abb-4fee-8049-9ed5e271da8a": {
     "url": "db://internal/default-video.mp4",
@@ -1203,14 +1325,6 @@
       "depends": []
     }
   },
-  "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a": {
-    "url": "db://internal/default-terrain/default-layer-texture.jpg@6c48a",
-    "value": {
-      "depends": [
-        "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60"
-      ]
-    }
-  },
   "03721795-84b1-4dcd-8eb3-c8e6b88ee535@6c48a": {
     "url": "db://internal/default_cubemap/back.jpg@6c48a",
     "value": {
@@ -1225,14 +1339,16 @@
       "depends": []
     }
   },
-  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d": {
-    "url": "db://internal/default_cubemap/left.jpg",
+  "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a": {
+    "url": "db://internal/default-terrain/default-layer-texture.jpg@6c48a",
     "value": {
-      "depends": []
+      "depends": [
+        "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60"
+      ]
     }
   },
-  "80aabd92-9942-4765-b685-8577a1c88b4e": {
-    "url": "db://internal/default_cubemap/right.jpg",
+  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d": {
+    "url": "db://internal/default_cubemap/left.jpg",
     "value": {
       "depends": []
     }
@@ -1245,10 +1361,18 @@
       ]
     }
   },
-  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1": {
-    "url": "db://internal/default_cubemap/top.jpg",
+  "80aabd92-9942-4765-b685-8577a1c88b4e": {
+    "url": "db://internal/default_cubemap/right.jpg",
     "value": {
       "depends": []
+    }
+  },
+  "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665@6c48a": {
+    "url": "db://internal/default_cubemap/front.jpg@6c48a",
+    "value": {
+      "depends": [
+        "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665"
+      ]
     }
   },
   "e049bea9-db6b-463b-8502-61bf426357a1@6c48a": {
@@ -1259,12 +1383,10 @@
       ]
     }
   },
-  "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665@6c48a": {
-    "url": "db://internal/default_cubemap/front.jpg@6c48a",
+  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1": {
+    "url": "db://internal/default_cubemap/top.jpg",
     "value": {
-      "depends": [
-        "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665"
-      ]
+      "depends": []
     }
   },
   "78e0584a-4343-4727-8f37-e14e65c2a2db": {
@@ -1331,6 +1453,14 @@
       ]
     }
   },
+  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1@6c48a": {
+    "url": "db://internal/default_cubemap/top.jpg@6c48a",
+    "value": {
+      "depends": [
+        "6c895e98-967e-4a6d-8c08-bf6b035fa2c1"
+      ]
+    }
+  },
   "081cab31-dccd-428e-8652-f2404cc81c47": {
     "url": "db://internal/default_materials/default-trail-material.mtl",
     "value": {
@@ -1355,14 +1485,6 @@
       ]
     }
   },
-  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1@6c48a": {
-    "url": "db://internal/default_cubemap/top.jpg@6c48a",
-    "value": {
-      "depends": [
-        "6c895e98-967e-4a6d-8c08-bf6b035fa2c1"
-      ]
-    }
-  },
   "80aabd92-9942-4765-b685-8577a1c88b4e@6c48a": {
     "url": "db://internal/default_cubemap/right.jpg@6c48a",
     "value": {
@@ -1384,7 +1506,7 @@
     "url": "db://internal/default_materials/standard-material.mtl",
     "value": {
       "depends": [
-        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
       ]
     }
   },
@@ -1504,18 +1626,32 @@
       "depends": []
     }
   },
-  "24c419ea-63a8-4ea1-a9d0-7fc469489bbc": {
-    "url": "db://internal/default_ui/atom.png",
-    "value": {
-      "depends": []
-    }
-  },
   "86f25d5c-9de5-454f-a5f9-ee16603e6701": {
     "url": "db://internal/default_ui/atom.plist",
     "value": {
       "depends": [
         "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941"
       ]
+    }
+  },
+  "24c419ea-63a8-4ea1-a9d0-7fc469489bbc": {
+    "url": "db://internal/default_ui/atom.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e17b4526-57a2-48d3-acc9-cf09f30aa138": {
+    "url": "db://internal/default_ui/atom_new.plist",
+    "value": {
+      "depends": [
+        "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941"
+      ]
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@17020": {
+    "url": "db://internal/primitives.fbx@17020",
+    "value": {
+      "depends": []
     }
   },
   "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@6c48a": {
@@ -1526,10 +1662,17 @@
       ]
     }
   },
-  "951249e0-9f16-456d-8b85-a6ca954da16b": {
-    "url": "db://internal/default_ui/default_btn_disabled.png",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0",
     "value": {
-      "depends": []
+      "depends": [
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f"
+      ]
     }
   },
   "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941": {
@@ -1540,14 +1683,70 @@
       ]
     }
   },
+  "951249e0-9f16-456d-8b85-a6ca954da16b": {
+    "url": "db://internal/default_ui/default_btn_disabled.png",
+    "value": {
+      "depends": []
+    }
+  },
   "20835ba4-6145-4fbc-a58a-051ce700aa3e": {
     "url": "db://internal/default_ui/default_btn_normal.png",
     "value": {
       "depends": []
     }
   },
-  "1263d74c-8167-4928-91a6-4e2672411f47@17020": {
-    "url": "db://internal/primitives.fbx@17020",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@801ec": {
+    "url": "db://internal/primitives.fbx@801ec",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@2e76e": {
+    "url": "db://internal/primitives.fbx@2e76e",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@38fd2": {
+    "url": "db://internal/primitives.fbx@38fd2",
+    "value": {
+      "depends": []
+    }
+  },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a": {
+    "url": "db://internal/default_ui/default_btn_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e"
+      ]
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@40ece": {
+    "url": "db://internal/primitives.fbx@40ece",
     "value": {
       "depends": []
     }
@@ -1560,26 +1759,16 @@
       ]
     }
   },
-  "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a": {
-    "url": "db://internal/default_ui/default_btn_normal.png@6c48a",
-    "value": {
-      "depends": [
-        "20835ba4-6145-4fbc-a58a-051ce700aa3e"
-      ]
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@801ec": {
-    "url": "db://internal/primitives.fbx@801ec",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@e9a6d",
     "value": {
       "depends": []
     }
   },
-  "951249e0-9f16-456d-8b85-a6ca954da16b@f9941": {
-    "url": "db://internal/default_ui/default_btn_disabled.png@f9941",
+  "1263d74c-8167-4928-91a6-4e2672411f47@fc873": {
+    "url": "db://internal/primitives.fbx@fc873",
     "value": {
-      "depends": [
-        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a"
-      ]
+      "depends": []
     }
   },
   "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941": {
@@ -1596,75 +1785,24 @@
       "depends": []
     }
   },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
   "bd1bcaba-bd7d-4a71-b143-997c882383e4": {
     "url": "db://internal/default_ui/default_editbox_bg.png",
     "value": {
       "depends": []
     }
   },
-  "1263d74c-8167-4928-91a6-4e2672411f47@2e76e": {
-    "url": "db://internal/primitives.fbx@2e76e",
-    "value": {
-      "depends": []
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@38fd2": {
-    "url": "db://internal/primitives.fbx@38fd2",
-    "value": {
-      "depends": []
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0",
+  "951249e0-9f16-456d-8b85-a6ca954da16b@f9941": {
+    "url": "db://internal/default_ui/default_btn_disabled.png@f9941",
     "value": {
       "depends": [
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f"
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a"
       ]
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@40ece": {
-    "url": "db://internal/primitives.fbx@40ece",
-    "value": {
-      "depends": []
-    }
-  },
-  "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a": {
-    "url": "db://internal/default_ui/default_editbox_bg.png@6c48a",
-    "value": {
-      "depends": [
-        "bd1bcaba-bd7d-4a71-b143-997c882383e4"
-      ]
-    }
-  },
-  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a": {
-    "url": "db://internal/default_ui/default_btn_pressed.png@6c48a",
-    "value": {
-      "depends": [
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8"
-      ]
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@74afd",
-    "value": {
-      "depends": []
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@fc873": {
-    "url": "db://internal/primitives.fbx@fc873",
-    "value": {
-      "depends": []
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@8fd34",
-    "value": {
-      "depends": []
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@8abdc": {
@@ -1673,38 +1811,23 @@
       "depends": []
     }
   },
-  "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941": {
-    "url": "db://internal/default_ui/default_editbox_bg.png@f9941",
-    "value": {
-      "depends": [
-        "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a"
-      ]
-    }
-  },
-  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941": {
-    "url": "db://internal/default_ui/default_btn_pressed.png@f9941",
-    "value": {
-      "depends": [
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a"
-      ]
-    }
-  },
   "b730527c-3233-41c2-aaf7-7cdab58f9749": {
     "url": "db://internal/default_ui/default_panel.png",
     "value": {
       "depends": []
     }
   },
-  "24a704da-2867-446d-8d1a-5e920c75e09d": {
-    "url": "db://internal/default_ui/default_progressbar.png",
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0",
     "value": {
-      "depends": []
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@bb97f",
-    "value": {
-      "depends": []
+      "depends": [
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f"
+      ]
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@a804a": {
@@ -1721,23 +1844,10 @@
       ]
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@7d38f",
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@74afd",
     "value": {
       "depends": []
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0",
-    "value": {
-      "depends": [
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f",
-        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f"
-      ]
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@aae0f": {
@@ -1763,20 +1873,30 @@
       ]
     }
   },
-  "9fd900dd-221b-4f89-8f2c-fba34243c835": {
-    "url": "db://internal/default_ui/default_progressbar_bg.png",
+  "24a704da-2867-446d-8d1a-5e920c75e09d": {
+    "url": "db://internal/default_ui/default_progressbar.png",
     "value": {
       "depends": []
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@e9a6d",
+  "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a": {
+    "url": "db://internal/default_ui/default_editbox_bg.png@6c48a",
     "value": {
-      "depends": []
+      "depends": [
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4"
+      ]
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@74afd",
+  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a": {
+    "url": "db://internal/default_ui/default_btn_pressed.png@6c48a",
+    "value": {
+      "depends": [
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8"
+      ]
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@8fd34",
     "value": {
       "depends": []
     }
@@ -1789,34 +1909,36 @@
       ]
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@40c10",
-    "value": {
-      "depends": []
-    }
-  },
-  "f12a23c4-b924-4322-a260-3d982428f1e8": {
-    "url": "db://internal/default_ui/default_radio_button_off.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "24a704da-2867-446d-8d1a-5e920c75e09d@6c48a": {
-    "url": "db://internal/default_ui/default_progressbar.png@6c48a",
+  "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941": {
+    "url": "db://internal/default_ui/default_editbox_bg.png@f9941",
     "value": {
       "depends": [
-        "24a704da-2867-446d-8d1a-5e920c75e09d"
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a"
       ]
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@8fd34",
+  "9fd900dd-221b-4f89-8f2c-fba34243c835": {
+    "url": "db://internal/default_ui/default_progressbar_bg.png",
     "value": {
       "depends": []
     }
   },
   "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f": {
     "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941": {
+    "url": "db://internal/default_ui/default_btn_pressed.png@f9941",
+    "value": {
+      "depends": [
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a"
+      ]
+    }
+  },
+  "f12a23c4-b924-4322-a260-3d982428f1e8": {
+    "url": "db://internal/default_ui/default_radio_button_off.png",
     "value": {
       "depends": []
     }
@@ -1835,6 +1957,26 @@
       "depends": []
     }
   },
+  "24a704da-2867-446d-8d1a-5e920c75e09d@6c48a": {
+    "url": "db://internal/default_ui/default_progressbar.png@6c48a",
+    "value": {
+      "depends": [
+        "24a704da-2867-446d-8d1a-5e920c75e09d"
+      ]
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
   "24a704da-2867-446d-8d1a-5e920c75e09d@f9941": {
     "url": "db://internal/default_ui/default_progressbar.png@f9941",
     "value": {
@@ -1849,8 +1991,8 @@
       "depends": []
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@7d38f",
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@40c10",
     "value": {
       "depends": []
     }
@@ -1863,8 +2005,8 @@
       ]
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@e9a6d",
+  "28765e2f-040a-4c65-8e8c-f9d0bb79d863": {
+    "url": "db://internal/default_ui/default_scrollbar_bg.png",
     "value": {
       "depends": []
     }
@@ -1875,18 +2017,6 @@
       "depends": [
         "f12a23c4-b924-4322-a260-3d982428f1e8"
       ]
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@40c10",
-    "value": {
-      "depends": []
-    }
-  },
-  "28765e2f-040a-4c65-8e8c-f9d0bb79d863": {
-    "url": "db://internal/default_ui/default_scrollbar_bg.png",
-    "value": {
-      "depends": []
     }
   },
   "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941": {
@@ -1903,11 +2033,11 @@
       "depends": []
     }
   },
-  "f12a23c4-b924-4322-a260-3d982428f1e8@f9941": {
-    "url": "db://internal/default_ui/default_radio_button_off.png@f9941",
+  "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a": {
+    "url": "db://internal/default_ui/default_scrollbar.png@6c48a",
     "value": {
       "depends": [
-        "f12a23c4-b924-4322-a260-3d982428f1e8@6c48a"
+        "0da256a2-21f6-481b-90b6-d3643a09179b"
       ]
     }
   },
@@ -1919,20 +2049,6 @@
       ]
     }
   },
-  "ffb88a8f-af62-48f4-8f1d-3cb606443a43": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a": {
-    "url": "db://internal/default_ui/default_scrollbar.png@6c48a",
-    "value": {
-      "depends": [
-        "0da256a2-21f6-481b-90b6-d3643a09179b"
-      ]
-    }
-  },
   "28765e2f-040a-4c65-8e8c-f9d0bb79d863@6c48a": {
     "url": "db://internal/default_ui/default_scrollbar_bg.png@6c48a",
     "value": {
@@ -1941,11 +2057,25 @@
       ]
     }
   },
-  "45828f25-b50d-4c52-a591-e19491a62b8c@f9941": {
-    "url": "db://internal/default_ui/default_radio_button_on.png@f9941",
+  "f12a23c4-b924-4322-a260-3d982428f1e8@f9941": {
+    "url": "db://internal/default_ui/default_radio_button_off.png@f9941",
     "value": {
       "depends": [
-        "45828f25-b50d-4c52-a591-e19491a62b8c@6c48a"
+        "f12a23c4-b924-4322-a260-3d982428f1e8@6c48a"
+      ]
+    }
+  },
+  "ffb88a8f-af62-48f4-8f1d-3cb606443a43": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0da256a2-21f6-481b-90b6-d3643a09179b@f9941": {
+    "url": "db://internal/default_ui/default_scrollbar.png@f9941",
+    "value": {
+      "depends": [
+        "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a"
       ]
     }
   },
@@ -1955,19 +2085,11 @@
       "depends": []
     }
   },
-  "afc47931-f066-46b0-90be-9fe61f213428@6c48a": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical.png@6c48a",
+  "45828f25-b50d-4c52-a591-e19491a62b8c@f9941": {
+    "url": "db://internal/default_ui/default_radio_button_on.png@f9941",
     "value": {
       "depends": [
-        "afc47931-f066-46b0-90be-9fe61f213428"
-      ]
-    }
-  },
-  "0da256a2-21f6-481b-90b6-d3643a09179b@f9941": {
-    "url": "db://internal/default_ui/default_scrollbar.png@f9941",
-    "value": {
-      "depends": [
-        "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a"
+        "45828f25-b50d-4c52-a591-e19491a62b8c@6c48a"
       ]
     }
   },
@@ -1991,6 +2113,22 @@
       "depends": []
     }
   },
+  "afc47931-f066-46b0-90be-9fe61f213428@6c48a": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical.png@6c48a",
+    "value": {
+      "depends": [
+        "afc47931-f066-46b0-90be-9fe61f213428"
+      ]
+    }
+  },
+  "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43"
+      ]
+    }
+  },
   "afc47931-f066-46b0-90be-9fe61f213428@f9941": {
     "url": "db://internal/default_ui/default_scrollbar_vertical.png@f9941",
     "value": {
@@ -2005,11 +2143,11 @@
       "depends": []
     }
   },
-  "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@6c48a",
+  "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a": {
+    "url": "db://internal/default_ui/default_sprite_splash.png@6c48a",
     "value": {
       "depends": [
-        "ffb88a8f-af62-48f4-8f1d-3cb606443a43"
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca"
       ]
     }
   },
@@ -2018,14 +2156,6 @@
     "value": {
       "depends": [
         "57520716-48c8-4a19-8acf-41c9f8777fb0"
-      ]
-    }
-  },
-  "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a": {
-    "url": "db://internal/default_ui/default_sprite_splash.png@6c48a",
-    "value": {
-      "depends": [
-        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca"
       ]
     }
   },
@@ -2043,20 +2173,18 @@
       "depends": []
     }
   },
-  "158e7e52-3220-4cd7-9694-713e0e6e8278@6c48a": {
-    "url": "db://internal/default_ui/default_toggle_checkmark.png@6c48a",
-    "value": {
-      "depends": [
-        "158e7e52-3220-4cd7-9694-713e0e6e8278"
-      ]
-    }
-  },
   "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941": {
     "url": "db://internal/default_ui/default_sprite_splash.png@f9941",
     "value": {
       "depends": [
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a"
       ]
+    }
+  },
+  "a04e994f-ee49-47b6-9d08-2f59e3773fcc": {
+    "url": "db://internal/default_ui/default_toggle_pressed.png",
+    "value": {
+      "depends": []
     }
   },
   "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941": {
@@ -2067,16 +2195,18 @@
       ]
     }
   },
-  "a04e994f-ee49-47b6-9d08-2f59e3773fcc": {
-    "url": "db://internal/default_ui/default_toggle_pressed.png",
-    "value": {
-      "depends": []
-    }
-  },
   "bd373594-df84-486d-a34a-19d09ddaa973": {
     "url": "db://internal/gizmo/camera.png",
     "value": {
       "depends": []
+    }
+  },
+  "158e7e52-3220-4cd7-9694-713e0e6e8278@6c48a": {
+    "url": "db://internal/default_ui/default_toggle_checkmark.png@6c48a",
+    "value": {
+      "depends": [
+        "158e7e52-3220-4cd7-9694-713e0e6e8278"
+      ]
     }
   },
   "ca7e121b-293c-4763-829a-b7a5fa81f0d2@6c48a": {
@@ -2101,8 +2231,8 @@
       ]
     }
   },
-  "55052bc6-9909-43c1-b2fc-8818060fb069": {
-    "url": "db://internal/gizmo/particle-system.png",
+  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8": {
+    "url": "db://internal/gizmo/light-probe.png",
     "value": {
       "depends": []
     }
@@ -2131,6 +2261,34 @@
       ]
     }
   },
+  "55052bc6-9909-43c1-b2fc-8818060fb069": {
+    "url": "db://internal/gizmo/particle-system.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8@6c48a": {
+    "url": "db://internal/gizmo/light-probe.png@6c48a",
+    "value": {
+      "depends": [
+        "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8"
+      ]
+    }
+  },
+  "dee6f7cc-ba21-4091-948f-4f508495f260": {
+    "url": "db://internal/gizmo/reflection-probe.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@f9941": {
+    "url": "db://internal/default_ui/default_toggle_pressed.png@f9941",
+    "value": {
+      "depends": [
+        "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a"
+      ]
+    }
+  },
   "6d3bfb1f-604a-4fb3-9fd8-789862cc55e7": {
     "url": "db://internal/gizmo/scene-gizmo.mtl",
     "value": {
@@ -2143,6 +2301,14 @@
     "url": "db://internal/gizmo/sphere-light.png",
     "value": {
       "depends": []
+    }
+  },
+  "bd373594-df84-486d-a34a-19d09ddaa973@6c48a": {
+    "url": "db://internal/gizmo/camera.png@6c48a",
+    "value": {
+      "depends": [
+        "bd373594-df84-486d-a34a-19d09ddaa973"
+      ]
     }
   },
   "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941": {
@@ -2159,30 +2325,36 @@
       "depends": []
     }
   },
-  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@f9941": {
-    "url": "db://internal/default_ui/default_toggle_pressed.png@f9941",
-    "value": {
-      "depends": [
-        "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a"
-      ]
-    }
-  },
   "b9f47df4-b2f0-4270-bd8a-07bb344a8253": {
     "url": "db://internal/gizmo/webview.png",
     "value": {
       "depends": []
     }
   },
-  "bd373594-df84-486d-a34a-19d09ddaa973@6c48a": {
-    "url": "db://internal/gizmo/camera.png@6c48a",
+  "55052bc6-9909-43c1-b2fc-8818060fb069@6c48a": {
+    "url": "db://internal/gizmo/particle-system.png@6c48a",
     "value": {
       "depends": [
-        "bd373594-df84-486d-a34a-19d09ddaa973"
+        "55052bc6-9909-43c1-b2fc-8818060fb069"
       ]
     }
   },
   "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91": {
     "url": "db://internal/gizmo/x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "dee6f7cc-ba21-4091-948f-4f508495f260@6c48a": {
+    "url": "db://internal/gizmo/reflection-probe.png@6c48a",
+    "value": {
+      "depends": [
+        "dee6f7cc-ba21-4091-948f-4f508495f260"
+      ]
+    }
+  },
+  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301": {
+    "url": "db://internal/gizmo/y.png",
     "value": {
       "depends": []
     }
@@ -2195,8 +2367,8 @@
       ]
     }
   },
-  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301": {
-    "url": "db://internal/gizmo/y.png",
+  "389d5fee-e29c-4221-b397-a4934a0a5694": {
+    "url": "db://internal/gizmo/z.png",
     "value": {
       "depends": []
     }
@@ -2209,17 +2381,33 @@
       ]
     }
   },
-  "389d5fee-e29c-4221-b397-a4934a0a5694": {
-    "url": "db://internal/gizmo/z.png",
-    "value": {
-      "depends": []
-    }
+  "ba21476f-2866-4f81-9c4d-6e359316e448": {
+    "url": "db://internal/physics/default-physics-material.pmtl",
+    "value": {}
   },
   "191b676f-175b-41fa-8283-ac539875bfd8@6c48a": {
     "url": "db://internal/gizmo/spot-light.png@6c48a",
     "value": {
       "depends": [
         "191b676f-175b-41fa-8283-ac539875bfd8"
+      ]
+    }
+  },
+  "7f4ddeab-efa9-4b76-bf6a-029520f68461": {
+    "url": "db://internal/tools/debug-view-runtime-control.prefab",
+    "value": {
+      "depends": [
+        "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
+        "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
       ]
     }
   },
@@ -2231,16 +2419,10 @@
       ]
     }
   },
-  "ba21476f-2866-4f81-9c4d-6e359316e448": {
-    "url": "db://internal/physics/default-physics-material.pmtl",
-    "value": {}
-  },
-  "87c7bea4-faed-46d2-b01d-8d3f4dfb4666": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold.fnt",
+  "e6914174-8ecd-4c99-8e9b-9773a9d368df": {
+    "url": "db://internal/tools/parsed-effect-info.json",
     "value": {
-      "depends": [
-        "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941"
-      ]
+      "depends": []
     }
   },
   "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@f9941": {
@@ -2251,11 +2433,11 @@
       ]
     }
   },
-  "0e4dafe1-3c4f-4c6c-a771-ee17c40bba6f": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic.fnt",
+  "87c7bea4-faed-46d2-b01d-8d3f4dfb4666": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold.fnt",
     "value": {
       "depends": [
-        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941"
+        "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941"
       ]
     }
   },
@@ -2267,12 +2449,18 @@
       ]
     }
   },
-  "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a": {
-    "url": "db://internal/gizmo/z.png@6c48a",
+  "0e4dafe1-3c4f-4c6c-a771-ee17c40bba6f": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic.fnt",
     "value": {
       "depends": [
-        "389d5fee-e29c-4221-b397-a4934a0a5694"
+        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941"
       ]
+    }
+  },
+  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png",
+    "value": {
+      "depends": []
     }
   },
   "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@f9941": {
@@ -2283,10 +2471,18 @@
       ]
     }
   },
-  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png",
+  "c903a495-69a9-4bb1-8266-c5d8a692ee6f": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png",
     "value": {
       "depends": []
+    }
+  },
+  "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a": {
+    "url": "db://internal/gizmo/z.png@6c48a",
+    "value": {
+      "depends": [
+        "389d5fee-e29c-4221-b397-a4934a0a5694"
+      ]
     }
   },
   "389d5fee-e29c-4221-b397-a4934a0a5694@f9941": {
@@ -2295,12 +2491,6 @@
       "depends": [
         "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a"
       ]
-    }
-  },
-  "c903a495-69a9-4bb1-8266-c5d8a692ee6f": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png",
-    "value": {
-      "depends": []
     }
   },
   "92c25386-f55c-4016-b204-6ef59b156340": {
@@ -2317,19 +2507,19 @@
       "depends": []
     }
   },
-  "55052bc6-9909-43c1-b2fc-8818060fb069@6c48a": {
-    "url": "db://internal/gizmo/particle-system.png@6c48a",
-    "value": {
-      "depends": [
-        "55052bc6-9909-43c1-b2fc-8818060fb069"
-      ]
-    }
-  },
   "5716f722-8eba-466c-980d-652f561353d8": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Regular.fnt",
     "value": {
       "depends": [
         "744d520a-8483-4fbc-a47b-ab57d28d6203@f9941"
+      ]
+    }
+  },
+  "c903a495-69a9-4bb1-8266-c5d8a692ee6f@6c48a": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@6c48a",
+    "value": {
+      "depends": [
+        "c903a495-69a9-4bb1-8266-c5d8a692ee6f"
       ]
     }
   },
@@ -2341,22 +2531,42 @@
       ]
     }
   },
+  "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@f9941",
+    "value": {
+      "depends": [
+        "c903a495-69a9-4bb1-8266-c5d8a692ee6f@6c48a"
+      ]
+    }
+  },
   "744d520a-8483-4fbc-a47b-ab57d28d6203": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Regular_0.png",
     "value": {
       "depends": []
     }
   },
-  "c903a495-69a9-4bb1-8266-c5d8a692ee6f@6c48a": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@6c48a",
+  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@f9941",
     "value": {
       "depends": [
-        "c903a495-69a9-4bb1-8266-c5d8a692ee6f"
+        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a"
       ]
     }
   },
   "b5475517-23b9-4873-bc1a-968d96616081": {
     "url": "db://internal/default_fonts/builtin-freetype/OpenSans-Bold.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "b23391b6-52eb-46a6-8da1-6244d9d315fb": {
+    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttf",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ed97c56-390e-4dd1-96b7-e7f2d93a98ed": {
+    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-Italic.ttf",
     "value": {
       "depends": []
     }
@@ -2369,32 +2579,12 @@
       ]
     }
   },
-  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@f9941",
+  "1a8fc1a3-80e2-4d20-9087-426d2162ba44@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@f9941",
     "value": {
       "depends": [
-        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a"
+        "1a8fc1a3-80e2-4d20-9087-426d2162ba44@6c48a"
       ]
-    }
-  },
-  "b23391b6-52eb-46a6-8da1-6244d9d315fb": {
-    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttf",
-    "value": {
-      "depends": []
-    }
-  },
-  "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@f9941",
-    "value": {
-      "depends": [
-        "c903a495-69a9-4bb1-8266-c5d8a692ee6f@6c48a"
-      ]
-    }
-  },
-  "0ed97c56-390e-4dd1-96b7-e7f2d93a98ed": {
-    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-Italic.ttf",
-    "value": {
-      "depends": []
     }
   },
   "0835f102-5471-47a3-9a76-01c07ac9cdb2": {
@@ -2411,18 +2601,37 @@
       ]
     }
   },
-  "1a8fc1a3-80e2-4d20-9087-426d2162ba44@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@f9941",
-    "value": {
-      "depends": [
-        "1a8fc1a3-80e2-4d20-9087-426d2162ba44@6c48a"
-      ]
-    }
-  },
   "3487d118-0158-4983-93fe-c3822790e7c5": {
     "url": "db://internal/default_prefab/2d/Camera.prefab",
     "value": {
       "depends": []
+    }
+  },
+  "73ce1f7f-d1f4-4942-ad93-66ca3b3041ab": {
+    "url": "db://internal/default_prefab/3d/Capsule.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@801ec"
+      ]
+    }
+  },
+  "6350d660-e888-4acf-a552-f3b719ae9110": {
+    "url": "db://internal/default_prefab/3d/Cone.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@38fd2"
+      ]
+    }
+  },
+  "30da77a1-f02d-4ede-aa56-403452ee7fde": {
+    "url": "db://internal/default_prefab/3d/Cube.prefab",
+    "value": {
+      "depends": [
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ]
     }
   },
   "744d520a-8483-4fbc-a47b-ab57d28d6203@f9941": {
@@ -2433,38 +2642,11 @@
       ]
     }
   },
-  "73ce1f7f-d1f4-4942-ad93-66ca3b3041ab": {
-    "url": "db://internal/default_prefab/3d/Capsule.prefab",
-    "value": {
-      "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@801ec"
-      ]
-    }
-  },
-  "6350d660-e888-4acf-a552-f3b719ae9110": {
-    "url": "db://internal/default_prefab/3d/Cone.prefab",
-    "value": {
-      "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@38fd2"
-      ]
-    }
-  },
-  "30da77a1-f02d-4ede-aa56-403452ee7fde": {
-    "url": "db://internal/default_prefab/3d/Cube.prefab",
-    "value": {
-      "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
-      ]
-    }
-  },
   "ab3e16f9-671e-48a7-90b7-d0884d9cbb85": {
     "url": "db://internal/default_prefab/3d/Cylinder.prefab",
     "value": {
       "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
         "1263d74c-8167-4928-91a6-4e2672411f47@8abdc"
       ]
     }
@@ -2473,7 +2655,7 @@
     "url": "db://internal/default_prefab/3d/Plane.prefab",
     "value": {
       "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
         "1263d74c-8167-4928-91a6-4e2672411f47@2e76e"
       ]
     }
@@ -2482,7 +2664,7 @@
     "url": "db://internal/default_prefab/3d/Quad.prefab",
     "value": {
       "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
         "1263d74c-8167-4928-91a6-4e2672411f47@fc873"
       ]
     }
@@ -2491,7 +2673,7 @@
     "url": "db://internal/default_prefab/3d/Sphere.prefab",
     "value": {
       "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
         "1263d74c-8167-4928-91a6-4e2672411f47@17020"
       ]
     }
@@ -2500,7 +2682,7 @@
     "url": "db://internal/default_prefab/3d/Torus.prefab",
     "value": {
       "depends": [
-        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "620b6bf3-0369-4560-837f-2a2c00b73c26",
         "1263d74c-8167-4928-91a6-4e2672411f47@40ece"
       ]
     }
@@ -2516,6 +2698,18 @@
   },
   "a0e9756d-9128-4f49-8097-e041c8b733b8": {
     "url": "db://internal/default_prefab/light/Directional Light.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "50dfda40-7c45-4868-a876-2fe2a4c782f4": {
+    "url": "db://internal/default_prefab/light/Light Probe Group.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8b49b64-cfba-4cfa-be53-1e469547b28b": {
+    "url": "db://internal/default_prefab/light/Reflection Probe.prefab",
     "value": {
       "depends": []
     }
@@ -2610,7 +2804,7 @@
     "url": "db://internal/default_prefab/ui/ParticleSystem2D.prefab",
     "value": {
       "depends": [
-        "86f25d5c-9de5-454f-a5f9-ee16603e6701",
+        "e17b4526-57a2-48d3-acc9-cf09f30aa138",
         "24c419ea-63a8-4ea1-a9d0-7fc469489bbc@f9941",
         "f396261e-3e06-41ec-bdd6-9a8b6d99026f"
       ]
@@ -2744,6 +2938,14 @@
     "url": "db://internal/default_prefab/ui/Widget.prefab",
     "value": {
       "depends": []
+    }
+  },
+  "4c33600e-9ca9-483b-b734-946008261697": {
+    "url": "db://internal/default_prefab/2d/ui/Canvas.prefab",
+    "value": {
+      "depends": [
+        "f773db21-62b8-4540-956a-29bacf5ddbf5"
+      ]
     }
   }
 }

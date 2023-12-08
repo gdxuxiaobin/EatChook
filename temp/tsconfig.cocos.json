@@ -6,16 +6,16 @@
     "strict": true,
     "types": [
       "./temp/declarations/cc.custom-macro",
-      "./temp/declarations/cc",
       "./temp/declarations/jsb",
+      "./temp/declarations/cc",
       "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
-        "D:\\Program Files\\CocosEditors\\Creator\\3.6.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+        "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\*"
+        "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

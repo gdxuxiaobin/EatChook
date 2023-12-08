@@ -1,13 +1,18 @@
 {
   "path": {
-    "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\Eat_Jiya\\assets\\Font\\Font_Jiya.fnt": [
-      "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\Eat_Jiya\\assets\\Font\\Font_Jiya.png"
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas"
     ],
-    "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\Eat_Jiya\\assets\\Assets\\Font\\Font_Jiya.fnt": [
-      "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\Eat_Jiya\\assets\\Assets\\Font\\Font_Jiya.png"
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.fnt": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.png"
     ],
-    "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Assets\\Font\\Font_Jiya.fnt": [
-      "D:\\MyWorkspace\\Heyyogame\\Eat_Jiya\\EatChook\\assets\\Assets\\Font\\Font_Jiya.png"
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.fnt": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.png"
+    ]
+  },
+  "uuid": {
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": [
+      "18550397-4107-4a19-b681-8ffb2ca61657@6c48a"
     ]
   }
 }

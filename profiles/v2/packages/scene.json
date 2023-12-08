@@ -1,21 +1,23 @@
 {
-  "scene": {
-    "native": false
-  },
+  "__version__": "1.0.0",
+  "builder": {},
   "gizmos-infos": {
     "is2D": true,
     "is3DIcon": false,
     "iconSize": 2,
     "gridVisible": true,
     "gridColor": [
-      150,
-      150,
-      150,
+      166,
+      166,
+      166,
       255
     ],
     "isIconGizmo3D": false,
     "iconGizmoSize": 2,
     "isGridVisible": true
+  },
+  "": {
+    "sculpt_brush_rotate": 0
   },
   "camera": {
     "fov": 45,
@@ -38,8 +40,8 @@
   "camera-infos": {
     "f46876e4-e81b-4931-b493-6d367be385e7": {
       "position": {
-        "x": 269.06388125558874,
-        "y": 657.2370780810842,
+        "x": 0,
+        "y": 0,
         "z": 5000
       },
       "rotation": {
@@ -54,10 +56,10 @@
         "z": 0
       }
     },
-    "84353662-86c8-4c94-8e24-72af1db922a1": {
+    "f1ccb636-2ee7-4335-bb07-f0f429042000": {
       "position": {
-        "x": 5.309101576638113,
-        "y": 598.8792160832891,
+        "x": 478.9244882697292,
+        "y": 1018.1856958944624,
         "z": 5000
       },
       "rotation": {
@@ -74,7 +76,7 @@
     }
   },
   "camera-uuids": [
-    "84353662-86c8-4c94-8e24-72af1db922a1"
+    "f1ccb636-2ee7-4335-bb07-f0f429042000"
   ],
   "float-window": {
     "position": {
