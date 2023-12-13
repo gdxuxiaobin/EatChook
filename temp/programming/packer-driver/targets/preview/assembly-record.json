@@ -12,6 +12,30 @@
       },
       "timestamp": 1701313428650
     },
+    "5f2571230262f05325f674f27a8c4a531510df65": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1702452858535
+    },
+    "4f7bbfda0c2a8a5021a3eca95c3708402868dade": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1702454394840
+    },
     "86ea51a86e5d858891ef07385334b7b1017d7ca2": {
       "imports": {
         "__unresolved_0": {
@@ -211,19 +235,7 @@
           "messages": []
         }
       },
-      "timestamp": 1702448923489
-    },
-    "5f2571230262f05325f674f27a8c4a531510df65": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1702452858535
+      "timestamp": 1702462902360
     },
     "341ab3341f38daa5d6eb502f45f16e9d150576f5": {
       "imports": {
@@ -249,26 +261,14 @@
           "messages": []
         }
       },
-      "timestamp": 1702454394737
-    },
-    "4f7bbfda0c2a8a5021a3eca95c3708402868dade": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1702454394840
+      "timestamp": 1702462912362
     }
   },
   "entries": {
     "cce:/internal/x/cc": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
     "cce:/internal/x/prerequisite-imports": "341ab3341f38daa5d6eb502f45f16e9d150576f5",
     "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "883961ac0522932983e8777b99325a01706e55cd",
-    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "5f2571230262f05325f674f27a8c4a531510df65",
-    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "4f7bbfda0c2a8a5021a3eca95c3708402868dade"
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "4f7bbfda0c2a8a5021a3eca95c3708402868dade",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "5f2571230262f05325f674f27a8c4a531510df65"
   }
 }
