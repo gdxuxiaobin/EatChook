@@ -1,8 +1,10 @@
 {
   "imports": {
     "cce:/internal/x/cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js",
-    "cce:/internal/x/prerequisite-imports": "./chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js",
-    "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js"
+    "cce:/internal/x/prerequisite-imports": "./chunks/34/341ab3341f38daa5d6eb502f45f16e9d150576f5.js",
+    "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "./chunks/5f/5f2571230262f05325f674f27a8c4a531510df65.js",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "./chunks/4f/4f7bbfda0c2a8a5021a3eca95c3708402868dade.js"
   },
   "scopes": {
     "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js": {
@@ -35,10 +37,18 @@
       "__unresolved_8": "cce:/internal/x/cc-fu/gfx-webgl2",
       "__unresolved_9": "cce:/internal/x/cc-fu/intersection-2d"
     },
-    "./chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js": {
-      "__unresolved_0": "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js"
+    "./chunks/34/341ab3341f38daa5d6eb502f45f16e9d150576f5.js": {
+      "__unresolved_0": "./chunks/4f/4f7bbfda0c2a8a5021a3eca95c3708402868dade.js",
+      "__unresolved_1": "./chunks/5f/5f2571230262f05325f674f27a8c4a531510df65.js",
+      "__unresolved_2": "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js"
     },
     "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js": {
+      "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
+    },
+    "./chunks/5f/5f2571230262f05325f674f27a8c4a531510df65.js": {
+      "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
+    },
+    "./chunks/4f/4f7bbfda0c2a8a5021a3eca95c3708402868dade.js": {
       "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
     }
   }

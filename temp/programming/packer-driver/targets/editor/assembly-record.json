@@ -218,11 +218,37 @@
           "messages": []
         }
       },
-      "timestamp": 1702016805698
+      "timestamp": 1702448923342
     },
-    "48925ed89f58b0eff72f0ddf69b47c4b5e8f623a": {
+    "d54d041a8d2ec01953dc8b9b90a4528284ae6ab2": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cee638a986ad8fae09398db255647defcaa6612a"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1702452858323
+    },
+    "b04882f6528f528d23c15a1a07354592145c07ab": {
       "imports": {
         "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86a229c337246705c457bc2f819b7e042e7960d7"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d54d041a8d2ec01953dc8b9b90a4528284ae6ab2"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
           "resolved": {
             "type": "chunk",
             "id": "f9485cded029b324fa7a4df521bc82a44d68ba8e"
@@ -230,12 +256,26 @@
           "messages": []
         }
       },
-      "timestamp": 1702016808836
+      "timestamp": 1702454394596
+    },
+    "86a229c337246705c457bc2f819b7e042e7960d7": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cee638a986ad8fae09398db255647defcaa6612a"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1702454394712
     }
   },
   "entries": {
     "cce:/internal/x/cc": "cee638a986ad8fae09398db255647defcaa6612a",
-    "cce:/internal/x/prerequisite-imports": "48925ed89f58b0eff72f0ddf69b47c4b5e8f623a",
-    "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "f9485cded029b324fa7a4df521bc82a44d68ba8e"
+    "cce:/internal/x/prerequisite-imports": "b04882f6528f528d23c15a1a07354592145c07ab",
+    "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "f9485cded029b324fa7a4df521bc82a44d68ba8e",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "d54d041a8d2ec01953dc8b9b90a4528284ae6ab2",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "86a229c337246705c457bc2f819b7e042e7960d7"
   }
 }
