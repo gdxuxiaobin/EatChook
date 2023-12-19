@@ -36,6 +36,18 @@
       },
       "timestamp": 1702454394712
     },
+    "8e0c6ace5ca4a7b3c81a50356a9fa72c5540c364": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cee638a986ad8fae09398db255647defcaa6612a"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1702972824986
+    },
     "cee638a986ad8fae09398db255647defcaa6612a": {
       "imports": {
         "__unresolved_0": {
@@ -242,25 +254,32 @@
           "messages": []
         }
       },
-      "timestamp": 1702462902246
+      "timestamp": 1702977019931
     },
-    "b04882f6528f528d23c15a1a07354592145c07ab": {
+    "52c5783aa6cb269f6547b0da83ec062fe79b746b": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
             "type": "chunk",
-            "id": "86a229c337246705c457bc2f819b7e042e7960d7"
+            "id": "8e0c6ace5ca4a7b3c81a50356a9fa72c5540c364"
           },
           "messages": []
         },
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "d54d041a8d2ec01953dc8b9b90a4528284ae6ab2"
+            "id": "86a229c337246705c457bc2f819b7e042e7960d7"
           },
           "messages": []
         },
         "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d54d041a8d2ec01953dc8b9b90a4528284ae6ab2"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
           "resolved": {
             "type": "chunk",
             "id": "f9485cded029b324fa7a4df521bc82a44d68ba8e"
@@ -268,13 +287,14 @@
           "messages": []
         }
       },
-      "timestamp": 1702462912334
+      "timestamp": 1702977023277
     }
   },
   "entries": {
     "cce:/internal/x/cc": "cee638a986ad8fae09398db255647defcaa6612a",
-    "cce:/internal/x/prerequisite-imports": "b04882f6528f528d23c15a1a07354592145c07ab",
+    "cce:/internal/x/prerequisite-imports": "52c5783aa6cb269f6547b0da83ec062fe79b746b",
     "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "f9485cded029b324fa7a4df521bc82a44d68ba8e",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts": "8e0c6ace5ca4a7b3c81a50356a9fa72c5540c364",
     "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "86a229c337246705c457bc2f819b7e042e7960d7",
     "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "d54d041a8d2ec01953dc8b9b90a4528284ae6ab2"
   }

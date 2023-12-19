@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 11389.859700009227,
+      "mTimestamp": 5316.482300002128,
       "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
       "imports": [
         {
@@ -619,11 +619,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 21550.972400009632,
-      "chunkId": "b04882f6528f528d23c15a1a07354592145c07ab",
+      "mTimestamp": 8738.854899998754,
+      "chunkId": "52c5783aa6cb269f6547b0da83ec062fe79b746b",
       "imports": [
         {
-          "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts",
+          "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -632,41 +632,62 @@
             },
             "end": {
               "line": 5,
-              "column": 117
+              "column": 120
+            }
+          }
+        },
+        {
+          "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 136
+            },
+            "end": {
+              "line": 5,
+              "column": 218
             }
           }
         },
         {
           "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts",
-          "resolved": "__unresolved_1",
+          "resolved": "__unresolved_2",
           "loc": {
             "start": {
               "line": 5,
-              "column": 133
+              "column": 234
             },
             "end": {
               "line": 5,
-              "column": 216
+              "column": 317
             }
           }
         },
         {
           "value": "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
-          "resolved": "__unresolved_2",
+          "resolved": "__unresolved_3",
           "loc": {
             "start": {
               "line": 5,
-              "column": 232
+              "column": 333
             },
             "end": {
               "line": 5,
-              "column": 367
+              "column": 468
             }
           }
         }
       ],
       "type": "esm",
       "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts"
+          },
+          "messages": []
+        },
         {
           "resolved": {
             "type": "module",
@@ -817,6 +838,58 @@
             "end": {
               "line": 1,
               "column": 200
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts": {
+      "mTimestamp": {
+        "mtime": 1702536983964.4802,
+        "uuid": "ea4821e0-2acc-4bd5-8396-40f33252b75f"
+      },
+      "chunkId": "8e0c6ace5ca4a7b3c81a50356a9fa72c5540c364",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
             }
           }
         }

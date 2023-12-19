@@ -11,7 +11,7 @@
     "time": 1701313462781.5566
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets": {
-    "time": 1702376857791.2988,
+    "time": 1702968264417.5405,
     "uuid": "07220cfc-01ac-4c63-8f69-341ce8afa57b",
     "missing": false
   },
@@ -19,7 +19,7 @@
     "time": 1701313502825.038
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1702462969112.0498,
+    "time": 1702979097387.8635,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },
@@ -27,7 +27,7 @@
     "time": 1701316307809.4688
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character": {
-    "time": 1701316315923.1672,
+    "time": 1702969493526.5044,
     "uuid": "7417fc97-3ca4-44a9-bf9c-e10adf720914",
     "missing": false
   },
@@ -35,7 +35,7 @@
     "time": 1701316315927.157
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook": {
-    "time": 1702366404114.3694,
+    "time": 1702968870163.684,
     "uuid": "b182d173-cbaa-4dbf-90c9-580fd7244cea",
     "missing": false
   },
@@ -91,24 +91,16 @@
     "time": 1701834382465.4333
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain": {
-    "time": 1701834387384.857,
+    "time": 1702972959766.9854,
     "uuid": "4fbe4b98-6dec-40cd-8c85-a120bed9855a",
     "missing": false
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain1.png.meta": {
-    "time": 1701834392384.7268
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png.meta": {
-    "time": 1701834392382.731
+    "time": 1702972967924.2783
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain1.png": {
     "time": 1701312046271.9468,
     "uuid": "e5cb828f-f475-4e48-b501-9c7175217fb1",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png": {
-    "time": 1701312041298.233,
-    "uuid": "1b4095d0-461d-46da-9d79-933777c5fa77",
     "missing": false
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo.meta": {
@@ -475,7 +467,7 @@
     "time": 1701851689643.6868
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar": {
-    "time": 1702008801137.0188,
+    "time": 1702871430198.1484,
     "uuid": "eedbb424-45d5-443e-b8ee-845582bb89a4",
     "missing": false
   },
@@ -1279,38 +1271,6 @@
     "uuid": "03dd136a-74d5-4791-92de-e04dce15e421",
     "missing": false
   },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0.meta": {
-    "time": 1702366325849.9575
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0": {
-    "time": 1702367473098.4832,
-    "uuid": "b7137942-3fb3-4316-a854-f996b2f2713a",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.atlas.meta": {
-    "time": 1702366335577.4746
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.png.meta": {
-    "time": 1702366335656.6082
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.json.meta": {
-    "time": 1702366335641.119
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.atlas": {
-    "time": 1702367284884.6558,
-    "uuid": "03b24b4d-134f-4300-8372-5252d5fc5130",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.json": {
-    "time": 1702367284661.256,
-    "uuid": "20d00b11-61c4-436c-95ec-b31d1fce1d12",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.png": {
-    "time": 1702367284882.663,
-    "uuid": "707e4455-21ed-41b6-bac4-d1e33cc61e4f",
-    "missing": false
-  },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1.meta": {
     "time": 1702366404120.1543
   },
@@ -1347,16 +1307,8 @@
     "time": 1702373737855.344
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD": {
-    "time": 1702373786737.951,
+    "time": 1702977681209.2466,
     "uuid": "5aa54525-fb85-4f0f-aef7-5125a7b8af7d",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\hongkuan.png.meta": {
-    "time": 1702373745940.587
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\hongkuan.png": {
-    "time": 1702263502326.4685,
-    "uuid": "1fc87628-6d44-4db9-838c-3983f8238f39",
     "missing": false
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\GameTimeBG.png.meta": {
@@ -1435,7 +1387,7 @@
     "time": 1702376857798.8264
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Scr": {
-    "time": 1702453095463.483,
+    "time": 1702972824821.656,
     "uuid": "041e1e94-5cd2-4be9-97a6-39792b2470bb",
     "missing": false
   },
@@ -1525,6 +1477,430 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_ListBG2.png": {
     "time": 1702265218688.5632,
     "uuid": "d0194e14-74bb-4b05-9fb6-c058e67b01c2",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence.meta": {
+    "time": 1702871430212.1667
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence": {
+    "time": 1702871437458.3442,
+    "uuid": "054e7b41-8e12-40fe-b1cb-68cc50933bae",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck.meta": {
+    "time": 1702871437410.4807
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0001.png.meta": {
+    "time": 1702871458186.7786
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0002.png.meta": {
+    "time": 1702871458186.7786
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0003.png.meta": {
+    "time": 1702871458192.2786
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0004.png.meta": {
+    "time": 1702871458190.2761
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0005.png.meta": {
+    "time": 1702871458193.2754
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0006.png.meta": {
+    "time": 1702871458225.3066
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0007.png.meta": {
+    "time": 1702871458221.3147
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0008.png.meta": {
+    "time": 1702871458228.301
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0009.png.meta": {
+    "time": 1702871458229.91
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0010.png.meta": {
+    "time": 1702871458226.304
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck": {
+    "time": 1702871462848.7224,
+    "uuid": "0571f182-596a-48e0-b6a1-777003564668",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken.meta": {
+    "time": 1702871437597.8298
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0001.png.meta": {
+    "time": 1702871447284.4734
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0002.png.meta": {
+    "time": 1702871447284.4734
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0003.png.meta": {
+    "time": 1702871447286.4707
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0004.png.meta": {
+    "time": 1702871447288.4634
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0005.png.meta": {
+    "time": 1702871447285.471
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0006.png.meta": {
+    "time": 1702871447333.0881
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0007.png.meta": {
+    "time": 1702871447327.5525
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0008.png.meta": {
+    "time": 1702871447336.08
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0009.png.meta": {
+    "time": 1702871447332.0852
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0010.png.meta": {
+    "time": 1702871447338.0747
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0001.png": {
+    "time": 1702628421310.2632,
+    "uuid": "2d0124e6-a7a9-4fd6-9262-d7a27013ea2b",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0005.png": {
+    "time": 1702628421256.437,
+    "uuid": "4f8add43-27a7-446e-863b-b1ce65007da2",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0003.png": {
+    "time": 1702628421240.4775,
+    "uuid": "d821f763-4dfe-4748-b086-0bf6367f6b0d",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0002.png": {
+    "time": 1702628421318.2415,
+    "uuid": "5ee50f10-2333-4680-b117-71d57a0599ee",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0004.png": {
+    "time": 1702628421248.4287,
+    "uuid": "9a950bc4-2ca2-4b65-bdec-97febefb735b",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0009.png": {
+    "time": 1702628421292.311,
+    "uuid": "54973b22-1c19-43aa-ad96-8e532e399067",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0008.png": {
+    "time": 1702628421283.3357,
+    "uuid": "97309775-e1ad-486b-99f3-7779ae34f05b",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken": {
+    "time": 1702871466389.8157,
+    "uuid": "260a9cf1-e322-4b16-9abc-37d9080372ea",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0007.png": {
+    "time": 1702628421274.3594,
+    "uuid": "7b41e505-aee0-4d34-a244-a42788313973",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0010.png": {
+    "time": 1702628421301.2876,
+    "uuid": "ac3e4389-a34e-49fb-9ef5-763a05968ce4",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0006.png": {
+    "time": 1702628421265.408,
+    "uuid": "5624311f-2215-4af9-8301-22e46d9b127b",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0002.png": {
+    "time": 1702628518346.8462,
+    "uuid": "db5ca8e1-90b4-4d8d-b180-ddc30ba5f0d8",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0001.png": {
+    "time": 1702628518431.6482,
+    "uuid": "bbab409b-8d06-43b6-b198-8868553cc8da",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0003.png": {
+    "time": 1702628518355.8438,
+    "uuid": "06aff3fa-f9dd-4406-a7ee-8294559ac49d",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0004.png": {
+    "time": 1702628518364.7976,
+    "uuid": "2d3db98e-9dc1-4027-a2d2-1122d28485b2",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0005.png": {
+    "time": 1702628518373.7744,
+    "uuid": "f0cbbceb-2b5b-4a0f-b430-6d2bdceb9625",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0007.png": {
+    "time": 1702628518392.724,
+    "uuid": "c50583e7-b280-4cb7-8fbd-7aa6139bcbc4",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0006.png": {
+    "time": 1702628518381.781,
+    "uuid": "9e23ca6c-b794-45ef-9e3f-ff98ff6e9c4e",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0008.png": {
+    "time": 1702628518403.7224,
+    "uuid": "9b69a691-7a69-4d53-bfcc-8168c623dc36",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0009.png": {
+    "time": 1702628518414.6655,
+    "uuid": "bb1978b8-7ad5-479f-bc41-18dbf3616c84",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0010.png": {
+    "time": 1702628518423.6404,
+    "uuid": "3b496cd6-9ff9-42ff-91fc-f8f882acb997",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets.meta": {
+    "time": 1702959708561.472
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets": {
+    "time": 1702959719264.7627,
+    "uuid": "e095433f-88ed-43da-8f7d-928da153e13e",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets\\2108_Xiaoya8.atlas.meta": {
+    "time": 1702959719269.7954
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets\\2108_Xiaoya8.json.meta": {
+    "time": 1702959719343.8125
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets\\2108_Xiaoya8.png.meta": {
+    "time": 1702959719518.8452
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets\\2108_Xiaoya8.atlas": {
+    "time": 1702959392979.5254,
+    "uuid": "22670271-c2ae-40be-ab8c-86e575e6a104",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets\\2108_Xiaoya8.json": {
+    "time": 1702959391560.9973,
+    "uuid": "c20578bc-a84a-4749-b44d-5f9802867905",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\TextAssets\\2108_Xiaoya8.png": {
+    "time": 1702959392978.5222,
+    "uuid": "08db6a62-0e46-45d7-a000-2d834ca161e0",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims.meta": {
+    "time": 1702968264422.0479
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims": {
+    "time": 1702974307011.9175,
+    "uuid": "048ee0b0-ce22-461c-98f0-7c7209c3c17d",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck.meta": {
+    "time": 1702968867492.297
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck": {
+    "time": 1702968870163.684,
+    "uuid": "53266e16-e8a1-4dfa-9fac-80193d542c42",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0.meta": {
+    "time": 1702366325849.9575
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0": {
+    "time": 1702367473098.4832,
+    "uuid": "b7137942-3fb3-4316-a854-f996b2f2713a",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas.meta": {
+    "time": 1702366335577.4746
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas": {
+    "time": 1702367284884.6558,
+    "uuid": "03b24b4d-134f-4300-8372-5252d5fc5130",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json.meta": {
+    "time": 1702366335641.119
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": {
+    "time": 1702367284661.256,
+    "uuid": "20d00b11-61c4-436c-95ec-b31d1fce1d12",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.png.meta": {
+    "time": 1702366335656.6082
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.png": {
+    "time": 1702367284882.663,
+    "uuid": "707e4455-21ed-41b6-bac4-d1e33cc61e4f",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI.meta": {
+    "time": 1702968990398.934
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI": {
+    "time": 1702974372555.1406,
+    "uuid": "25f6e324-a6b9-4fd0-a152-2f00f9ddaeca",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart.meta": {
+    "time": 1702968283610.2437
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart": {
+    "time": 1702971520832.78,
+    "uuid": "4a3a0822-6eee-4ec8-a871-b5ec1b9af927",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json.meta": {
+    "time": 1702968572625.3735
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": {
+    "time": 1702971502309.6448,
+    "uuid": "90ee180a-cf0f-4e56-b492-65b214afa544",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas.meta": {
+    "time": 1702968572595.5415
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas": {
+    "time": 1702971503976.8171,
+    "uuid": "317af2aa-a108-4570-83df-fb35676c150d",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart_2.png.meta": {
+    "time": 1702968572748.0486
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart_2.png": {
+    "time": 1702971503972.884,
+    "uuid": "c47cba8e-465e-4cbe-ac9d-7eb852d96948",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.png.meta": {
+    "time": 1702968572878.42
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.png": {
+    "time": 1702971503773.1658,
+    "uuid": "11410dfb-7ebe-4574-b7ef-05e96238e658",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\ProgressBar.meta": {
+    "time": 1702969867805.6292
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\ProgressBar": {
+    "time": 1702970313342.9548,
+    "uuid": "40236c0d-08d4-4b84-85b4-a87ba133051a",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Chicken_animation.anim.meta": {
+    "time": 1702969867827.2822
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Chicken_animation.anim": {
+    "time": 1702978823304.3496,
+    "uuid": "4868957f-7007-4326-890e-805854c0bdc2",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Duck_animation.anim.meta": {
+    "time": 1702970313347.6882
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Duck_animation.anim": {
+    "time": 1702978829394.5276,
+    "uuid": "9d825948-1dbb-49d6-bb3d-225d464e825d",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Scr\\GameExplain.ts.meta": {
+    "time": 1702972824826.6675
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Scr\\GameExplain.ts": {
+    "time": 1702536983964.4802,
+    "uuid": "ea4821e0-2acc-4bd5-8396-40f33252b75f",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain3.png.meta": {
+    "time": 1702972967993.2935
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain4.png.meta": {
+    "time": 1702972967994.6038
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain4.png": {
+    "time": 1702452907865.0278,
+    "uuid": "e1e6be49-19d5-48a7-99f1-ab9a6a43e3c9",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain3.png": {
+    "time": 1702452897442.7788,
+    "uuid": "42487bd7-1dd4-4c57-9895-5b196fd4a653",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png.meta": {
+    "time": 1702972967983.796
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png": {
+    "time": 1701312041298.233,
+    "uuid": "22461279-bb3a-481f-8fe6-fc1dea524428",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI.meta": {
+    "time": 1702974296735.737
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI": {
+    "time": 1702974296729.5747,
+    "uuid": "f9842e5d-02bd-4898-bacc-464cef5144d2",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm.meta": {
+    "time": 1702974336599.1426
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm": {
+    "time": 1702977865867.0984,
+    "uuid": "8acf002a-2cea-45c6-a6a7-2a60f54c9835",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarm_animation.anim.meta": {
+    "time": 1702974417728.6587
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarm_animation.anim": {
+    "time": 1702978028076.7651,
+    "uuid": "20a5a0bb-e7a2-465a-a95c-4410c82a8346",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm.meta": {
+    "time": 1702977677538.4292
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm": {
+    "time": 1702977693966.3562,
+    "uuid": "54258884-bff2-4b1e-bb0f-5be1fb442199",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm.png.meta": {
+    "time": 1702973286928.7769
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm.png": {
+    "time": 1702977659527.9868,
+    "uuid": "1fc87628-6d44-4db9-838c-3983f8238f39",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm_LabelDown.png.meta": {
+    "time": 1702975619023.9055
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm_LabelDown.png": {
+    "time": 1702975201663.4558,
+    "uuid": "b7b29c8e-b833-45d5-9a63-19862b6e268c",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarmLabel_animation.anim.meta": {
+    "time": 1702977865869.6057
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarmLabel_animation.anim": {
+    "time": 1702977920378.7976,
+    "uuid": "df45e4e8-69dd-43e7-b470-87016724cfc7",
     "missing": false
   }
 }
