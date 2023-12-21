@@ -19,7 +19,7 @@
     "time": 1701313502825.038
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1702979097387.8635,
+    "time": 1703130896801.0173,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },
@@ -979,7 +979,7 @@
     "time": 1702000211898.4062
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap": {
-    "time": 1702016369611.1128,
+    "time": 1703130412890.1987,
     "uuid": "40f0adfc-0a8b-4693-bf36-ea39f10c3287",
     "missing": false
   },
@@ -1133,30 +1133,6 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Down.png": {
     "time": 1702005698988.712,
     "uuid": "7d460004-baa4-4804-984c-f3e4bdb91ff7",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark1.png.meta": {
-    "time": 1702016363909.932
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark2.png.meta": {
-    "time": 1702016363913.458
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark3.png.meta": {
-    "time": 1702016363910.9287
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark1.png": {
-    "time": 1702002170678.58,
-    "uuid": "bb66403f-2a19-403a-9896-8228f0328d90",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark2.png": {
-    "time": 1702002223755.4697,
-    "uuid": "4ff758ae-b930-4f6a-8d45-165ed0bc63ac",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark3.png": {
-    "time": 1702002198932.2434,
-    "uuid": "016df6ff-1d64-4b62-a8f6-8b785bda7255",
     "missing": false
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Prefab0.prefab.meta": {
@@ -1901,6 +1877,22 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarmLabel_animation.anim": {
     "time": 1702977920378.7976,
     "uuid": "df45e4e8-69dd-43e7-b470-87016724cfc7",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark1.png.meta": {
+    "time": 1703130706905.3667
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark2.png.meta": {
+    "time": 1703130713640.9956
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark1.png": {
+    "time": 1703130250406.398,
+    "uuid": "5bbddc6d-5237-4a23-8bb8-27c2db294e72",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark2.png": {
+    "time": 1703130234293.6995,
+    "uuid": "8ba51753-8560-47eb-adfc-982a436da73e",
     "missing": false
   }
 }
