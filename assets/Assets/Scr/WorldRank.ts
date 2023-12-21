@@ -1,5 +1,5 @@
 import { _decorator, assetManager, CCBoolean, CCString, Component, find, ImageAsset, instantiate, Label, Layout, Node, Prefab, profiler, ScrollView, Sprite, SpriteFrame, Texture2D, Vec2, Vec3 } from 'cc';
-import { Sleep } from '../Scripts/Util/Util';
+// import { Sleep } from '../Scripts/Util/Util';
 const { ccclass, property } = _decorator;
 /**
  * 世界排行榜

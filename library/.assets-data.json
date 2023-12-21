@@ -19,7 +19,10 @@
         "5bbddc6d-5237-4a23-8bb8-27c2db294e72@f9941",
         "5bbddc6d-5237-4a23-8bb8-27c2db294e72@f9941",
         "03dd136a-74d5-4791-92de-e04dce15e421@f9941",
+        "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@f9941",
         "bcc27884-88e6-4b54-9ec5-60b2e77f6dc3@f9941",
+        "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@f9941",
+        "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@f9941",
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
@@ -5002,6 +5005,32 @@
     "value": {
       "depends": [
         "8ba51753-8560-47eb-adfc-982a436da73e@6c48a"
+      ]
+    }
+  },
+  "6accbcab-56e6-47a7-b778-8ac7564b45ba": {
+    "url": "db://assets/Assets/Textures/Character",
+    "value": {}
+  },
+  "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6": {
+    "url": "db://assets/Assets/Textures/Character/CharacterShadow.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@6c48a": {
+    "url": "db://assets/Assets/Textures/Character/CharacterShadow.png@6c48a",
+    "value": {
+      "depends": [
+        "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6"
+      ]
+    }
+  },
+  "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@f9941": {
+    "url": "db://assets/Assets/Textures/Character/CharacterShadow.png@f9941",
+    "value": {
+      "depends": [
+        "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@6c48a"
       ]
     }
   }

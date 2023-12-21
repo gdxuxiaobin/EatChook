@@ -12,18 +12,6 @@
       },
       "timestamp": 1701313428650
     },
-    "5f2571230262f05325f674f27a8c4a531510df65": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1702452858535
-    },
     "4f7bbfda0c2a8a5021a3eca95c3708402868dade": {
       "imports": {
         "cc": {
@@ -247,7 +235,7 @@
           "messages": []
         }
       },
-      "timestamp": 1703128922670
+      "timestamp": 1703132632100
     },
     "e690d8d21c3264f88cef1049bc05ae341c5f161a": {
       "imports": {
@@ -268,7 +256,7 @@
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "5f2571230262f05325f674f27a8c4a531510df65"
+            "id": "832d45256fd842756ffe3c1e37c9d9822c71fa9d"
           },
           "messages": []
         },
@@ -280,7 +268,19 @@
           "messages": []
         }
       },
-      "timestamp": 1703128933521
+      "timestamp": 1703132699243
+    },
+    "832d45256fd842756ffe3c1e37c9d9822c71fa9d": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1703132699335
     }
   },
   "entries": {
@@ -289,6 +289,6 @@
     "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "883961ac0522932983e8777b99325a01706e55cd",
     "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts": "c2ae9e78febf79a304f09bdfc7ca1f3606d2d921",
     "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "4f7bbfda0c2a8a5021a3eca95c3708402868dade",
-    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "5f2571230262f05325f674f27a8c4a531510df65"
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "832d45256fd842756ffe3c1e37c9d9822c71fa9d"
   }
 }
