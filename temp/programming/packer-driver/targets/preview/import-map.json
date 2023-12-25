@@ -4,8 +4,8 @@
     "cce:/internal/x/prerequisite-imports": "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js",
     "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js",
     "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts": "./chunks/c2/c2ae9e78febf79a304f09bdfc7ca1f3606d2d921.js",
-    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "./chunks/4f/4f7bbfda0c2a8a5021a3eca95c3708402868dade.js",
-    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "./chunks/83/832d45256fd842756ffe3c1e37c9d9822c71fa9d.js"
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts": "./chunks/83/832d45256fd842756ffe3c1e37c9d9822c71fa9d.js",
+    "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts": "./chunks/73/737c769328c86a2e100c07f9e9abaaa90b2dbe1f.js"
   },
   "scopes": {
     "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js": {
@@ -40,7 +40,7 @@
     },
     "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js": {
       "__unresolved_0": "./chunks/c2/c2ae9e78febf79a304f09bdfc7ca1f3606d2d921.js",
-      "__unresolved_1": "./chunks/4f/4f7bbfda0c2a8a5021a3eca95c3708402868dade.js",
+      "__unresolved_1": "./chunks/73/737c769328c86a2e100c07f9e9abaaa90b2dbe1f.js",
       "__unresolved_2": "./chunks/83/832d45256fd842756ffe3c1e37c9d9822c71fa9d.js",
       "__unresolved_3": "./chunks/88/883961ac0522932983e8777b99325a01706e55cd.js"
     },
@@ -50,7 +50,7 @@
     "./chunks/83/832d45256fd842756ffe3c1e37c9d9822c71fa9d.js": {
       "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
     },
-    "./chunks/4f/4f7bbfda0c2a8a5021a3eca95c3708402868dade.js": {
+    "./chunks/73/737c769328c86a2e100c07f9e9abaaa90b2dbe1f.js": {
       "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
     },
     "./chunks/c2/c2ae9e78febf79a304f09bdfc7ca1f3606d2d921.js": {

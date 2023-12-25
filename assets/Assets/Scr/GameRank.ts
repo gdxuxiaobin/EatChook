@@ -40,10 +40,10 @@ class GameRank_Ranking {
     Liansheng: Label
     @property({ type: Label, displayName: `获得连胜` })
     GetLiansheng: Label
-    @property({ type: Node, displayName: `鸡的标志` })
-    ChickenSign: Node
-    @property({ type: Node, displayName: `鸭的标志` })
-    DuckSign: Node
+    @property({ type: [Node], displayName: `鸡的标志` })
+    ChickenSign: Node[] = []
+    @property({ type: [Node], displayName: `鸭的标志` })
+    DuckSign: Node[] = []
 }
 @ccclass('GameRank')
 export class GameRank extends Component {
@@ -140,11 +140,11 @@ export class GameRank extends Component {
             this.GameRank_Ranking[i].GetLiansheng.string = `(${players[i].getLiansheng < 0 ? `` : `+`}${players[i].getLiansheng})`
             this.GameRank_Ranking[i].GetScore.string = `+${players[i].getScore < 100000 ? players[i].getScore : Math.floor(players[i].getScore / 10000) + `万`}`
             if (players[i].player_type == 0) {
-                this.GameRank_Ranking[i].ChickenSign.active = true
-                this.GameRank_Ranking[i].DuckSign.active = false
+                this.GameRank_Ranking[i].ChickenSign.forEach( (item)=>{ item.active = true} )
+                this.GameRank_Ranking[i].DuckSign.forEach( (item)=>{ item.active = false} )
             } else {
-                this.GameRank_Ranking[i].ChickenSign.active = false
-                this.GameRank_Ranking[i].DuckSign.active = true
+                this.GameRank_Ranking[i].ChickenSign.forEach( (item)=>{ item.active = false} )
+                this.GameRank_Ranking[i].DuckSign.forEach( (item)=>{ item.active = true} )
             }
         }
         if (players.length <= 3) { return }
@@ -192,8 +192,8 @@ export class GameRank extends Component {
         Item.Liansheng.string = ``
         Item.GetLiansheng.string = ``
         Item.GetScore.string = ``
-        Item.ChickenSign.active = false
-        Item.DuckSign.active = false
+        Item.ChickenSign.forEach( (item)=>{ item.active = false} )
+        Item.DuckSign.forEach( (item)=>{ item.active = false} )
     }
 
     ClickWorldRank() {

@@ -26,6 +26,29 @@
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.fnt": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.png"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI\\GameEnd.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI\\GameEnd.atlas"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect": [
+      "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas"
     ]
   },
   "uuid": {
@@ -55,6 +78,26 @@
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": [
       "11410dfb-7ebe-4574-b7ef-05e96238e658@6c48a",
       "c47cba8e-465e-4cbe-ac9d-7eb852d96948@6c48a"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI\\GameEnd.json": [
+      "9b6087c7-73d3-4aec-a723-a7038c22b055@6c48a"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": [
+      "9b6087c7-73d3-4aec-a723-a7038c22b055@6c48a"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.mtl": [
+      "108341c8-795d-487f-99af-e351f75732d9"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-001.mtl": [
+      "108341c8-795d-487f-99af-e351f75732d9",
+      "1f17eb80-c9b6-45b5-8233-923c78be492e",
+      "2cfc5bd3-7729-4e83-bafc-9dae980080b8"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-002.mtl": [
+      "108341c8-795d-487f-99af-e351f75732d9"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-003.mtl": [
+      "108341c8-795d-487f-99af-e351f75732d9"
     ]
   }
 }
