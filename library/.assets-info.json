@@ -19,7 +19,7 @@
     "time": 1701313502825.038
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1703498583248.33,
+    "time": 1703500341903.3406,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },
@@ -939,7 +939,7 @@
     "time": 1701917347103.9646
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Prefab\\GameUI\\WorldRank\\WorldRank_PlayerPrefab.prefab": {
-    "time": 1703495217761.8748,
+    "time": 1703500332881.5747,
     "uuid": "e2baeafb-9b4f-4ca7-8ad0-70a3940620c6",
     "missing": false
   },
@@ -1027,7 +1027,7 @@
     "time": 1702000395728.4172
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Prefab\\GameMap": {
-    "time": 1702003841361.2715,
+    "time": 1703499639335.7573,
     "uuid": "00258fc0-5f75-4b1b-bb82-29f63bef4ce3",
     "missing": false
   },
@@ -1211,7 +1211,7 @@
     "time": 1702008451833.1514
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd": {
-    "time": 1703485208993.2693,
+    "time": 1703500273994.4983,
     "uuid": "70bef5a8-b67d-4efc-ac0b-ecc417ca075a",
     "missing": false
   },
@@ -1935,22 +1935,6 @@
     "uuid": "9b6087c7-73d3-4aec-a723-a7038c22b055",
     "missing": false
   },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\Food_Gouqidunji_Icon.png.meta": {
-    "time": 1703474511181.586
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\Food_Gouqidunji_Title.png.meta": {
-    "time": 1703474511125.9395
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\Food_Gouqidunji_Icon.png": {
-    "time": 1702953148113.0425,
-    "uuid": "54c34405-b956-46df-86c7-9039aa76d099",
-    "missing": false
-  },
-  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\Food_Gouqidunji_Title.png": {
-    "time": 1702953075238.1355,
-    "uuid": "bbe186f9-0ebe-4ee7-b557-c98a79e7b473",
-    "missing": false
-  },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke.meta": {
     "time": 1703477331043.6953
   },
@@ -2309,6 +2293,62 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity.png": {
     "time": 1701842480189.3904,
     "uuid": "5f40511a-b1fd-40dd-9d5f-423ba05793b6",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Scaleplate_Prefab.prefab.meta": {
+    "time": 1703499639342.7773
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Scaleplate_Prefab.prefab": {
+    "time": 1703499639341.2578,
+    "uuid": "cf427a84-da49-47a3-a3e5-fbaec5cac4b3",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood.meta": {
+    "time": 1703500250313.5203
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood": {
+    "time": 1703500263487.2034,
+    "uuid": "0b01b466-2bd9-4f7f-90e2-bd69ed84692a",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Title.png.meta": {
+    "time": 1703474511125.9395
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Title.png": {
+    "time": 1702953075238.1355,
+    "uuid": "bbe186f9-0ebe-4ee7-b557-c98a79e7b473",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Icon.png.meta": {
+    "time": 1703474511181.586
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Icon.png": {
+    "time": 1702953148113.0425,
+    "uuid": "54c34405-b956-46df-86c7-9039aa76d099",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood.meta": {
+    "time": 1703500273999.488
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood": {
+    "time": 1703500278178.637,
+    "uuid": "9ef41b2f-007f-4e80-a9ee-c819bc355069",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Title.png.meta": {
+    "time": 1703500282331.2761
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Icon.png.meta": {
+    "time": 1703500282400.0093
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Title.png": {
+    "time": 1703499035118.4644,
+    "uuid": "8798da3c-6398-421b-acfe-49403c98872a",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Icon.png": {
+    "time": 1703499098107.967,
+    "uuid": "6da35edd-c199-4599-998f-896dd65a74b8",
     "missing": false
   }
 }

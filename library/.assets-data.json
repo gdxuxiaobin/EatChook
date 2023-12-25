@@ -14,12 +14,11 @@
         "f1ccb636-2ee7-4335-bb07-f0f429042000",
         "5d811b57-47b2-4a7c-88e6-2533b5e767a5",
         "7c800a15-a358-4303-b575-990024cab692",
+        "cf427a84-da49-47a3-a3e5-fbaec5cac4b3",
         "8ba51753-8560-47eb-adfc-982a436da73e@f9941",
         "8ba51753-8560-47eb-adfc-982a436da73e@f9941",
         "5bbddc6d-5237-4a23-8bb8-27c2db294e72@f9941",
         "5bbddc6d-5237-4a23-8bb8-27c2db294e72@f9941",
-        "cf663684-1ae8-4bcd-836e-c559c8c81de4",
-        "53f744aa-ab3b-43e6-bf43-87f88ec08476@f9941",
         "03dd136a-74d5-4791-92de-e04dce15e421@f9941",
         "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6@f9941",
         "bcc27884-88e6-4b54-9ec5-60b2e77f6dc3@f9941",
@@ -152,7 +151,7 @@
         "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
         "a2a6b39b-c47a-4363-bf74-30d8c3c0f96c@f9941",
         "0a00f4a2-7acb-41dd-a5e0-ec1af517124f@f9941",
-        "66fe2945-f7a9-4f63-85a7-6dd98b608ad2@f9941",
+        "18aa7777-fbae-4192-a0d3-6883921ae65c@f9941",
         "1149be4b-b8f8-4e61-92c3-bae9554ffffb",
         "5c572f26-4955-4ad4-8fdd-f6a265ae5a1d",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
@@ -185,8 +184,6 @@
         "4da907b8-ad65-4f44-9c2c-9a2b5aedf2ba@f9941",
         "ca46870e-14a4-4646-87cc-edf94fe6b051@f9941",
         "e2baeafb-9b4f-4ca7-8ad0-70a3940620c6",
-        "925fff1f-58ee-4a0b-9e9c-07be65a1265d@f9941",
-        "925fff1f-58ee-4a0b-9e9c-07be65a1265d@f9941",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
         "f1ccb636-2ee7-4335-bb07-f0f429042000",
@@ -5291,13 +5288,13 @@
     }
   },
   "54c34405-b956-46df-86c7-9039aa76d099": {
-    "url": "db://assets/Assets/Textures/GameUI/GameEnd/Food_Gouqidunji_Icon.png",
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood/Food_Gouqidunji_Icon.png",
     "value": {
       "depends": []
     }
   },
   "54c34405-b956-46df-86c7-9039aa76d099@6c48a": {
-    "url": "db://assets/Assets/Textures/GameUI/GameEnd/Food_Gouqidunji_Icon.png@6c48a",
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood/Food_Gouqidunji_Icon.png@6c48a",
     "value": {
       "depends": [
         "54c34405-b956-46df-86c7-9039aa76d099"
@@ -5317,7 +5314,7 @@
     }
   },
   "bbe186f9-0ebe-4ee7-b557-c98a79e7b473": {
-    "url": "db://assets/Assets/Textures/GameUI/GameEnd/Food_Gouqidunji_Title.png",
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood/Food_Gouqidunji_Title.png",
     "value": {
       "depends": []
     }
@@ -5327,7 +5324,7 @@
     "value": {}
   },
   "bbe186f9-0ebe-4ee7-b557-c98a79e7b473@6c48a": {
-    "url": "db://assets/Assets/Textures/GameUI/GameEnd/Food_Gouqidunji_Title.png@6c48a",
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood/Food_Gouqidunji_Title.png@6c48a",
     "value": {
       "depends": [
         "bbe186f9-0ebe-4ee7-b557-c98a79e7b473"
@@ -5359,7 +5356,7 @@
     }
   },
   "bbe186f9-0ebe-4ee7-b557-c98a79e7b473@f9941": {
-    "url": "db://assets/Assets/Textures/GameUI/GameEnd/Food_Gouqidunji_Title.png@f9941",
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood/Food_Gouqidunji_Title.png@f9941",
     "value": {
       "depends": [
         "bbe186f9-0ebe-4ee7-b557-c98a79e7b473@6c48a"
@@ -5367,7 +5364,7 @@
     }
   },
   "54c34405-b956-46df-86c7-9039aa76d099@f9941": {
-    "url": "db://assets/Assets/Textures/GameUI/GameEnd/Food_Gouqidunji_Icon.png@f9941",
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood/Food_Gouqidunji_Icon.png@f9941",
     "value": {
       "depends": [
         "54c34405-b956-46df-86c7-9039aa76d099@6c48a"
@@ -6817,6 +6814,67 @@
     "value": {
       "depends": [
         "5f40511a-b1fd-40dd-9d5f-423ba05793b6@6c48a"
+      ]
+    }
+  },
+  "cf427a84-da49-47a3-a3e5-fbaec5cac4b3": {
+    "url": "db://assets/Assets/Prefab/GameMap/Map_Scaleplate_Prefab.prefab",
+    "value": {
+      "depends": [
+        "cf663684-1ae8-4bcd-836e-c559c8c81de4",
+        "53f744aa-ab3b-43e6-bf43-87f88ec08476@f9941"
+      ]
+    }
+  },
+  "0b01b466-2bd9-4f7f-90e2-bd69ed84692a": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/ChickenFood",
+    "value": {}
+  },
+  "9ef41b2f-007f-4e80-a9ee-c819bc355069": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood",
+    "value": {}
+  },
+  "8798da3c-6398-421b-acfe-49403c98872a": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood/Food_Beijingkaoya_Title.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8798da3c-6398-421b-acfe-49403c98872a@6c48a": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood/Food_Beijingkaoya_Title.png@6c48a",
+    "value": {
+      "depends": [
+        "8798da3c-6398-421b-acfe-49403c98872a"
+      ]
+    }
+  },
+  "6da35edd-c199-4599-998f-896dd65a74b8": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood/Food_Beijingkaoya_Icon.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6da35edd-c199-4599-998f-896dd65a74b8@6c48a": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood/Food_Beijingkaoya_Icon.png@6c48a",
+    "value": {
+      "depends": [
+        "6da35edd-c199-4599-998f-896dd65a74b8"
+      ]
+    }
+  },
+  "8798da3c-6398-421b-acfe-49403c98872a@f9941": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood/Food_Beijingkaoya_Title.png@f9941",
+    "value": {
+      "depends": [
+        "8798da3c-6398-421b-acfe-49403c98872a@6c48a"
+      ]
+    }
+  },
+  "6da35edd-c199-4599-998f-896dd65a74b8@f9941": {
+    "url": "db://assets/Assets/Textures/GameUI/GameEnd/DuckFood/Food_Beijingkaoya_Icon.png@f9941",
+    "value": {
+      "depends": [
+        "6da35edd-c199-4599-998f-896dd65a74b8@6c48a"
       ]
     }
   }
