@@ -19,7 +19,7 @@
     "time": 1701313502825.038
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1703498050191.9111,
+    "time": 1703498583248.33,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },
@@ -75,7 +75,7 @@
     "time": 1701834359409.6902
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures": {
-    "time": 1703485125657.9873,
+    "time": 1703498413868.448,
     "uuid": "c8593da3-6a02-4619-8cdc-6e533b5db7a2",
     "missing": false
   },
@@ -2211,7 +2211,7 @@
     "time": 1703485001585.7488
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect.meta": {
-    "time": 1703484979078.9062
+    "time": 1703498163286.38
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.mtl.meta": {
     "time": 1703484979796.7156
@@ -2293,6 +2293,22 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Top3Chicken.png": {
     "time": 1703497438997.4368,
     "uuid": "ee9b26dd-536f-46e8-84f6-59b3b4a6dc96",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Activity.meta": {
+    "time": 1703498413875.5493
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Activity": {
+    "time": 1703498418208.894,
+    "uuid": "f8a3ffc9-956e-4424-b2a2-3bc4709ab1c9",
+    "missing": false
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity.png.meta": {
+    "time": 1703498422498.896
+  },
+  "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity.png": {
+    "time": 1701842480189.3904,
+    "uuid": "5f40511a-b1fd-40dd-9d5f-423ba05793b6",
     "missing": false
   }
 }

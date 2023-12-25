@@ -33,6 +33,9 @@
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI\\GameEnd.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEndUI\\GameEnd.atlas"
     ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas"
+    ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect": [
       "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
       "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
@@ -46,9 +49,6 @@
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\sprite-fs.chunk",
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
-    ],
-    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": [
-      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas"
     ]
   },
   "uuid": {

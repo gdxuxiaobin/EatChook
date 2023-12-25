@@ -1,11 +1,11 @@
-debug: Mon, 25 Dec 2023 06:06:50 GMT
+debug: Mon, 25 Dec 2023 09:56:04 GMT
 debug: Project: D:\MyWorkspace\Heyyogame\EatChook\EatChook
 debug: Targets: editor,preview
 debug: Incremental file seems great.
 debug: Engine path: D:\Program Files\CocosEditors\Creator\3.7.2\resources\resources\3d\engine
 debug: Initializing target [Editor]
 debug: Loading cache
-debug: Loading cache costs 0.8806999996304512ms.
+debug: Loading cache costs 0.7558999992907047ms.
 debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,gfx-empty,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,light-probe,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,custom-pipeline,websocket,websocket-server
 debug: Our import map(foo:/bar): {
   "imports": {
@@ -14,7 +14,7 @@ debug: Our import map(foo:/bar): {
 }
 debug: Initializing target [Preview]
 debug: Loading cache
-debug: Loading cache costs 0.8011999987065792ms.
+debug: Loading cache costs 0.6200000010430813ms.
 debug: Our import map(foo:/bar): {
   "imports": {
     "cc": "cce:/internal/x/cc"
@@ -46,12 +46,12 @@ debug: Our import map(foo:/bar): {
   }
 }
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 6.657600000500679ms.
+debug: Fetch asset-db cost: 10.433499999344349ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 4
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
 debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
@@ -82,7 +82,7 @@ debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as extern
 debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
 debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
 debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:39:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
 debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts as cce:/internal/x/cc.
@@ -100,9 +100,9 @@ debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/r
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
-debug: Target(editor) ends with cost 60.39649999886751ms.
+debug: Target(editor) ends with cost 65.52539999783039ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/cc
 debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
 debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
@@ -132,7 +132,7 @@ debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external d
 debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
 debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
 debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:39:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
 debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts as cce:/internal/x/cc.
@@ -150,235 +150,25 @@ debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/r
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
 debug: Resolve cc from file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
-debug: Target(preview) ends with cost 53.85039999894798ms.
+debug: Target(preview) ends with cost 54.09349999949336ms.
 debug: Pulling asset-db.
-debug: Fetch asset-db cost: 1275.2055999990553ms.
+debug: Fetch asset-db cost: 1286.7954999990761ms.
 debug: Build iteration starts.
 Number of accumulated asset changes: 4
 Feature changed: false
 debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:14 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
 debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 22.464800000190735ms.
+debug: Target(editor) ends with cost 19.462700001895428ms.
 debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间)
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:14 GMT+0800 (中国标准时间)
 debug: Inspect cce:/internal/x/prerequisite-imports
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
 debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
 debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 21.559000000357628ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:36:21 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Wed Dec 13 2023 15:59:51 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:43:04 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 310.194699998945ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:36:22 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Wed Dec 13 2023 15:59:51 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:43:04 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 172.61679999902844ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:36:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:38:14 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:43:04 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:44:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 125.33579999953508ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:36:22 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:38:14 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:43:04 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:44:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 120.63370000198483ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:38:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:38:27 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:44:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:10 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 157.95450000092387ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:38:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:38:27 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:44:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:10 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 126.88390000164509ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:38:27 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:38:52 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:10 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:35 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 100.41119999811053ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:38:27 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:38:52 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:10 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:35 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 169.3044999986887ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:38:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:39:07 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:35 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:51 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 107.34930000081658ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:38:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:39:07 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:35 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:51 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 102.65590000152588ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:39:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:39:14 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:51 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 87.12210000306368ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:39:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:39:14 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:51 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:45:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 148.52510000020266ms.
-debug: Dispatch build request for time accumulated 1 asset changes.
-debug: Build iteration starts.
-Number of accumulated asset changes: 1
-Feature changed: false
-debug: Target(editor) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:39:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:39:21 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:46:03 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(editor) ends with cost 101.8720000013709ms.
-debug: Target(preview) build started.
-debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:39:14 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:39:21 GMT+0800 (中国标准时间)
-debug: Inspect cce:/internal/x/prerequisite-imports
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts.
-debug: Detected change: file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts. Last mtime: Mon Dec 25 2023 17:45:57 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a, Current mtime: Mon Dec 25 2023 17:46:03 GMT+0800 (中国标准时间)@56b69f43-1f3a-43fd-91c7-72195a09f74a
-debug: Inspect file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve cc from file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts as cce:/internal/x/cc.
-debug: Resolve file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts from cce:/internal/x/prerequisite-imports as file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts.
-debug: Resolve file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
-debug: Target(preview) ends with cost 99.93310000002384ms.
+debug: Target(preview) ends with cost 17.967000000178814ms.

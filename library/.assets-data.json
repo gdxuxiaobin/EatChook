@@ -96,6 +96,7 @@
         "3dff1651-7035-454d-9c35-4ebaaa495f8d@f9941",
         "278d9c25-52d3-4eac-8356-e07c8f0d79e0@f9941",
         "90ee180a-cf0f-4e56-b492-65b214afa544",
+        "5f40511a-b1fd-40dd-9d5f-423ba05793b6@f9941",
         "4751fb05-dc61-4227-87d9-80af144be235",
         "4751fb05-dc61-4227-87d9-80af144be235",
         "1fc87628-6d44-4db9-838c-3983f8238f39@f9941",
@@ -6645,7 +6646,9 @@
   },
   "108341c8-795d-487f-99af-e351f75732d9": {
     "url": "db://assets/Assets/Mat/CircleAvatar.effect",
-    "value": {}
+    "value": {
+      "depends": []
+    }
   },
   "1f1dca05-8255-4d56-af1d-51e858e868ad": {
     "url": "db://assets/Assets/Mat/CircleAvatar.mtl",
@@ -6788,6 +6791,32 @@
     "value": {
       "depends": [
         "ee9b26dd-536f-46e8-84f6-59b3b4a6dc96@6c48a"
+      ]
+    }
+  },
+  "f8a3ffc9-956e-4424-b2a2-3bc4709ab1c9": {
+    "url": "db://assets/Assets/Textures/Activity",
+    "value": {}
+  },
+  "5f40511a-b1fd-40dd-9d5f-423ba05793b6": {
+    "url": "db://assets/Assets/Textures/Activity/Activity.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f40511a-b1fd-40dd-9d5f-423ba05793b6@6c48a": {
+    "url": "db://assets/Assets/Textures/Activity/Activity.png@6c48a",
+    "value": {
+      "depends": [
+        "5f40511a-b1fd-40dd-9d5f-423ba05793b6"
+      ]
+    }
+  },
+  "5f40511a-b1fd-40dd-9d5f-423ba05793b6@f9941": {
+    "url": "db://assets/Assets/Textures/Activity/Activity.png@f9941",
+    "value": {
+      "depends": [
+        "5f40511a-b1fd-40dd-9d5f-423ba05793b6@6c48a"
       ]
     }
   }
