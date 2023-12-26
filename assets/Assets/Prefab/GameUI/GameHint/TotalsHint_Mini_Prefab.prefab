@@ -256,6 +256,8 @@
       "__id__": 0
     },
     "fileId": "a12AIN50ZHxZp9iRT1bsIM",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -350,7 +352,7 @@
       "__id__": 1
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 15
@@ -483,7 +485,7 @@
       "__id__": 1
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 21
@@ -850,7 +852,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -73.51999999999998,
+      "x": -45.71000000000001,
       "y": -24,
       "z": 0
     },
@@ -890,7 +892,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 72,
+      "width": 44,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -925,11 +927,11 @@
       "b": 255,
       "a": 255
     },
-    "_string": "累计积分",
+    "_string": "手速",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 17,
-    "_fontSize": 17,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 0,
@@ -1011,7 +1013,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 1.4210854715202004e-14,
+      "x": -7.105427357601002e-15,
       "y": -24,
       "z": 0
     },
@@ -1051,7 +1053,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 73.52,
+      "width": 45.71,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -1086,7 +1088,7 @@
       "b": 18,
       "a": 255
     },
-    "_string": "99999",
+    "_string": "150",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
     "_actualFontSize": 25,
@@ -1160,7 +1162,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 145.51999999999998,
+      "width": 89.71000000000001,
       "height": 100
     },
     "_anchorPoint": {
@@ -1260,7 +1262,6 @@
       "__id__": 0
     },
     "fileId": "a1TWrqivNNoJsOiL6zeAeu",
-    "instance": null,
     "targetOverrides": null
   }
 ]

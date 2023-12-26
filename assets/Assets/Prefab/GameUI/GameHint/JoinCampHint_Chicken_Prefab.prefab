@@ -333,6 +333,8 @@
       "__id__": 0
     },
     "fileId": "b1icbXHilPlIN0ieRZ2EcK",
+    "instance": null,
+    "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
@@ -561,7 +563,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 72,
+      "width": 84,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -591,16 +593,16 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 253,
-      "g": 189,
-      "b": 15,
+      "r": 242,
+      "g": 250,
+      "b": 18,
       "a": 255
     },
     "_string": "加入小鸡",
     "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 17,
-    "_fontSize": 17,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 0,
@@ -693,7 +695,6 @@
       "__id__": 0
     },
     "fileId": "2bMQ7B3S9Pv4aaSJPZ8hur",
-    "instance": null,
     "targetOverrides": null
   }
 ]
