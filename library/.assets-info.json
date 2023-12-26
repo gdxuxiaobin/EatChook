@@ -1229,7 +1229,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1": {
     "time": 1703558858371.825,
     "uuid": "7058883c-0a2c-490d-919f-24fd1c4ff623",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD.meta": {
     "time": 1702373737855.344
@@ -2309,7 +2309,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2": {
     "time": 1703558854142.8506,
     "uuid": "8a4150b7-1008-4390-93df-fbed1f50810c",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3.meta": {
     "time": 1703558883120.0276
@@ -2317,7 +2317,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3": {
     "time": 1703558883113.5193,
     "uuid": "ddf08d5b-1eab-400d-9fc9-49f48ccb044a",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4.meta": {
     "time": 1703558890704.3647
@@ -2325,7 +2325,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4": {
     "time": 1703558890698.3215,
     "uuid": "63c1cb8f-0053-46a2-ad1c-84e9166fbf4b",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5.meta": {
     "time": 1703558895578.6838
@@ -2333,7 +2333,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5": {
     "time": 1703558895571.7375,
     "uuid": "4cbf3a17-cf81-4ee2-a99d-4488b6f56bf8",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6.meta": {
     "time": 1703558902239.2725
@@ -2341,7 +2341,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6": {
     "time": 1703558902229.7246,
     "uuid": "cc24dc84-2e52-486f-9ffe-b863717e24dc",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7.meta": {
     "time": 1703558907297.194
@@ -2349,7 +2349,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7": {
     "time": 1703558907291.646,
     "uuid": "e9ea1129-9ca8-4ac2-9a7a-01b6c6d770d6",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8.meta": {
     "time": 1703558912560.1626
@@ -2357,7 +2357,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8": {
     "time": 1703558912555.1682,
     "uuid": "e77cccfc-9993-4668-b9a0-c24db7268ca4",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9.meta": {
     "time": 1703558918134.2302
@@ -2365,7 +2365,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9": {
     "time": 1703558918128.7285,
     "uuid": "12c006d2-31c1-47de-8ee7-d0360c573d35",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10.meta": {
     "time": 1703558923430.6714
@@ -2373,7 +2373,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10": {
     "time": 1703558923425.1597,
     "uuid": "0e3210e6-be4a-4587-a548-dbdbcd21286e",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook_Summon.meta": {
     "time": 1703558981443.241
@@ -2381,7 +2381,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook_Summon": {
     "time": 1703559687787.4514,
     "uuid": "25056945-4357-463f-a210-b7f9855f2959",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck_Summon.meta": {
     "time": 1703558990426.5244
@@ -2389,7 +2389,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck_Summon": {
     "time": 1703559697869.7036,
     "uuid": "3e518256-02df-4a3d-94eb-6b16b2a8daf5",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1.meta": {
     "time": 1703559044859.1929
@@ -2397,7 +2397,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1": {
     "time": 1703559044836.45,
     "uuid": "59968b7b-4eff-46c0-81d0-5fa199ee09e6",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2.meta": {
     "time": 1703559049452.1125
@@ -2405,7 +2405,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2": {
     "time": 1703559049446.1296,
     "uuid": "bcee9438-654c-42bf-8c28-e4a8e8957459",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3.meta": {
     "time": 1703559054305.3105
@@ -2413,7 +2413,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3": {
     "time": 1703559054299.2842,
     "uuid": "592b4f73-826b-467d-aa40-2ff35c237c70",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4.meta": {
     "time": 1703559059033.0027
@@ -2421,7 +2421,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4": {
     "time": 1703559059013.256,
     "uuid": "28a30f62-2d70-4e8e-bf95-9605f0fe2358",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5.meta": {
     "time": 1703559064434.961
@@ -2429,7 +2429,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5": {
     "time": 1703559064428.4463,
     "uuid": "a256e651-cfc0-43c9-a9d4-6e870b44f077",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6.meta": {
     "time": 1703559069304.0386
@@ -2437,7 +2437,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6": {
     "time": 1703559069298.4644,
     "uuid": "a3daa1f1-082c-4c41-8075-237df560d426",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7.meta": {
     "time": 1703559073821.078
@@ -2445,7 +2445,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7": {
     "time": 1703559073813.9023,
     "uuid": "ad3b2bbf-f57c-457b-bd96-996a47118553",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8.meta": {
     "time": 1703559079106.2776
@@ -2453,7 +2453,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8": {
     "time": 1703559079099.7505,
     "uuid": "48377944-2988-4986-85a6-41d73f69af44",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9.meta": {
     "time": 1703559083714.9258
@@ -2461,7 +2461,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9": {
     "time": 1703559083709.4097,
     "uuid": "2f29d70b-e6ed-48c7-b31e-28fc3cfc23d1",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10.meta": {
     "time": 1703559089041.4668
@@ -2469,6 +2469,2286 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10": {
     "time": 1703559089035.0164,
     "uuid": "d7adecab-8b14-4047-9ce0-5039d3137eaf",
+    "missing": true
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets": {
+    "time": 1703570497703.0017,
+    "uuid": "07220cfc-01ac-4c63-8f69-341ce8afa57b",
     "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene": {
+    "time": 1703570497891.5269,
+    "uuid": "89dbd909-f139-4e14-bb38-bd44a6b42735",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims": {
+    "time": 1703570497647.1887,
+    "uuid": "048ee0b0-ce22-461c-98f0-7c7209c3c17d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character": {
+    "time": 1703570497668.0947,
+    "uuid": "7417fc97-3ca4-44a9-bf9c-e10adf720914",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font": {
+    "time": 1703570497678.104,
+    "uuid": "57813d60-1a18-4999-9d24-b0bcf5af9fcb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat": {
+    "time": 1703570497682.058,
+    "uuid": "9493f53e-b1ac-4ab8-8c69-c8bbd93ccd02",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab": {
+    "time": 1703570497687.0747,
+    "uuid": "b0f71a33-b83f-4e42-b5fa-c01d16344e11",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr": {
+    "time": 1703570497702.0046,
+    "uuid": "041e1e94-5cd2-4be9-97a6-39792b2470bb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures": {
+    "time": 1703570497841.6309,
+    "uuid": "c8593da3-6a02-4619-8cdc-6e533b5db7a2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd": {
+    "time": 1703570497589.335,
+    "uuid": "f9842e5d-02bd-4898-bacc-464cef5144d2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke": {
+    "time": 1703570497591.3008,
+    "uuid": "cbf679ce-a20a-4adc-ac2d-a03e34e4e2e9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI": {
+    "time": 1703570497619.2256,
+    "uuid": "25f6e324-a6b9-4fd0-a152-2f00f9ddaeca",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\ProgressBar": {
+    "time": 1703570497649.146,
+    "uuid": "40236c0d-08d4-4b84-85b4-a87ba133051a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook": {
+    "time": 1703570497660.116,
+    "uuid": "b182d173-cbaa-4dbf-90c9-580fd7244cea",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck": {
+    "time": 1703570497668.0947,
+    "uuid": "53266e16-e8a1-4dfa-9fac-80193d542c42",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap": {
+    "time": 1703570497687.0747,
+    "uuid": "00258fc0-5f75-4b1b-bb82-29f63bef4ce3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI": {
+    "time": 1703570497699.0122,
+    "uuid": "ce73df58-0603-4a71-8acb-9b618ee334f6",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Activity": {
+    "time": 1703570497704.9958,
+    "uuid": "f8a3ffc9-956e-4424-b2a2-3bc4709ab1c9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Character": {
+    "time": 1703570497707.9883,
+    "uuid": "6accbcab-56e6-47a7-b778-8ac7564b45ba",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Common": {
+    "time": 1703570497709.9834,
+    "uuid": "0afbf462-b07c-4434-a716-380f5978152a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap": {
+    "time": 1703570497754.863,
+    "uuid": "40f0adfc-0a8b-4693-bf36-ea39f10c3287",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameStart": {
+    "time": 1703570497756.8574,
+    "uuid": "90842344-53c7-4734-bcbe-2eb5efdbb78b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI": {
+    "time": 1703570497817.695,
+    "uuid": "0cb6895d-d086-4539-a36c-4a80c819b3f9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking": {
+    "time": 1703570497887.509,
+    "uuid": "ed1f6862-a28d-4c4e-bea7-a1be87b30fc9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture": {
+    "time": 1703570497616.2336,
+    "uuid": "d675cc88-d8ce-4556-a387-c34aefc60300",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm": {
+    "time": 1703570497619.2256,
+    "uuid": "8acf002a-2cea-45c6-a6a7-2a60f54c9835",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart": {
+    "time": 1703570497647.1887,
+    "uuid": "4a3a0822-6eee-4ec8-a871-b5ec1b9af927",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0": {
+    "time": 1703570497656.1555,
+    "uuid": "bd95a3b1-df5b-4b08-a885-58465cd9b538",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0": {
+    "time": 1703570497664.1052,
+    "uuid": "93109bbb-0a06-42ea-9f5f-1fb00b38ecb5",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint": {
+    "time": 1703570497696.0208,
+    "uuid": "b15d4606-c17b-4168-b9e2-02b13e658b34",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHUD": {
+    "time": 1703570497689.0679,
+    "uuid": "57e26aa5-c17b-4598-81b4-ec8493ff61f9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameRank": {
+    "time": 1703570497698.0154,
+    "uuid": "ed628a9a-3b82-4a15-abf2-8daec723fd1c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\WorldRank": {
+    "time": 1703570497699.0122,
+    "uuid": "1dc6339b-c153-4e47-baaa-15a52baa21dc",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo": {
+    "time": 1703570497768.8257,
+    "uuid": "a55e37ff-3ce1-4834-8cbb-97362ce8f308",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd": {
+    "time": 1703570497778.799,
+    "uuid": "70bef5a8-b67d-4efc-ac0b-ecc417ca075a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain": {
+    "time": 1703571214352.8562,
+    "uuid": "4fbe4b98-6dec-40cd-8c85-a120bed9855a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint": {
+    "time": 1703570497807.7224,
+    "uuid": "47506355-8a4c-4973-8a20-30157f03c16b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD": {
+    "time": 1703570497788.773,
+    "uuid": "5aa54525-fb85-4f0f-aef7-5125a7b8af7d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar": {
+    "time": 1703570497823.6792,
+    "uuid": "eedbb424-45d5-443e-b8ee-845582bb89a4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\TempHead": {
+    "time": 1703570497769.8235,
+    "uuid": "d6fe6e4c-1bae-42f7-98b9-74387bdb41ca",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood": {
+    "time": 1703570497773.8127,
+    "uuid": "0b01b466-2bd9-4f7f-90e2-bd69ed84692a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood": {
+    "time": 1703570497777.802,
+    "uuid": "9ef41b2f-007f-4e80-a9ee-c819bc355069",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint": {
+    "time": 1703570497794.7566,
+    "uuid": "74574537-7242-4b9e-ab03-a4922749cb6b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2": {
+    "time": 1703570497799.7427,
+    "uuid": "d738e3b4-0517-48cb-abcd-9ebabf36bd6c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint": {
+    "time": 1703570497806.7239,
+    "uuid": "82cfce72-6c93-453a-8a81-ecccacbba51b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint": {
+    "time": 1703570497816.6978,
+    "uuid": "49ed7b61-0bba-43ce-b79a-616ea05085fb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm": {
+    "time": 1703570497786.7778,
+    "uuid": "54258884-bff2-4b1e-bb0f-5be1fb442199",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo": {
+    "time": 1703570497791.7646,
+    "uuid": "715639e4-4c76-4906-bb2c-53f5014e6ddb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence": {
+    "time": 1703570497832.6558,
+    "uuid": "054e7b41-8e12-40fe-b1cb-68cc50933bae",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_ICON": {
+    "time": 1703570497804.7295,
+    "uuid": "a010cb19-2c3f-45b4-8849-5445503f22f1",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken": {
+    "time": 1703570497831.6577,
+    "uuid": "260a9cf1-e322-4b16-9abc-37d9080372ea",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck": {
+    "time": 1703570497840.6338,
+    "uuid": "0571f182-596a-48e0-b6a1-777003564668",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect": {
+    "time": 1703570497681.0884,
+    "uuid": "108341c8-795d-487f-99af-e351f75732d9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\GameExplain.ts": {
+    "time": 1703570497700.01,
+    "uuid": "ea4821e0-2acc-4bd5-8396-40f33252b75f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\GameRank.ts": {
+    "time": 1703570497701.0073,
+    "uuid": "56b69f43-1f3a-43fd-91c7-72195a09f74a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\WorldRank.ts": {
+    "time": 1703570497702.0046,
+    "uuid": "89f584db-083c-4f4d-bb80-f5b7c60df839",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets.meta": {
+    "time": 1703570497575.3433
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene.meta": {
+    "time": 1703570497887.509
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims.meta": {
+    "time": 1703570497575.3433
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character.meta": {
+    "time": 1703570497649.146
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font.meta": {
+    "time": 1703570497668.0947
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat.meta": {
+    "time": 1703570497678.104
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab.meta": {
+    "time": 1703570497682.058
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr.meta": {
+    "time": 1703570497700.01
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures.meta": {
+    "time": 1703570497702.0046
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd.meta": {
+    "time": 1703570497576.3403
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke.meta": {
+    "time": 1703570497590.3035
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI.meta": {
+    "time": 1703570497616.2336
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\ProgressBar.meta": {
+    "time": 1703570497647.1887
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook.meta": {
+    "time": 1703570497650.1675
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck.meta": {
+    "time": 1703570497661.113
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap.meta": {
+    "time": 1703570497683.0837
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI.meta": {
+    "time": 1703570497687.0747
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Activity.meta": {
+    "time": 1703570497703.0017
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Character.meta": {
+    "time": 1703570497707.9883
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Common.meta": {
+    "time": 1703570497708.9856
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap.meta": {
+    "time": 1703570497709.9834
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameStart.meta": {
+    "time": 1703570497755.8604
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI.meta": {
+    "time": 1703570497756.8574
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking.meta": {
+    "time": 1703570497840.6338
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture.meta": {
+    "time": 1703570497591.3008
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm.meta": {
+    "time": 1703570497617.2312
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart.meta": {
+    "time": 1703570497619.2256
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0.meta": {
+    "time": 1703570497650.1675
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0.meta": {
+    "time": 1703570497661.113
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint.meta": {
+    "time": 1703570497690.036
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHUD.meta": {
+    "time": 1703570497687.0747
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameRank.meta": {
+    "time": 1703570497697.018
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\WorldRank.meta": {
+    "time": 1703570497699.0122
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo.meta": {
+    "time": 1703570497756.8574
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd.meta": {
+    "time": 1703570497770.8206
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain.meta": {
+    "time": 1703570497779.7969
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint.meta": {
+    "time": 1703570497792.7617
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD.meta": {
+    "time": 1703570497784.7834
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar.meta": {
+    "time": 1703570497817.695
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\TempHead.meta": {
+    "time": 1703570497768.8257
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood.meta": {
+    "time": 1703570497770.8206
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood.meta": {
+    "time": 1703570497774.809
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint.meta": {
+    "time": 1703570497792.7617
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2.meta": {
+    "time": 1703570497795.7537
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint.meta": {
+    "time": 1703570497800.7397
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint.meta": {
+    "time": 1703570497806.7239
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm.meta": {
+    "time": 1703570497784.7834
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo.meta": {
+    "time": 1703570497788.773
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence.meta": {
+    "time": 1703570497823.6792
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_ICON.meta": {
+    "time": 1703570497803.732
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken.meta": {
+    "time": 1703570497823.6792
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck.meta": {
+    "time": 1703570497832.6558
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\GameExplain.ts.meta": {
+    "time": 1703570497701.0073
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\GameRank.ts.meta": {
+    "time": 1703570497701.0073
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\WorldRank.ts.meta": {
+    "time": 1703570497702.0046
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect.meta": {
+    "time": 1703570497681.0884
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene\\Main.scene": {
+    "time": 1703571231431,
+    "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.fnt": {
+    "time": 1703570497669.0918,
+    "uuid": "b46e9a63-9931-40c9-ba51-aba10b8c431d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.png": {
+    "time": 1703570497670.0894,
+    "uuid": "c555c7e5-50ef-46b1-9aa4-2ae8314d5a04",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.fnt": {
+    "time": 1703570497671.0867,
+    "uuid": "326bb87d-7632-46ac-82cf-1e29e9c36d85",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.png": {
+    "time": 1703570497672.1257,
+    "uuid": "cb5bdf7f-b1cc-42c1-b863-a5c0223a5b06",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.fnt": {
+    "time": 1703570497673.11,
+    "uuid": "cf663684-1ae8-4bcd-836e-c559c8c81de4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.png": {
+    "time": 1703570497678.104,
+    "uuid": "6fc6d623-0bea-45be-9fd9-140a5badf2a1",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-001.mtl": {
+    "time": 1703570497679.0662,
+    "uuid": "819236bf-506b-4b8c-91df-1dd16567a70a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-002.mtl": {
+    "time": 1703570497680.0635,
+    "uuid": "0b587958-02fd-4cda-b8d9-0e11c9a837c8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-003.mtl": {
+    "time": 1703570497680.0635,
+    "uuid": "8f0391b4-7197-4a9c-a9cb-b64eb39c79b8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.mtl": {
+    "time": 1703570497682.058,
+    "uuid": "1f1dca05-8255-4d56-af1d-51e858e868ad",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\BG_GradualChange.png": {
+    "time": 1703570497706.991,
+    "uuid": "c7417205-a266-430e-a28a-9c67c892e2cb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas": {
+    "time": 1703570497576.3403,
+    "uuid": "bc0f30c1-b3de-4ffd-b622-fde685cad0de",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": {
+    "time": 1703570497577.338,
+    "uuid": "25d21868-e565-423e-8bfa-3af74e53d188",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.png": {
+    "time": 1703570497589.335,
+    "uuid": "9b6087c7-73d3-4aec-a723-a7038c22b055",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\GameEnd_SmokeAnim.anim": {
+    "time": 1703570497590.3035,
+    "uuid": "f57f4be6-790e-4269-abb8-105915486329",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Chicken_animation.anim": {
+    "time": 1703570497648.148,
+    "uuid": "4868957f-7007-4326-890e-805854c0bdc2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Duck_animation.anim": {
+    "time": 1703570497649.146,
+    "uuid": "9d825948-1dbb-49d6-bb3d-225d464e825d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Prefab0.prefab": {
+    "time": 1703570497685.0837,
+    "uuid": "5d811b57-47b2-4a7c-88e6-2533b5e767a5",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Prefab1.prefab": {
+    "time": 1703570497686.076,
+    "uuid": "7c800a15-a358-4303-b575-990024cab692",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Scaleplate_Prefab.prefab": {
+    "time": 1703570497686.076,
+    "uuid": "cf427a84-da49-47a3-a3e5-fbaec5cac4b3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity.png": {
+    "time": 1703570497703.9995,
+    "uuid": "5f40511a-b1fd-40dd-9d5f-423ba05793b6",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity1.png": {
+    "time": 1703570497704.9958,
+    "uuid": "0c0cafa9-1bab-4f5f-9df0-fed82fb91176",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Character\\CharacterShadow.png": {
+    "time": 1703570497707.9883,
+    "uuid": "2bb3de0d-552b-4d2e-89d5-84a34d3dfbb6",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Common\\DefaultHead.png": {
+    "time": 1703570497708.9856,
+    "uuid": "18aa7777-fbae-4192-a0d3-6883921ae65c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Crowd.png": {
+    "time": 1703570497718.9592,
+    "uuid": "dd9c9cd4-6405-431f-ba9c-0e87b26de845",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark1.png": {
+    "time": 1703570497719.9563,
+    "uuid": "5bbddc6d-5237-4a23-8bb8-27c2db294e72",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark2.png": {
+    "time": 1703570497719.9563,
+    "uuid": "8ba51753-8560-47eb-adfc-982a436da73e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Crowd.png": {
+    "time": 1703570497725.9658,
+    "uuid": "848f4461-e8dc-45b4-acc3-77a2bb87685d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Down.png": {
+    "time": 1703570497727.9626,
+    "uuid": "3b97c815-a0c2-4e74-9264-a106452fc3ea",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Middle.png": {
+    "time": 1703570497728.9329,
+    "uuid": "62c71861-06f2-4cd5-8e3b-8579c9d01882",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Top.png": {
+    "time": 1703570497734.917,
+    "uuid": "402178f9-aecf-4b41-a1ac-0ad569770bc3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Crowd.png": {
+    "time": 1703570497742.8955,
+    "uuid": "e6260566-b6ac-4717-977d-24e7654a9a94",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Down.png": {
+    "time": 1703570497744.922,
+    "uuid": "7d460004-baa4-4804-984c-f3e4bdb91ff7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Middle.png": {
+    "time": 1703570497745.9153,
+    "uuid": "66fd93cd-ec34-43d9-b019-adee45b02f35",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Top.png": {
+    "time": 1703570497749.8765,
+    "uuid": "9e6405ec-ab15-4f37-8ae2-756926c14b4e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Pot.png": {
+    "time": 1703570497750.8733,
+    "uuid": "67025079-5dad-4287-bfe7-58c051f0a15e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Pot2.png": {
+    "time": 1703570497751.8706,
+    "uuid": "bcc27884-88e6-4b54-9ec5-60b2e77f6dc3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\ScaleplateBG.png": {
+    "time": 1703570497752.8682,
+    "uuid": "53f744aa-ab3b-43e6-bf43-87f88ec08476",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Target_Chook.png": {
+    "time": 1703570497753.8652,
+    "uuid": "00021f98-2302-4334-81f1-ee4a3d59da1c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Target_Duck.png": {
+    "time": 1703570497754.863,
+    "uuid": "4f794cba-5586-42b8-ae97-3d28c8015b8a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameStart\\Btn_GameStart.png": {
+    "time": 1703570497755.8604,
+    "uuid": "03dd136a-74d5-4791-92de-e04dce15e421",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\1.png": {
+    "time": 1703570497841.6309,
+    "uuid": "02c3fa1d-811c-4274-840d-203aae5cd1a5",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\2.png": {
+    "time": 1703570497842.6567,
+    "uuid": "81ab98b8-f939-4afa-ade1-ad6c62d48a5d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\3.png": {
+    "time": 1703570497842.6567,
+    "uuid": "2e8a28d7-06de-4b77-ad2f-b790ea0a4063",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\4.png": {
+    "time": 1703570497843.6543,
+    "uuid": "6ad4d5c7-fd5c-4419-ae51-144f0936088c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\5.png": {
+    "time": 1703570497844.6235,
+    "uuid": "e1e621fd-dd5e-4231-b819-dd72b87caf2b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\6.png": {
+    "time": 1703570497845.6484,
+    "uuid": "fe6a2978-cb0d-47f4-badc-ab1bcd6c59c4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\7.png": {
+    "time": 1703570497845.6484,
+    "uuid": "8663c6b0-1463-4d80-a238-1c128cbfaebf",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\8.png": {
+    "time": 1703570497846.6184,
+    "uuid": "05722249-02ce-4cd1-be49-bd4ae4bd436c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\9.png": {
+    "time": 1703570497847.6392,
+    "uuid": "4d37d41f-ba24-4742-aac9-73c0ef4a91dd",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Btn_GamePlay.png": {
+    "time": 1703570497847.6392,
+    "uuid": "a2a6b39b-c47a-4363-bf74-30d8c3c0f96c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Btn_Return.png": {
+    "time": 1703570497848.6125,
+    "uuid": "a3c623d3-1d52-493e-89f6-5f44b3132896",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Btn_WorldRanking.png": {
+    "time": 1703570497849.61,
+    "uuid": "0a00f4a2-7acb-41dd-a5e0-ec1af517124f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Last week's ranking.png": {
+    "time": 1703570497850.6072,
+    "uuid": "ab0ebaad-9e28-469c-9b01-d38b1e1652ef",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_1.png": {
+    "time": 1703570497851.605,
+    "uuid": "c8e70410-5854-4b0a-8880-6c566770f4b7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_2.png": {
+    "time": 1703570497852.6016,
+    "uuid": "5c0a5d4c-2a59-4825-8624-99b202c3cf5e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_3.png": {
+    "time": 1703570497852.6016,
+    "uuid": "ffd1d2fb-d04a-49df-9d2d-d129bc070f2f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_Chicken.png": {
+    "time": 1703570497853.5996,
+    "uuid": "c0b733f2-dcb0-4c1e-b50a-8c35d2349720",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_Duck.png": {
+    "time": 1703570497854.5962,
+    "uuid": "fd49a906-0b32-4221-ba02-7ee04f137b56",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerNameBG_Duck.png": {
+    "time": 1703570497855.5945,
+    "uuid": "29cf0b3d-d2d6-4918-b5ec-dcff5e4f5ff0",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Ranking for this week.png": {
+    "time": 1703570497856.591,
+    "uuid": "f23a67ae-9d63-4c03-bfda-1d4aec8cf5af",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_TitleHead_Chicken.png": {
+    "time": 1703570497857.5886,
+    "uuid": "e4dab12a-ada4-4d7d-88ab-e3b48478b13c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_TitleHead_Duck.png": {
+    "time": 1703570497858.5862,
+    "uuid": "63d92cf4-66c6-4177-87af-953d17168c43",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_TitleLight.png": {
+    "time": 1703570497860.5806,
+    "uuid": "a6954f8c-cd72-41eb-86f5-010379c8cef3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Title_Chicken.png": {
+    "time": 1703570497861.578,
+    "uuid": "793a5a65-4e95-4e5a-b949-1ca4a4ccc8c0",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Title_Duck.png": {
+    "time": 1703570497863.5725,
+    "uuid": "940d69d0-1d8d-48c4-a3b8-0f290c99afaa",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Top3Chicken.png": {
+    "time": 1703570497864.569,
+    "uuid": "ee9b26dd-536f-46e8-84f6-59b3b4a6dc96",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Top3Duck.png": {
+    "time": 1703570497864.569,
+    "uuid": "5b799de1-b9fa-4bbd-8969-e039932d6cbb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GaneRank_PlayerNameBG_Chicken.png": {
+    "time": 1703570497865.5674,
+    "uuid": "918834e7-0f75-433f-b6b6-6038c2b72ac1",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\RankingIcon.png": {
+    "time": 1703570497874.5437,
+    "uuid": "d5ddf200-e5fa-4d1d-9cad-4af397391ade",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_ListBG.png": {
+    "time": 1703570497867.562,
+    "uuid": "2af633d4-56e9-4896-b0e7-077435d239c7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_ListBG2.png": {
+    "time": 1703570497870.554,
+    "uuid": "d0194e14-74bb-4b05-9fb6-c058e67b01c2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHeadFrame_1.png": {
+    "time": 1703570497871.5513,
+    "uuid": "20c892cb-72ee-4579-853e-204e20d1a2b8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHeadFrame_2.png": {
+    "time": 1703570497872.548,
+    "uuid": "03a22712-6ca1-4b37-bf4c-b2559c9cfe31",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHead_1.png": {
+    "time": 1703570497872.548,
+    "uuid": "09415995-23f8-449f-a8b2-f77fb85e4ebf",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHead_2.png": {
+    "time": 1703570497873.5454,
+    "uuid": "925fff1f-58ee-4a0b-9e9c-07be65a1265d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_Close.png": {
+    "time": 1703570497875.5703,
+    "uuid": "ca46870e-14a4-4646-87cc-edf94fe6b051",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_ThisList.png": {
+    "time": 1703570497875.5703,
+    "uuid": "d3f099ac-9098-455f-9433-9c2a24d490a7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_ThisList_Pitch.png": {
+    "time": 1703570497876.5696,
+    "uuid": "4da907b8-ad65-4f44-9c2c-9a2b5aedf2ba",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_WeekList.png": {
+    "time": 1703570497877.5356,
+    "uuid": "81378459-b4d2-4e94-a55e-c624214dffe5",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_WeekList_Pitch.png": {
+    "time": 1703570497878.5322,
+    "uuid": "66aad0a0-1c07-4094-b489-1028fa89fd80",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Medal1.png": {
+    "time": 1703570497879.558,
+    "uuid": "8cf82328-9b81-49f8-b80e-baa844a66c22",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Medal2.png": {
+    "time": 1703570497879.558,
+    "uuid": "f9f0b028-ef85-4b54-a367-27470a03607c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Medal3.png": {
+    "time": 1703570497880.5564,
+    "uuid": "e8b3d24c-69f9-4a19-a81c-580814119392",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_1.png": {
+    "time": 1703570497881.555,
+    "uuid": "a0b532c7-6077-45b5-9cf2-7da356d468a0",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_2.png": {
+    "time": 1703570497882.5503,
+    "uuid": "dca92aca-2f9a-4f3e-a85e-caca3369b995",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_3.png": {
+    "time": 1703570497883.5486,
+    "uuid": "aa0a2080-8148-49e4-a27f-1a28dc70be05",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_4.png": {
+    "time": 1703570497884.5486,
+    "uuid": "205931e3-3218-47d7-a946-be69d5bcb378",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Title.png": {
+    "time": 1703570497885.5144,
+    "uuid": "eb07690a-4690-40d9-8f7c-e3e4c02fc27f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_TitleHead.png": {
+    "time": 1703570497886.5117,
+    "uuid": "e982877d-82d1-4f76-bde1-13b3aac37513",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0001.png": {
+    "time": 1703570497592.3225,
+    "uuid": "09253bd7-3733-480f-8d78-08274eb996ae",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0002.png": {
+    "time": 1703570497592.3225,
+    "uuid": "d0570cf7-792d-43d6-be20-e9aa7b0015c9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0003.png": {
+    "time": 1703570497593.319,
+    "uuid": "aa37cb0c-4de9-4d48-9985-23b6adc5cdea",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0004.png": {
+    "time": 1703570497594.2927,
+    "uuid": "41b222d3-eff8-4414-bcf6-c8259eda65d9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0005.png": {
+    "time": 1703570497595.3162,
+    "uuid": "a95b16c1-1e3a-4cf7-8e41-f8846775c3da",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0006.png": {
+    "time": 1703570497596.287,
+    "uuid": "d074ee28-02fc-4b6a-b8cd-af4021ff0339",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0007.png": {
+    "time": 1703570497596.287,
+    "uuid": "c1f10036-2870-4425-9704-19b16b416617",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0008.png": {
+    "time": 1703570497597.2844,
+    "uuid": "5c3695a1-ca52-4df9-832d-48e834922cee",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0009.png": {
+    "time": 1703570497598.2817,
+    "uuid": "7752b8e0-9128-4aa6-9047-ec317cd16c17",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0010.png": {
+    "time": 1703570497599.304,
+    "uuid": "1f59be07-382b-4dd7-9567-431d96284127",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0011.png": {
+    "time": 1703570497600.2766,
+    "uuid": "d47f1673-7b45-4d75-997c-247b72c01130",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0012.png": {
+    "time": 1703570497601.274,
+    "uuid": "9288343d-46bc-4fe8-a77a-85bb611f746c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0013.png": {
+    "time": 1703570497601.274,
+    "uuid": "49d2a7d6-8e65-4489-9114-ee689897364c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0014.png": {
+    "time": 1703570497602.271,
+    "uuid": "24e77a14-3b81-4b0f-aff7-0d30582971c3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0015.png": {
+    "time": 1703570497603.2683,
+    "uuid": "dd1bd49b-49db-4459-8890-1519d74bf077",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0016.png": {
+    "time": 1703570497604.2656,
+    "uuid": "d3eaa10a-7194-4489-b6ae-f77e1bd7e92c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0017.png": {
+    "time": 1703570497605.2634,
+    "uuid": "a3a3dda8-1247-470c-9775-8023a69f2bdd",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0018.png": {
+    "time": 1703570497606.2605,
+    "uuid": "a4615660-8f1a-493a-872a-e3472d833fbf",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0019.png": {
+    "time": 1703570497606.2605,
+    "uuid": "85342d46-7aac-4bdf-9919-d8aafb18c175",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0020.png": {
+    "time": 1703570497607.2576,
+    "uuid": "5cd2b348-eced-4836-8b4b-da54b0ec8809",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0021.png": {
+    "time": 1703570497608.2554,
+    "uuid": "0e5657a7-96b8-4b48-8a68-9f665a2f257e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0022.png": {
+    "time": 1703570497609.2527,
+    "uuid": "adcca81d-a54b-44d6-b71c-d99bc998bf21",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0023.png": {
+    "time": 1703570497610.25,
+    "uuid": "e3e0a94b-59fc-4405-9218-c50eed4d5f96",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0024.png": {
+    "time": 1703570497611.247,
+    "uuid": "42d44d6a-9215-4019-bf69-18c305324931",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0025.png": {
+    "time": 1703570497612.2444,
+    "uuid": "883c482f-2faf-407a-82d6-311bacfc6f1c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0026.png": {
+    "time": 1703570497613.2417,
+    "uuid": "0f5fb6f0-6a4f-4534-b21a-8c51ccbce857",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0027.png": {
+    "time": 1703570497614.239,
+    "uuid": "e7f02033-65a7-432f-8875-885a5c2913be",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0028.png": {
+    "time": 1703570497615.236,
+    "uuid": "c094e52c-7ea6-42a3-b2de-27352cdc6c44",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0029.png": {
+    "time": 1703570497616.2336,
+    "uuid": "b2c5364b-71c5-4d4c-b4c4-e8027eabc15e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarmLabel_animation.anim": {
+    "time": 1703570497618.2285,
+    "uuid": "df45e4e8-69dd-43e7-b470-87016724cfc7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarm_animation.anim": {
+    "time": 1703570497618.2285,
+    "uuid": "20a5a0bb-e7a2-465a-a95c-4410c82a8346",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas": {
+    "time": 1703570497620.2231,
+    "uuid": "317af2aa-a108-4570-83df-fb35676c150d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": {
+    "time": 1703570497621.22,
+    "uuid": "90ee180a-cf0f-4e56-b492-65b214afa544",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.png": {
+    "time": 1703570497641.1987,
+    "uuid": "11410dfb-7ebe-4574-b7ef-05e96238e658",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart_2.png": {
+    "time": 1703570497646.181,
+    "uuid": "c47cba8e-465e-4cbe-ac9d-7eb852d96948",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas": {
+    "time": 1703570497651.1648,
+    "uuid": "d5506833-83bb-46a3-967c-1bb109483b13",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": {
+    "time": 1703570497652.1655,
+    "uuid": "81abf9e8-4848-4cf3-ac00-d4bf52775454",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.png": {
+    "time": 1703570497656.1555,
+    "uuid": "18550397-4107-4a19-b681-8ffb2ca61657",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas": {
+    "time": 1703570497662.1106,
+    "uuid": "31a44b60-d568-473e-9196-d8f248b76bd7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": {
+    "time": 1703570497663.108,
+    "uuid": "482f3373-123b-427e-83ed-97033b4f2947",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.png": {
+    "time": 1703570497664.1052,
+    "uuid": "941bc181-c5fb-4621-b2f4-7ed614157ea2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint2_Chicken_Prefab.prefab": {
+    "time": 1703570497690.036,
+    "uuid": "22f76e4a-942b-4b85-aa90-7b50c623cce9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint2_Duck_Prefab.prefab": {
+    "time": 1703570497691.0334,
+    "uuid": "d15d030b-c3fb-4f54-b1d7-de82f121c9a6",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint_Chicken_Prefab.prefab": {
+    "time": 1703570497692.0315,
+    "uuid": "5272cf39-6fee-4718-8030-72803ba48f3d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint_Duck_Prefab.prefab": {
+    "time": 1703570497693.028,
+    "uuid": "e65ecd84-e9b1-4983-8f75-5883c2441c84",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinHint_Chicken_Prefab.prefab": {
+    "time": 1703570497693.028,
+    "uuid": "e47e1790-9c19-49dc-9f77-c22b38515021",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinHint_Duck_Prefab.prefab": {
+    "time": 1703570497694.0261,
+    "uuid": "b4ac8200-d2e0-4317-8975-ba40eb77125c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\TotalsHint_Mini_Prefab.prefab": {
+    "time": 1703570497695.0227,
+    "uuid": "ddc1c3bb-b0cd-4201-b7f2-c59aa0d1a443",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\TotalsHint_Pro_Prefab.prefab": {
+    "time": 1703570497696.0208,
+    "uuid": "85b400dd-8681-41c1-889e-2b72d15f635a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHUD\\PlayerInfo.prefab": {
+    "time": 1703570497689.0679,
+    "uuid": "4751fb05-dc61-4227-87d9-80af144be235",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameRank\\GameRank_ChickenPlayer_Prefab.prefab": {
+    "time": 1703570497697.018,
+    "uuid": "1149be4b-b8f8-4e61-92c3-bae9554ffffb",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameRank\\GameRank_DuckPlayer_Prefab.prefab": {
+    "time": 1703570497698.0154,
+    "uuid": "5c572f26-4955-4ad4-8fdd-f6a265ae5a1d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\WorldRank\\WorldRank_PlayerPrefab.prefab": {
+    "time": 1703570497699.0122,
+    "uuid": "e2baeafb-9b4f-4ca7-8ad0-70a3940620c6",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_HeadBG_Chicken.png": {
+    "time": 1703570497757.8547,
+    "uuid": "b525df42-a1aa-4861-9b97-dcb3a88fa707",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_HeadBG_Duck.png": {
+    "time": 1703570497758.8804,
+    "uuid": "faa19721-af04-4934-a13d-d97343e6bc7f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_Head_Chicken.png": {
+    "time": 1703570497759.8784,
+    "uuid": "078001ee-e2aa-4da7-a35c-6beb0c9343f2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_Head_Duck.png": {
+    "time": 1703570497760.8752,
+    "uuid": "1eafde84-36a0-4165-be46-bca764dd7844",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_WinsBG_Chicken.png": {
+    "time": 1703570497760.8752,
+    "uuid": "4ff28075-5d74-4b03-8eca-65c608a0e830",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_WinsBG_Duck.png": {
+    "time": 1703570497761.845,
+    "uuid": "4a0c00f2-4c64-496d-859d-629b5e0de140",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_WinsICON.png": {
+    "time": 1703570497762.842,
+    "uuid": "b42a4abd-2df5-4e7e-99dd-22c1013bf11f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_InfoBG_Chicken.png": {
+    "time": 1703570497763.8447,
+    "uuid": "93ebfcd9-3968-4f87-9c22-b9972fd2773f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_InfoBG_Duck.png": {
+    "time": 1703570497763.8447,
+    "uuid": "53aef4c8-0c41-49eb-9a3b-815fdb573978",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_Medal1.png": {
+    "time": 1703570497764.8364,
+    "uuid": "22ce2db2-799e-4312-b793-45459ff47b1d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_Medal2.png": {
+    "time": 1703570497765.834,
+    "uuid": "6f44dc43-9548-4f89-8a66-374f659275ae",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_Medal3.png": {
+    "time": 1703570497766.831,
+    "uuid": "8728ab79-e694-42c7-8fdd-cdc0ba3a6aad",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_PlayerHeadBG_Chicken.png": {
+    "time": 1703570497766.831,
+    "uuid": "a7bab5c0-9566-434d-b9f4-34a862f988da",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_PlayerHeadBG_Duck.png": {
+    "time": 1703570497767.8284,
+    "uuid": "601c10fe-3741-495f-9b4d-eaeef7512640",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\GameEnd_Star.png": {
+    "time": 1703570497778.799,
+    "uuid": "c912b594-4d42-4000-8ce8-cffea97e69e2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain1.png": {
+    "time": 1703560930765.6526,
+    "uuid": "e5cb828f-f475-4e48-b501-9c7175217fb1",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png": {
+    "time": 1703560937924.5664,
+    "uuid": "22461279-bb3a-481f-8fe6-fc1dea524428",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\GameTimeBG.png": {
+    "time": 1703570497787.7747,
+    "uuid": "7d7a4605-3a4a-411f-8dbf-13bad7252822",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressBG_Chicken.png": {
+    "time": 1703570497817.695,
+    "uuid": "03264a98-8885-4313-87ca-a670d227ac06",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressBG_Duck.png": {
+    "time": 1703570497818.6924,
+    "uuid": "719c6bdd-2b73-4ae5-a91b-5d85f69decc3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressIcon_Chicken.png": {
+    "time": 1703570497819.69,
+    "uuid": "33a5cb82-b6cd-48c7-8ec3-79541d24ea47",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressIcon_Duck.png": {
+    "time": 1703570497820.6875,
+    "uuid": "6cac6bb1-5d8e-43b6-b613-ad16b5a390a8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressIcon_Huoguo.png": {
+    "time": 1703570497820.6875,
+    "uuid": "d98996d3-cafe-4806-9e1c-8b9faf6c3e4b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressTarget_Chicken.png": {
+    "time": 1703570497821.6848,
+    "uuid": "3dff1651-7035-454d-9c35-4ebaaa495f8d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressTarget_Duck.png": {
+    "time": 1703570497822.6812,
+    "uuid": "278d9c25-52d3-4eac-8356-e07c8f0d79e0",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\TempHead\\CampRanking_PlayerHead_Chicken.png": {
+    "time": 1703570497768.8257,
+    "uuid": "66fe2945-f7a9-4f63-85a7-6dd98b608ad2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\TempHead\\CampRanking_PlayerHead_Duck.png": {
+    "time": 1703570497769.8235,
+    "uuid": "28a3739e-cdfc-4fb3-a864-ef5f8351b238",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Icon.png": {
+    "time": 1703570497772.8154,
+    "uuid": "54c34405-b956-46df-86c7-9039aa76d099",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Title.png": {
+    "time": 1703570497773.8127,
+    "uuid": "bbe186f9-0ebe-4ee7-b557-c98a79e7b473",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Icon.png": {
+    "time": 1703570497776.8044,
+    "uuid": "6da35edd-c199-4599-998f-896dd65a74b8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Title.png": {
+    "time": 1703570497777.802,
+    "uuid": "8798da3c-6398-421b-acfe-49403c98872a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint\\JoinCampHint_BaseBG_Chicken.png": {
+    "time": 1703570497793.7593,
+    "uuid": "c8043171-fa00-4ce7-9de1-6ddc0134f62a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint\\JoinCampHint_BaseBG_Duck.png": {
+    "time": 1703570497793.7593,
+    "uuid": "31e9b427-ce36-46ab-99d1-c89d5b2ca7d8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint\\JoinCampHint_PlayerHead.png": {
+    "time": 1703570497794.7566,
+    "uuid": "2028464e-f2eb-467d-bf64-6b9582c4abae",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_BaseBG_Chicken.png": {
+    "time": 1703570497796.7512,
+    "uuid": "d6b14281-a1fe-4b7b-925a-0f0fb4bba747",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_BaseBG_Duck.png": {
+    "time": 1703570497797.7488,
+    "uuid": "30f5fa88-55c7-4a62-b8fb-2b39133a7f14",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_PlayerHead.png": {
+    "time": 1703570497797.7488,
+    "uuid": "9caee564-1e11-4100-93ce-f21daf2e8ea6",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_PlayerHead_Top1.png": {
+    "time": 1703570497798.746,
+    "uuid": "bb6ccdfe-9df3-4f25-9d8c-d35ddf080d94",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_PlayerHead_Top2.png": {
+    "time": 1703570497799.7427,
+    "uuid": "395b4c66-2e15-44f6-8b51-120447b941b4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_BaseBG_Chicken.png": {
+    "time": 1703570497800.7397,
+    "uuid": "da7a4cea-56a4-4b7d-a37b-2f760dcb836f",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_BaseBG_Duck.png": {
+    "time": 1703570497801.7373,
+    "uuid": "6cb5da1e-eb8a-4669-846c-25441387ec74",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_HeadTop.png": {
+    "time": 1703570497802.7346,
+    "uuid": "455f72b5-cf65-4317-b2d3-e3dae923be61",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_Sart.png": {
+    "time": 1703570497805.755,
+    "uuid": "6c3b16e9-56be-4942-8471-efcc460c8ced",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_TempHead.png": {
+    "time": 1703570497806.7239,
+    "uuid": "dfdd57dc-7e8a-45d7-891e-ac4bf4b8f3f4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_BaseBG1.png": {
+    "time": 1703570497807.7224,
+    "uuid": "b0fedcda-9b07-4c88-8d50-9440f2ce054d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_BaseBG2.png": {
+    "time": 1703570497808.7188,
+    "uuid": "95d54e1d-f92b-4403-9924-3d01f0b0fb3e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_BaseBG3.png": {
+    "time": 1703570497809.717,
+    "uuid": "e88590c4-a3f8-4bba-a3bc-3ca8408fcad7",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head1.png": {
+    "time": 1703570497810.7139,
+    "uuid": "7bb2098b-c841-4abd-8ad8-e9a1c1f835b0",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2.png": {
+    "time": 1703570497811.7112,
+    "uuid": "57720306-cae6-48ea-94ca-d26955ef6f08",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2BG.png": {
+    "time": 1703570497811.7112,
+    "uuid": "7b716e3a-e046-4964-93e4-13301cc36cb9",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2_NameBG.png": {
+    "time": 1703570497812.7085,
+    "uuid": "dc5b782e-2d98-45e1-a362-b6c486f1dded",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2_Top.png": {
+    "time": 1703570497813.7056,
+    "uuid": "b5e91a22-75c9-4c81-93c9-7d2faf3bd1c5",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON1.png": {
+    "time": 1703570497814.7031,
+    "uuid": "efe0a561-dd88-446a-bd45-a441a371cc02",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON2.png": {
+    "time": 1703570497815.7007,
+    "uuid": "8848f71c-10f4-4df5-9fc1-e4ffef196d2e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON_A.png": {
+    "time": 1703570497815.7007,
+    "uuid": "012bf55c-ce73-473b-88e6-ead9011a168d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON_B.png": {
+    "time": 1703570497816.6978,
+    "uuid": "770a7bec-e17e-4b87-a38b-1efd8199ee18",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm.png": {
+    "time": 1703570497785.7808,
+    "uuid": "1fc87628-6d44-4db9-838c-3983f8238f39",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm_LabelDown.png": {
+    "time": 1703570497786.7778,
+    "uuid": "b7b29c8e-b833-45d5-9a63-19862b6e268c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\PlayerInfo_Head.png": {
+    "time": 1703570497788.773,
+    "uuid": "0dac913f-170f-4891-87ae-45e0e5251bb1",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\PlayerInfo_HeadBG.png": {
+    "time": 1703570497789.7695,
+    "uuid": "fc953804-8717-4537-95f6-f34984571de2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\TimeDown.png": {
+    "time": 1703570497790.7664,
+    "uuid": "8e96c940-3d82-4599-bc8a-70cff0008f6d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\Time_Chicken.png": {
+    "time": 1703570497790.7664,
+    "uuid": "1ef75bf9-85a7-4bc7-9f94-022ce99c8e0c",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\Time_Duck.png": {
+    "time": 1703570497791.7646,
+    "uuid": "c8485243-91b4-46fb-8d3d-8b72b3769aa3",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_ICON\\JoinHint_ICON_1100.png": {
+    "time": 1703570497803.732,
+    "uuid": "0d7ad2b6-23d2-4191-a300-2511b09588ae",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_ICON\\JoinHint_ICON_2100.png": {
+    "time": 1703570497804.7295,
+    "uuid": "f6b1348c-a8e2-4a21-afc9-429d4ccbcc87",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0001.png": {
+    "time": 1703570497824.6768,
+    "uuid": "bbab409b-8d06-43b6-b198-8868553cc8da",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0002.png": {
+    "time": 1703570497825.6738,
+    "uuid": "db5ca8e1-90b4-4d8d-b180-ddc30ba5f0d8",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0003.png": {
+    "time": 1703570497825.6738,
+    "uuid": "06aff3fa-f9dd-4406-a7ee-8294559ac49d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0004.png": {
+    "time": 1703570497826.6711,
+    "uuid": "2d3db98e-9dc1-4027-a2d2-1122d28485b2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0005.png": {
+    "time": 1703570497827.6687,
+    "uuid": "f0cbbceb-2b5b-4a0f-b430-6d2bdceb9625",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0006.png": {
+    "time": 1703570497828.6658,
+    "uuid": "9e23ca6c-b794-45ef-9e3f-ff98ff6e9c4e",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0007.png": {
+    "time": 1703570497829.6636,
+    "uuid": "c50583e7-b280-4cb7-8fbd-7aa6139bcbc4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0008.png": {
+    "time": 1703570497829.6636,
+    "uuid": "9b69a691-7a69-4d53-bfcc-8168c623dc36",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0009.png": {
+    "time": 1703570497830.6604,
+    "uuid": "bb1978b8-7ad5-479f-bc41-18dbf3616c84",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0010.png": {
+    "time": 1703570497831.6577,
+    "uuid": "3b496cd6-9ff9-42ff-91fc-f8f882acb997",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0001.png": {
+    "time": 1703570497832.6558,
+    "uuid": "2d0124e6-a7a9-4fd6-9262-d7a27013ea2b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0002.png": {
+    "time": 1703570497833.6526,
+    "uuid": "5ee50f10-2333-4680-b117-71d57a0599ee",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0003.png": {
+    "time": 1703570497834.65,
+    "uuid": "d821f763-4dfe-4748-b086-0bf6367f6b0d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0004.png": {
+    "time": 1703570497835.6472,
+    "uuid": "9a950bc4-2ca2-4b65-bdec-97febefb735b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0005.png": {
+    "time": 1703570497836.6445,
+    "uuid": "4f8add43-27a7-446e-863b-b1ce65007da2",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0006.png": {
+    "time": 1703570497836.6445,
+    "uuid": "5624311f-2215-4af9-8301-22e46d9b127b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0007.png": {
+    "time": 1703570497837.6418,
+    "uuid": "7b41e505-aee0-4d34-a244-a42788313973",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0008.png": {
+    "time": 1703570497838.6396,
+    "uuid": "97309775-e1ad-486b-99f3-7779ae34f05b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0009.png": {
+    "time": 1703570497839.6367,
+    "uuid": "54973b22-1c19-43aa-ad96-8e532e399067",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0010.png": {
+    "time": 1703570497840.6338,
+    "uuid": "ac3e4389-a34e-49fb-9ef5-763a05968ce4",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.fnt.meta": {
+    "time": 1703570497671.0867
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.fnt.meta": {
+    "time": 1703570497669.0918
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene\\Main.scene.meta": {
+    "time": 1703570497891.5269
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-001.mtl.meta": {
+    "time": 1703570497679.0662
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-002.mtl.meta": {
+    "time": 1703570497680.0635
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.fnt.meta": {
+    "time": 1703570497673.11
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-003.mtl.meta": {
+    "time": 1703570497681.0884
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.mtl.meta": {
+    "time": 1703570497682.058
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.png.meta": {
+    "time": 1703570497672.1257
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas.meta": {
+    "time": 1703570497577.338
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.png.meta": {
+    "time": 1703570497671.0867
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json.meta": {
+    "time": 1703570497578.3347
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\GameEnd_SmokeAnim.anim.meta": {
+    "time": 1703570497591.3008
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Chicken_animation.anim.meta": {
+    "time": 1703570497648.148
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\ProgressBar\\Progress_Duck_animation.anim.meta": {
+    "time": 1703570497649.146
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\BG_GradualChange.png.meta": {
+    "time": 1703570497706.991
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Prefab0.prefab.meta": {
+    "time": 1703570497685.0837
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Scaleplate_Prefab.prefab.meta": {
+    "time": 1703570497687.0747
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameMap\\Map_Prefab1.prefab.meta": {
+    "time": 1703570497686.076
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Character\\CharacterShadow.png.meta": {
+    "time": 1703570497707.9883
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity.png.meta": {
+    "time": 1703570497703.9995
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Activity\\Activity1.png.meta": {
+    "time": 1703570497704.9958
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.png.meta": {
+    "time": 1703570497589.335
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Common\\DefaultHead.png.meta": {
+    "time": 1703570497709.9834
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark1.png.meta": {
+    "time": 1703570497719.9563
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.png.meta": {
+    "time": 1703570497678.104
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\DragMark2.png.meta": {
+    "time": 1703570497720.9534
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Middle.png.meta": {
+    "time": 1703570497729.96
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Down.png.meta": {
+    "time": 1703570497727.9626
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Crowd.png.meta": {
+    "time": 1703570497725.9658
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Crowd.png.meta": {
+    "time": 1703570497718.9592
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_0_Top.png.meta": {
+    "time": 1703570497734.917
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Middle.png.meta": {
+    "time": 1703570497745.9153
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Pot.png.meta": {
+    "time": 1703570497751.8706
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Down.png.meta": {
+    "time": 1703570497744.922
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Top.png.meta": {
+    "time": 1703570497750.8733
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Pot2.png.meta": {
+    "time": 1703570497752.8682
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Target_Chook.png.meta": {
+    "time": 1703570497753.8652
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\ScaleplateBG.png.meta": {
+    "time": 1703570497753.8652
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Target_Duck.png.meta": {
+    "time": 1703570497754.863
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameMap\\Map_1_Crowd.png.meta": {
+    "time": 1703570497742.8955
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameStart\\Btn_GameStart.png.meta": {
+    "time": 1703570497756.8574
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\1.png.meta": {
+    "time": 1703570497841.6309
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\2.png.meta": {
+    "time": 1703570497842.6567
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\3.png.meta": {
+    "time": 1703570497843.6543
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\4.png.meta": {
+    "time": 1703570497844.6235
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\5.png.meta": {
+    "time": 1703570497844.6235
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\6.png.meta": {
+    "time": 1703570497845.6484
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\7.png.meta": {
+    "time": 1703570497846.6184
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\8.png.meta": {
+    "time": 1703570497846.6184
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\9.png.meta": {
+    "time": 1703570497847.6392
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Btn_GamePlay.png.meta": {
+    "time": 1703570497848.6125
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Btn_Return.png.meta": {
+    "time": 1703570497848.6125
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Btn_WorldRanking.png.meta": {
+    "time": 1703570497849.61
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Last week's ranking.png.meta": {
+    "time": 1703570497850.6072
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_1.png.meta": {
+    "time": 1703570497851.605
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_2.png.meta": {
+    "time": 1703570497852.6016
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_3.png.meta": {
+    "time": 1703570497853.5996
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_Chicken.png.meta": {
+    "time": 1703570497854.5962
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerNameBG_Duck.png.meta": {
+    "time": 1703570497855.5945
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_PlayerBG_Duck.png.meta": {
+    "time": 1703570497855.5945
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Ranking for this week.png.meta": {
+    "time": 1703570497856.591
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_TitleHead_Chicken.png.meta": {
+    "time": 1703570497857.5886
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_TitleHead_Duck.png.meta": {
+    "time": 1703570497858.5862
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Title_Chicken.png.meta": {
+    "time": 1703570497862.5754
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Title_Duck.png.meta": {
+    "time": 1703570497863.5725
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Top3Duck.png.meta": {
+    "time": 1703570497865.5674
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_TitleLight.png.meta": {
+    "time": 1703570497860.5806
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GaneRank_PlayerNameBG_Chicken.png.meta": {
+    "time": 1703570497865.5674
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\GameRank_Top3Chicken.png.meta": {
+    "time": 1703570497864.569
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHeadFrame_1.png.meta": {
+    "time": 1703570497871.5513
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\RankingIcon.png.meta": {
+    "time": 1703570497874.5437
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHeadFrame_2.png.meta": {
+    "time": 1703570497872.548
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHead_2.png.meta": {
+    "time": 1703570497874.5437
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_PlayerHead_1.png.meta": {
+    "time": 1703570497873.5454
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_ListBG.png.meta": {
+    "time": 1703570497868.5593
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\Rank_ListBG2.png.meta": {
+    "time": 1703570497870.554
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_Close.png.meta": {
+    "time": 1703570497875.5703
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_ThisList.png.meta": {
+    "time": 1703570497876.5696
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_ThisList_Pitch.png.meta": {
+    "time": 1703570497877.5356
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Medal1.png.meta": {
+    "time": 1703570497879.558
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_WeekList.png.meta": {
+    "time": 1703570497878.5322
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Btn_WeekList_Pitch.png.meta": {
+    "time": 1703570497878.5322
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Medal2.png.meta": {
+    "time": 1703570497880.5564
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Medal3.png.meta": {
+    "time": 1703570497881.555
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_1.png.meta": {
+    "time": 1703570497882.5503
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_2.png.meta": {
+    "time": 1703570497883.5486
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_3.png.meta": {
+    "time": 1703570497884.5486
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_PlayerBG_4.png.meta": {
+    "time": 1703570497884.5486
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_Title.png.meta": {
+    "time": 1703570497886.5117
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0001.png.meta": {
+    "time": 1703570497592.3225
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0002.png.meta": {
+    "time": 1703570497593.319
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0003.png.meta": {
+    "time": 1703570497594.2927
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0004.png.meta": {
+    "time": 1703570497595.3162
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\Ranking\\WorldRank_TitleHead.png.meta": {
+    "time": 1703570497887.509
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0005.png.meta": {
+    "time": 1703570497595.3162
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0006.png.meta": {
+    "time": 1703570497596.287
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0008.png.meta": {
+    "time": 1703570497598.2817
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0007.png.meta": {
+    "time": 1703570497597.2844
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0009.png.meta": {
+    "time": 1703570497599.304
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0010.png.meta": {
+    "time": 1703570497599.304
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0012.png.meta": {
+    "time": 1703570497601.274
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0011.png.meta": {
+    "time": 1703570497600.2766
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0014.png.meta": {
+    "time": 1703570497603.2683
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0013.png.meta": {
+    "time": 1703570497602.271
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0015.png.meta": {
+    "time": 1703570497603.2683
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0016.png.meta": {
+    "time": 1703570497604.2656
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0019.png.meta": {
+    "time": 1703570497607.2576
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0017.png.meta": {
+    "time": 1703570497605.2634
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0018.png.meta": {
+    "time": 1703570497606.2605
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0020.png.meta": {
+    "time": 1703570497608.2554
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0021.png.meta": {
+    "time": 1703570497608.2554
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0022.png.meta": {
+    "time": 1703570497610.25
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0024.png.meta": {
+    "time": 1703570497611.247
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0023.png.meta": {
+    "time": 1703570497610.25
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0025.png.meta": {
+    "time": 1703570497612.2444
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarmLabel_animation.anim.meta": {
+    "time": 1703570497618.2285
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0028.png.meta": {
+    "time": 1703570497615.236
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0026.png.meta": {
+    "time": 1703570497613.2417
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas.meta": {
+    "time": 1703570497620.2231
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0027.png.meta": {
+    "time": 1703570497614.239
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd_Smoke\\Texture\\yanwu_0029.png.meta": {
+    "time": 1703570497616.2336
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameAlarm\\GameAlarm_animation.anim.meta": {
+    "time": 1703570497619.2256
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas.meta": {
+    "time": 1703570497651.1648
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json.meta": {
+    "time": 1703570497621.22
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json.meta": {
+    "time": 1703570497652.1655
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas.meta": {
+    "time": 1703570497662.1106
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart_2.png.meta": {
+    "time": 1703570497647.1887
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.png.meta": {
+    "time": 1703570497657.1245
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json.meta": {
+    "time": 1703570497663.108
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint2_Chicken_Prefab.prefab.meta": {
+    "time": 1703570497691.0334
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint2_Duck_Prefab.prefab.meta": {
+    "time": 1703570497692.0315
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint_Chicken_Prefab.prefab.meta": {
+    "time": 1703570497692.0315
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinCampHint_Duck_Prefab.prefab.meta": {
+    "time": 1703570497693.028
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinHint_Chicken_Prefab.prefab.meta": {
+    "time": 1703570497694.0261
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.png.meta": {
+    "time": 1703570497664.1052
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\TotalsHint_Mini_Prefab.prefab.meta": {
+    "time": 1703570497695.0227
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\JoinHint_Duck_Prefab.prefab.meta": {
+    "time": 1703570497695.0227
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHint\\TotalsHint_Pro_Prefab.prefab.meta": {
+    "time": 1703570497696.0208
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameHUD\\PlayerInfo.prefab.meta": {
+    "time": 1703570497689.0679
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameRank\\GameRank_DuckPlayer_Prefab.prefab.meta": {
+    "time": 1703570497698.0154
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\GameRank\\GameRank_ChickenPlayer_Prefab.prefab.meta": {
+    "time": 1703570497698.0154
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Prefab\\GameUI\\WorldRank\\WorldRank_PlayerPrefab.prefab.meta": {
+    "time": 1703570497699.0122
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.png.meta": {
+    "time": 1703570497641.1987
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_HeadBG_Chicken.png.meta": {
+    "time": 1703570497757.8547
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_Head_Chicken.png.meta": {
+    "time": 1703570497759.8784
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_HeadBG_Duck.png.meta": {
+    "time": 1703570497758.8804
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_Head_Duck.png.meta": {
+    "time": 1703570497760.8752
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_WinsICON.png.meta": {
+    "time": 1703570497762.842
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_WinsBG_Chicken.png.meta": {
+    "time": 1703570497761.845
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_InfoBG_Chicken.png.meta": {
+    "time": 1703570497763.8447
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampInfo_WinsBG_Duck.png.meta": {
+    "time": 1703570497761.845
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_InfoBG_Duck.png.meta": {
+    "time": 1703570497764.8364
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_Medal1.png.meta": {
+    "time": 1703570497765.834
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_Medal2.png.meta": {
+    "time": 1703570497765.834
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_Medal3.png.meta": {
+    "time": 1703570497766.831
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_PlayerHeadBG_Chicken.png.meta": {
+    "time": 1703570497767.8284
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain1.png.meta": {
+    "time": 1703570497780.794
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\CampRanking_PlayerHeadBG_Duck.png.meta": {
+    "time": 1703570497768.8257
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\GameEnd_Star.png.meta": {
+    "time": 1703570497778.799
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png.meta": {
+    "time": 1703570497781.7917
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\GameTimeBG.png.meta": {
+    "time": 1703570497787.7747
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressBG_Chicken.png.meta": {
+    "time": 1703570497818.6924
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressBG_Duck.png.meta": {
+    "time": 1703570497819.69
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressIcon_Chicken.png.meta": {
+    "time": 1703570497819.69
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressIcon_Duck.png.meta": {
+    "time": 1703570497820.6875
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressIcon_Huoguo.png.meta": {
+    "time": 1703570497821.6848
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressTarget_Chicken.png.meta": {
+    "time": 1703570497822.6812
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\ProgressTarget_Duck.png.meta": {
+    "time": 1703570497822.6812
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\TempHead\\CampRanking_PlayerHead_Duck.png.meta": {
+    "time": 1703570497770.8206
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\CampInfo\\TempHead\\CampRanking_PlayerHead_Chicken.png.meta": {
+    "time": 1703570497769.8235
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Title.png.meta": {
+    "time": 1703570497773.8127
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\ChickenFood\\Food_Gouqidunji_Icon.png.meta": {
+    "time": 1703570497772.8154
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint\\JoinCampHint_BaseBG_Duck.png.meta": {
+    "time": 1703570497794.7566
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Icon.png.meta": {
+    "time": 1703570497776.8044
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint\\JoinCampHint_BaseBG_Chicken.png.meta": {
+    "time": 1703570497793.7593
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameEnd\\DuckFood\\Food_Beijingkaoya_Title.png.meta": {
+    "time": 1703570497777.802
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint\\JoinCampHint_PlayerHead.png.meta": {
+    "time": 1703570497795.7537
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_BaseBG_Chicken.png.meta": {
+    "time": 1703570497796.7512
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_PlayerHead.png.meta": {
+    "time": 1703570497798.746
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_BaseBG_Duck.png.meta": {
+    "time": 1703570497797.7488
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_PlayerHead_Top1.png.meta": {
+    "time": 1703570497799.7427
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2\\JoinCampHint_PlayerHead_Top2.png.meta": {
+    "time": 1703570497799.7427
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_BaseBG_Duck.png.meta": {
+    "time": 1703570497802.7346
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_BaseBG_Chicken.png.meta": {
+    "time": 1703570497801.7373
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_HeadTop.png.meta": {
+    "time": 1703570497802.7346
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_Sart.png.meta": {
+    "time": 1703570497805.755
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_TempHead.png.meta": {
+    "time": 1703570497806.7239
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_BaseBG1.png.meta": {
+    "time": 1703570497807.7224
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_BaseBG3.png.meta": {
+    "time": 1703570497809.717
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_BaseBG2.png.meta": {
+    "time": 1703570497809.717
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head1.png.meta": {
+    "time": 1703570497810.7139
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2.png.meta": {
+    "time": 1703570497811.7112
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2BG.png.meta": {
+    "time": 1703570497812.7085
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2_NameBG.png.meta": {
+    "time": 1703570497813.7056
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON1.png.meta": {
+    "time": 1703570497814.7031
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_Head2_Top.png.meta": {
+    "time": 1703570497813.7056
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON2.png.meta": {
+    "time": 1703570497815.7007
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON_A.png.meta": {
+    "time": 1703570497816.6978
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\TotalsHint\\TotalsHint_ICON_B.png.meta": {
+    "time": 1703570497816.6978
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm_LabelDown.png.meta": {
+    "time": 1703570497786.7778
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\PlayerInfo_Head.png.meta": {
+    "time": 1703570497788.773
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\Alarm\\Alarm.png.meta": {
+    "time": 1703570497786.7778
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\PlayerInfo_HeadBG.png.meta": {
+    "time": 1703570497789.7695
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\TimeDown.png.meta": {
+    "time": 1703570497790.7664
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\Time_Chicken.png.meta": {
+    "time": 1703570497791.7646
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHUD\\PlayerInfo\\Time_Duck.png.meta": {
+    "time": 1703570497791.7646
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0001.png.meta": {
+    "time": 1703570497824.6768
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_ICON\\JoinHint_ICON_1100.png.meta": {
+    "time": 1703570497804.7295
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinHint\\JoinHint_ICON\\JoinHint_ICON_2100.png.meta": {
+    "time": 1703570497805.755
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0002.png.meta": {
+    "time": 1703570497825.6738
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0003.png.meta": {
+    "time": 1703570497826.6711
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0004.png.meta": {
+    "time": 1703570497827.6687
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0005.png.meta": {
+    "time": 1703570497827.6687
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0006.png.meta": {
+    "time": 1703570497828.6658
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0007.png.meta": {
+    "time": 1703570497829.6636
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0008.png.meta": {
+    "time": 1703570497830.6604
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0009.png.meta": {
+    "time": 1703570497831.6577
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Chicken\\ProgressBar1_0010.png.meta": {
+    "time": 1703570497831.6577
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0001.png.meta": {
+    "time": 1703570497833.6526
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0003.png.meta": {
+    "time": 1703570497834.65
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0002.png.meta": {
+    "time": 1703570497834.65
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0005.png.meta": {
+    "time": 1703570497836.6445
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0004.png.meta": {
+    "time": 1703570497835.6472
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0006.png.meta": {
+    "time": 1703570497837.6418
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0007.png.meta": {
+    "time": 1703570497838.6396
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0008.png.meta": {
+    "time": 1703570497838.6396
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0009.png.meta": {
+    "time": 1703570497839.6367
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0010.png.meta": {
+    "time": 1703570497840.6338
   }
 }

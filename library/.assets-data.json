@@ -72,8 +72,6 @@
         "b46e9a63-9931-40c9-ba51-aba10b8c431d",
         "e5cb828f-f475-4e48-b501-9c7175217fb1@f9941",
         "22461279-bb3a-481f-8fe6-fc1dea524428@f9941",
-        "42487bd7-1dd4-4c57-9895-5b196fd4a653@f9941",
-        "e1e6be49-19d5-48a7-99f1-ab9a6a43e3c9@f9941",
         "5272cf39-6fee-4718-8030-72803ba48f3d",
         "e65ecd84-e9b1-4983-8f75-5883c2441c84",
         "e47e1790-9c19-49dc-9f77-c22b38515021",
@@ -4839,15 +4837,11 @@
   },
   "42487bd7-1dd4-4c57-9895-5b196fd4a653": {
     "url": "db://assets/Assets/Textures/GameUI/GameExplain/GameExplain3.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "e1e6be49-19d5-48a7-99f1-ab9a6a43e3c9": {
     "url": "db://assets/Assets/Textures/GameUI/GameExplain/GameExplain4.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "e1e6be49-19d5-48a7-99f1-ab9a6a43e3c9@6c48a": {
     "url": "db://assets/Assets/Textures/GameUI/GameExplain/GameExplain4.png@6c48a",

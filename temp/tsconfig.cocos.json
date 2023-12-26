@@ -5,17 +5,17 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc",
-      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/jsb",
+      "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc",
       "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
-        "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+        "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\*"
+        "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\*"
       ]
     },
     "experimentalDecorators": true,
