@@ -1,16 +1,10 @@
 {
   "path": {
-    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": [
-      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas"
-    ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.fnt": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.png"
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.fnt": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.png"
-    ],
-    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1.json": [
-      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1.atlas"
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\2100_Xiaoya0\\2100_Xiaoya0.atlas"
@@ -20,9 +14,6 @@
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameStart\\GameStart.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameStart\\GameStart.atlas"
-    ],
-    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": [
-      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas"
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas"
@@ -49,6 +40,15 @@
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\sprite-fs.chunk",
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\1100_Xiaoji0.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\1100_Xiaoji0.atlas"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": [
+      "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas"
     ]
   },
   "uuid": {
@@ -73,7 +73,8 @@
       "c47cba8e-465e-4cbe-ac9d-7eb852d96948@6c48a"
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": [
-      "707e4455-21ed-41b6-bac4-d1e33cc61e4f@6c48a"
+      "707e4455-21ed-41b6-bac4-d1e33cc61e4f@6c48a",
+      "941bc181-c5fb-4621-b2f4-7ed614157ea2@6c48a"
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": [
       "11410dfb-7ebe-4574-b7ef-05e96238e658@6c48a",
@@ -98,6 +99,12 @@
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar-003.mtl": [
       "108341c8-795d-487f-99af-e351f75732d9"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\1100_Xiaoji0.json": [
+      "fa8a0bb9-0b43-42ed-835d-4bb72f8e834f@6c48a"
+    ],
+    "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2.json": [
+      "b5131c25-272e-4d83-8570-33802c700937@6c48a"
     ]
   }
 }

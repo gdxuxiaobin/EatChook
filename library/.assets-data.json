@@ -26,7 +26,7 @@
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
-        "20d00b11-61c4-436c-95ec-b31d1fce1d12",
+        "482f3373-123b-427e-83ed-97033b4f2947",
         "81abf9e8-4848-4cf3-ac00-d4bf52775454",
         "c7417205-a266-430e-a28a-9c67c892e2cb@f9941",
         "c7417205-a266-430e-a28a-9c67c892e2cb@f9941",
@@ -95,7 +95,7 @@
         "3dff1651-7035-454d-9c35-4ebaaa495f8d@f9941",
         "278d9c25-52d3-4eac-8356-e07c8f0d79e0@f9941",
         "90ee180a-cf0f-4e56-b492-65b214afa544",
-        "5f40511a-b1fd-40dd-9d5f-423ba05793b6@f9941",
+        "0c0cafa9-1bab-4f5f-9df0-fed82fb91176@f9941",
         "4751fb05-dc61-4227-87d9-80af144be235",
         "4751fb05-dc61-4227-87d9-80af144be235",
         "1fc87628-6d44-4db9-838c-3983f8238f39@f9941",
@@ -3790,15 +3790,11 @@
   },
   "03b24b4d-134f-4300-8372-5252d5fc5130": {
     "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.atlas",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "707e4455-21ed-41b6-bac4-d1e33cc61e4f": {
     "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "20d00b11-61c4-436c-95ec-b31d1fce1d12": {
     "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.json",
@@ -3822,17 +3818,11 @@
   },
   "8dea6aa7-7ce1-4e7d-b4c2-51de26b26e99": {
     "url": "db://assets/Assets/Character/Chook/1101_Xiaoji1/1101_Xiaoji1.json",
-    "value": {
-      "depends": [
-        "07780d73-d740-4c56-9e56-00d918d35ed5@6c48a"
-      ]
-    }
+    "value": {}
   },
   "07780d73-d740-4c56-9e56-00d918d35ed5": {
     "url": "db://assets/Assets/Character/Chook/1101_Xiaoji1/1101_Xiaoji1.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "07780d73-d740-4c56-9e56-00d918d35ed5@6c48a": {
     "url": "db://assets/Assets/Character/Chook/1101_Xiaoji1/1101_Xiaoji1.png@6c48a",
@@ -3844,9 +3834,7 @@
   },
   "b602adb0-d707-4533-ae7a-4c1599490e1b": {
     "url": "db://assets/Assets/Character/Chook/1101_Xiaoji1/1101_Xiaoji1.atlas",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "5aa54525-fb85-4f0f-aef7-5125a7b8af7d": {
     "url": "db://assets/Assets/Textures/GameUI/GameHUD",
@@ -4642,9 +4630,7 @@
   },
   "22670271-c2ae-40be-ab8c-86e575e6a104": {
     "url": "db://assets/TextAssets/2108_Xiaoya8.atlas",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "c20578bc-a84a-4749-b44d-5f9802867905": {
     "url": "db://assets/TextAssets/2108_Xiaoya8.json",
@@ -4656,9 +4642,7 @@
   },
   "08db6a62-0e46-45d7-a000-2d834ca161e0": {
     "url": "db://assets/TextAssets/2108_Xiaoya8.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "08db6a62-0e46-45d7-a000-2d834ca161e0@6c48a": {
     "url": "db://assets/TextAssets/2108_Xiaoya8.png@6c48a",
@@ -6877,5 +6861,231 @@
         "6da35edd-c199-4599-998f-896dd65a74b8@6c48a"
       ]
     }
+  },
+  "0c0cafa9-1bab-4f5f-9df0-fed82fb91176": {
+    "url": "db://assets/Assets/Textures/Activity/Activity1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0c0cafa9-1bab-4f5f-9df0-fed82fb91176@6c48a": {
+    "url": "db://assets/Assets/Textures/Activity/Activity1.png@6c48a",
+    "value": {
+      "depends": [
+        "0c0cafa9-1bab-4f5f-9df0-fed82fb91176"
+      ]
+    }
+  },
+  "0c0cafa9-1bab-4f5f-9df0-fed82fb91176@f9941": {
+    "url": "db://assets/Assets/Textures/Activity/Activity1.png@f9941",
+    "value": {
+      "depends": [
+        "0c0cafa9-1bab-4f5f-9df0-fed82fb91176@6c48a"
+      ]
+    }
+  },
+  "dafafdc6-3807-4e6c-bf8c-6cc5e63a4c31": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/1100_Xiaoji0.json",
+    "value": {
+      "depends": [
+        "fa8a0bb9-0b43-42ed-835d-4bb72f8e834f@6c48a"
+      ]
+    }
+  },
+  "b416821a-4c1c-4ad4-93a9-95d210873496": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/1100_Xiaoji0.atlas",
+    "value": {}
+  },
+  "fa8a0bb9-0b43-42ed-835d-4bb72f8e834f": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/1100_Xiaoji0.png",
+    "value": {}
+  },
+  "fa8a0bb9-0b43-42ed-835d-4bb72f8e834f@6c48a": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/1100_Xiaoji0.png@6c48a",
+    "value": {
+      "depends": [
+        "fa8a0bb9-0b43-42ed-835d-4bb72f8e834f"
+      ]
+    }
+  },
+  "93109bbb-0a06-42ea-9f5f-1fb00b38ecb5": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0",
+    "value": {}
+  },
+  "482f3373-123b-427e-83ed-97033b4f2947": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.json",
+    "value": {
+      "depends": [
+        "941bc181-c5fb-4621-b2f4-7ed614157ea2@6c48a"
+      ]
+    }
+  },
+  "31a44b60-d568-473e-9196-d8f248b76bd7": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "941bc181-c5fb-4621-b2f4-7ed614157ea2": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "941bc181-c5fb-4621-b2f4-7ed614157ea2@6c48a": {
+    "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/2100_Xiaoya0.png@6c48a",
+    "value": {
+      "depends": [
+        "941bc181-c5fb-4621-b2f4-7ed614157ea2"
+      ]
+    }
+  },
+  "8a4150b7-1008-4390-93df-fbed1f50810c": {
+    "url": "db://assets/Assets/Character/Chook/1102_Xiaoji2",
+    "value": {}
+  },
+  "8093dce8-f8ac-4a54-b1a7-e4b96de6594f": {
+    "url": "db://assets/Assets/Character/Chook/1102_Xiaoji2/1102_Xiaoji2.json",
+    "value": {}
+  },
+  "de360f25-bac8-462a-880f-a7028383dd0a": {
+    "url": "db://assets/Assets/Character/Chook/1102_Xiaoji2/1102_Xiaoji2.atlas",
+    "value": {}
+  },
+  "b5131c25-272e-4d83-8570-33802c700937": {
+    "url": "db://assets/Assets/Character/Chook/1102_Xiaoji2/1102_Xiaoji2.png",
+    "value": {}
+  },
+  "b5131c25-272e-4d83-8570-33802c700937@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1102_Xiaoji2/1102_Xiaoji2.png@6c48a",
+    "value": {
+      "depends": [
+        "b5131c25-272e-4d83-8570-33802c700937"
+      ]
+    }
+  },
+  "ddf08d5b-1eab-400d-9fc9-49f48ccb044a": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3",
+    "value": {}
+  },
+  "63c1cb8f-0053-46a2-ad1c-84e9166fbf4b": {
+    "url": "db://assets/Assets/Character/Chook/1104_Xiaoji4",
+    "value": {}
+  },
+  "4cbf3a17-cf81-4ee2-a99d-4488b6f56bf8": {
+    "url": "db://assets/Assets/Character/Chook/1105_Xiaoji5",
+    "value": {}
+  },
+  "cc24dc84-2e52-486f-9ffe-b863717e24dc": {
+    "url": "db://assets/Assets/Character/Chook/1106_Xiaoji6",
+    "value": {}
+  },
+  "e9ea1129-9ca8-4ac2-9a7a-01b6c6d770d6": {
+    "url": "db://assets/Assets/Character/Chook/1107_Xiaoji7",
+    "value": {}
+  },
+  "e77cccfc-9993-4668-b9a0-c24db7268ca4": {
+    "url": "db://assets/Assets/Character/Chook/1108_Xiaoji8",
+    "value": {}
+  },
+  "12c006d2-31c1-47de-8ee7-d0360c573d35": {
+    "url": "db://assets/Assets/Character/Chook/1109_Xiaoji9",
+    "value": {}
+  },
+  "0e3210e6-be4a-4587-a548-dbdbcd21286e": {
+    "url": "db://assets/Assets/Character/Chook/1110_Xiaoji10",
+    "value": {}
+  },
+  "25056945-4357-463f-a210-b7f9855f2959": {
+    "url": "db://assets/Assets/Character/Chook_Summon",
+    "value": {}
+  },
+  "3e518256-02df-4a3d-94eb-6b16b2a8daf5": {
+    "url": "db://assets/Assets/Character/Duck_Summon",
+    "value": {}
+  },
+  "ac8405ca-e82d-4af7-bb06-f692417b101e": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1200_Xiaoji",
+    "value": {}
+  },
+  "9792d2ac-ee6c-4e15-81e5-1cd7ad43c05b": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1300_Xiaoji",
+    "value": {}
+  },
+  "343162cb-d7e5-45e0-b814-cb2e5ce2ce5e": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1400_Xiaoji",
+    "value": {}
+  },
+  "d39594d1-0c12-4a7a-8586-dc0f1a00a166": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1401_Xiaoji",
+    "value": {}
+  },
+  "dfb4b2df-79e9-40e4-b2fe-a7589b08e96e": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1500_Xiaoji",
+    "value": {}
+  },
+  "ae0249ee-c322-477d-ab94-3a544f34928b": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1501_Xiaoji",
+    "value": {}
+  },
+  "3f2d72bd-d96b-47be-95b2-13d4a53c0268": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1600_Xiaoji",
+    "value": {}
+  },
+  "2f7f8e5b-686d-4a97-ae61-e1bd046d7d94": {
+    "url": "db://assets/Assets/Character/Chook_Summon/1601_Xiaoji",
+    "value": {}
+  },
+  "59968b7b-4eff-46c0-81d0-5fa199ee09e6": {
+    "url": "db://assets/Assets/Character/Duck/2101_Xiaoya1",
+    "value": {}
+  },
+  "bcee9438-654c-42bf-8c28-e4a8e8957459": {
+    "url": "db://assets/Assets/Character/Duck/2102_Xiaoya2",
+    "value": {}
+  },
+  "592b4f73-826b-467d-aa40-2ff35c237c70": {
+    "url": "db://assets/Assets/Character/Duck/2103_Xiaoya3",
+    "value": {}
+  },
+  "28a30f62-2d70-4e8e-bf95-9605f0fe2358": {
+    "url": "db://assets/Assets/Character/Duck/2104_Xiaoya4",
+    "value": {}
+  },
+  "a256e651-cfc0-43c9-a9d4-6e870b44f077": {
+    "url": "db://assets/Assets/Character/Duck/2105_Xiaoya5",
+    "value": {}
+  },
+  "a3daa1f1-082c-4c41-8075-237df560d426": {
+    "url": "db://assets/Assets/Character/Duck/2106_Xiaoya6",
+    "value": {}
+  },
+  "ad3b2bbf-f57c-457b-bd96-996a47118553": {
+    "url": "db://assets/Assets/Character/Duck/2107_Xiaoya7",
+    "value": {}
+  },
+  "48377944-2988-4986-85a6-41d73f69af44": {
+    "url": "db://assets/Assets/Character/Duck/2108_Xiaoya8",
+    "value": {}
+  },
+  "2f29d70b-e6ed-48c7-b31e-28fc3cfc23d1": {
+    "url": "db://assets/Assets/Character/Duck/2109_Xiaoya9",
+    "value": {}
+  },
+  "d7adecab-8b14-4047-9ce0-5039d3137eaf": {
+    "url": "db://assets/Assets/Character/Duck/2110_Xiaoya10",
+    "value": {}
+  },
+  "be761a21-9dae-4796-bea4-fddae6ccde60": {
+    "url": "db://assets/Assets/Character/Duck_Summon/2200_Xiaya",
+    "value": {}
+  },
+  "0816a845-9551-4967-a10e-51eb66b1c4f6": {
+    "url": "db://assets/Assets/Character/Duck_Summon/2300_Xiaya",
+    "value": {}
+  },
+  "0ab3b66a-e04b-4bd0-9ae6-43b615bb8caa": {
+    "url": "db://assets/Assets/Character/Duck_Summon/2400_Xiaoya",
+    "value": {}
   }
 }
