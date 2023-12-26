@@ -1696,12 +1696,12 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain4.png": {
     "time": 1702452907865.0278,
     "uuid": "e1e6be49-19d5-48a7-99f1-ab9a6a43e3c9",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain3.png": {
     "time": 1702452897442.7788,
     "uuid": "42487bd7-1dd4-4c57-9895-5b196fd4a653",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameExplain\\GameExplain2.png.meta": {
     "time": 1702972967983.796
@@ -2920,7 +2920,7 @@
     "time": 1703570497681.0884
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1703571231431,
+    "time": 1703576510842.1553,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },
