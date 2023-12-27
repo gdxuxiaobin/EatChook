@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 11634.37760001421,
+      "mTimestamp": 7763.476999998093,
       "chunkId": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
       "imports": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 21638.536399960518,
+      "mTimestamp": 12851.917500019073,
       "chunkId": "e690d8d21c3264f88cef1049bc05ae341c5f161a",
       "imports": [
         {
@@ -1004,10 +1004,10 @@
     },
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": {
       "mTimestamp": {
-        "mtime": 1703570497701.0073,
+        "mtime": 1703659848090.4968,
         "uuid": "56b69f43-1f3a-43fd-91c7-72195a09f74a"
       },
-      "chunkId": "09f2577e0d1b327fc07b89697789a122a356c1cf",
+      "chunkId": "48f4b88ba6a0c3bda86b1928476644d0337b08f6",
       "imports": [
         {
           "value": "cc"
