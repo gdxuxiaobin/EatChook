@@ -84,18 +84,6 @@
       },
       "timestamp": 1703570628159
     },
-    "48f4b88ba6a0c3bda86b1928476644d0337b08f6": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1703659912563
-    },
     "86ea51a86e5d858891ef07385334b7b1017d7ca2": {
       "imports": {
         "__unresolved_0": {
@@ -295,7 +283,7 @@
           "messages": []
         }
       },
-      "timestamp": 1703669391258
+      "timestamp": 1703670543977
     },
     "e690d8d21c3264f88cef1049bc05ae341c5f161a": {
       "imports": {
@@ -316,7 +304,7 @@
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "48f4b88ba6a0c3bda86b1928476644d0337b08f6"
+            "id": "a3fa6d3f640bd3b56d31979a66537372d42deb3a"
           },
           "messages": []
         },
@@ -328,7 +316,19 @@
           "messages": []
         }
       },
-      "timestamp": 1703669396162
+      "timestamp": 1703670700746
+    },
+    "a3fa6d3f640bd3b56d31979a66537372d42deb3a": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1703670701073
     }
   },
   "entries": {
@@ -336,7 +336,7 @@
     "cce:/internal/x/prerequisite-imports": "e690d8d21c3264f88cef1049bc05ae341c5f161a",
     "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "823dcf9db92fd488afc60c766b4237a14764ca46",
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameExplain.ts": "9748c985be96c9ad28939b4a67468fb72ef717f3",
-    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": "48f4b88ba6a0c3bda86b1928476644d0337b08f6",
-    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts": "eeafed300b9c4f457222c1453c637b5561eb5438"
+    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts": "eeafed300b9c4f457222c1453c637b5561eb5438",
+    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": "a3fa6d3f640bd3b56d31979a66537372d42deb3a"
   }
 }
