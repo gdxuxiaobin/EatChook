@@ -2537,7 +2537,7 @@
     "missing": false
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook": {
-    "time": 1703570497660.116,
+    "time": 1703657382098.7827,
     "uuid": "b182d173-cbaa-4dbf-90c9-580fd7244cea",
     "missing": false
   },
@@ -2920,7 +2920,7 @@
     "time": 1703570497681.0884
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1703655591579.782,
+    "time": 1703657485951.344,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },
@@ -4750,5 +4750,61 @@
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Textures\\GameUI\\ProgressBar\\Sequence\\Duck\\ProgressBar2_0010.png.meta": {
     "time": 1703570497840.6338
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3.meta": {
+    "time": 1703570497658.1213
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3": {
+    "time": 1703657404419.7566,
+    "uuid": "ddf08d5b-1eab-400d-9fc9-49f48ccb044a",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.atlas.meta": {
+    "time": 1703657404441.6975
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.json.meta": {
+    "time": 1703657404498.5454
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang_2.png.meta": {
+    "time": 1703657404838.637
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.png.meta": {
+    "time": 1703657404886.5083
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang_3.png.meta": {
+    "time": 1703657404834.648
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang_4.png.meta": {
+    "time": 1703657404842.6262
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.atlas": {
+    "time": 1703651883665.6445,
+    "uuid": "7f7025c6-a8cb-4041-9075-a58da301463b",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.json": {
+    "time": 1703651871439.644,
+    "uuid": "a2224d7b-6b3a-493a-814a-491584c0803d",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang_3.png": {
+    "time": 1703651883558.0503,
+    "uuid": "7ce3b66b-da95-4640-8f51-5f4510e2eb93",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang_2.png": {
+    "time": 1703651883220.1187,
+    "uuid": "ee8f378c-f57e-4ad5-9311-e055c34afc77",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang_4.png": {
+    "time": 1703651883650.008,
+    "uuid": "2f1fd97a-4fcb-4a74-8770-e6e3ada5fc28",
+    "missing": false
+  },
+  "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.png": {
+    "time": 1703651881975.901,
+    "uuid": "13378081-cd77-4a01-84f2-dd0d65140659",
+    "missing": false
   }
 }

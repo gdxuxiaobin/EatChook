@@ -184,6 +184,7 @@
         "e2baeafb-9b4f-4ca7-8ad0-70a3940620c6",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
         "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "a2224d7b-6b3a-493a-814a-491584c0803d",
         "f1ccb636-2ee7-4335-bb07-f0f429042000",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
@@ -7081,5 +7082,78 @@
   "0ab3b66a-e04b-4bd0-9ae6-43b615bb8caa": {
     "url": "db://assets/Assets/Character/Duck_Summon/2400_Xiaoya",
     "value": {}
+  },
+  "7f7025c6-a8cb-4041-9075-a58da301463b": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "a2224d7b-6b3a-493a-814a-491584c0803d": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang.json",
+    "value": {
+      "depends": [
+        "13378081-cd77-4a01-84f2-dd0d65140659@6c48a",
+        "ee8f378c-f57e-4ad5-9311-e055c34afc77@6c48a",
+        "7ce3b66b-da95-4640-8f51-5f4510e2eb93@6c48a",
+        "2f1fd97a-4fcb-4a74-8770-e6e3ada5fc28@6c48a"
+      ]
+    }
+  },
+  "ee8f378c-f57e-4ad5-9311-e055c34afc77": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang_2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "13378081-cd77-4a01-84f2-dd0d65140659": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7ce3b66b-da95-4640-8f51-5f4510e2eb93": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang_3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2f1fd97a-4fcb-4a74-8770-e6e3ada5fc28": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang_4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7ce3b66b-da95-4640-8f51-5f4510e2eb93@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang_3.png@6c48a",
+    "value": {
+      "depends": [
+        "7ce3b66b-da95-4640-8f51-5f4510e2eb93"
+      ]
+    }
+  },
+  "ee8f378c-f57e-4ad5-9311-e055c34afc77@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang_2.png@6c48a",
+    "value": {
+      "depends": [
+        "ee8f378c-f57e-4ad5-9311-e055c34afc77"
+      ]
+    }
+  },
+  "2f1fd97a-4fcb-4a74-8770-e6e3ada5fc28@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang_4.png@6c48a",
+    "value": {
+      "depends": [
+        "2f1fd97a-4fcb-4a74-8770-e6e3ada5fc28"
+      ]
+    }
+  },
+  "13378081-cd77-4a01-84f2-dd0d65140659@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1103_Xiaoji3/1103_Xiaoji3_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "13378081-cd77-4a01-84f2-dd0d65140659"
+      ]
+    }
   }
 }
