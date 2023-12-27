@@ -15926,7 +15926,7 @@
         "__id__": 791
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 794
@@ -24542,7 +24542,7 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "TestModel": true,
+    "TestModel": false,
     "GameRank_Btn_Close": {
       "__id__": 790
     },
@@ -29501,7 +29501,7 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "TestModel": true,
+    "TestModel": false,
     "WorldRank_Btn_Close": {
       "__id__": 933
     },
