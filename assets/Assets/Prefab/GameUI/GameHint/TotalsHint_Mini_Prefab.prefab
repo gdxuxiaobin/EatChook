@@ -110,7 +110,7 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
+      "x": -1,
       "y": 1,
       "z": 1
     },
@@ -147,7 +147,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": -43,
-      "y": -6.5,
+      "y": -7.797,
       "z": 0
     },
     "_lrot": {
@@ -186,8 +186,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 80,
-      "height": 80
+      "width": 82,
+      "height": 82
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -352,7 +352,7 @@
       "__id__": 1
     },
     "_children": [],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 15
@@ -366,7 +366,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -251.544,
+      "x": 242.575,
       "y": -10.614,
       "z": 0
     },
@@ -485,7 +485,7 @@
       "__id__": 1
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 21
@@ -499,7 +499,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -251.544,
+      "x": 234.874,
       "y": 0,
       "z": 0
     },
@@ -512,7 +512,7 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
+      "x": -1,
       "y": 1,
       "z": 1
     },
@@ -575,12 +575,12 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "770a7bec-e17e-4b87-a38b-1efd8199ee18@f9941",
+      "__uuid__": "012bf55c-ce73-473b-88e6-ead9011a168d@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 1,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -635,7 +635,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -91.804,
+      "x": 198.196,
       "y": 3.579,
       "z": 0
     },
@@ -800,7 +800,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -90.096,
+      "x": 199.904,
       "y": 0,
       "z": 0
     },
@@ -927,7 +927,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "手速",
+    "_string": "积分",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 20,
