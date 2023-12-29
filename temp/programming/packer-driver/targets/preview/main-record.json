@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 8531.389799952507,
+      "mTimestamp": 13183.60119998455,
       "chunkId": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
       "imports": [
         {
@@ -598,7 +598,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 14221.215499997139,
+      "mTimestamp": 25961.93060004711,
       "chunkId": "e690d8d21c3264f88cef1049bc05ae341c5f161a",
       "imports": [
         {
@@ -1056,10 +1056,10 @@
     },
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts": {
       "mTimestamp": {
-        "mtime": 1703570497702.0046,
+        "mtime": 1703830265727.7676,
         "uuid": "89f584db-083c-4f4d-bb80-f5b7c60df839"
       },
-      "chunkId": "eeafed300b9c4f457222c1453c637b5561eb5438",
+      "chunkId": "927ec8868ad92c52aa6c396318e646a570746a0c",
       "imports": [
         {
           "value": "cc"

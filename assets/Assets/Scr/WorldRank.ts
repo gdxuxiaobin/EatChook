@@ -40,7 +40,7 @@ export class WorldRank extends Component {
     WorldRank_Ranking: WorldRank_Ranking[] = []
     @property({ type: Node, displayName: `item的根节点` })
     WorldRank_Ranking_Root: Node
-    @property({type:Prefab})
+    @property({ type: Prefab })
     WorldRank_PlayerPrefab: Prefab
 
     @property({ type: WorldRank_PlayerPrefab })
@@ -56,7 +56,7 @@ export class WorldRank extends Component {
 
     }
     async LoadTestData() {
-        if(!this.TestModel){return}
+        if (!this.TestModel) { return }
         for (let i = 1; i < 100; i++) {
             let avatar_sprite = await this.loadImage(`http://cdn.adota.cn//temp/avatar/0158aecf15014a88412622449019c11ca08a81bb.jpg`)
             let item: WorldRankItemInfo = {
@@ -77,7 +77,7 @@ export class WorldRank extends Component {
     start() {
     }
 
-    OnPreLoadWorldRank(Data:WorldRankItemInfo[]) {
+    OnPreLoadWorldRank(Data: WorldRankItemInfo[]) {
         this.PreLoadWorldRank(Data)
         this.node.active = false
     }
@@ -94,7 +94,7 @@ export class WorldRank extends Component {
             }
             this.WorldRank_Ranking[i].HeadImage.spriteFrame = users[i].avatar_sprite
             this.WorldRank_Ranking[i].NickName.string = users[i].nickname
-            this.WorldRank_Ranking[i].Score.string = users[i].total_score + ``
+            this.WorldRank_Ranking[i].Score.string = this.Reduce_10KFloor(users[i].total_score) + ``
         }
         if (users.length < 3) { return }
         for (let i = 3; i < users.length; i++) {
@@ -107,7 +107,7 @@ export class WorldRank extends Component {
             }
             item.getChildByPath(this.WorldRank_PlayerPrefabPath.NamePath).getComponent(Label).string = users[i].nickname
             item.getChildByPath(this.WorldRank_PlayerPrefabPath.WorldRankPath).getComponent(Label).string = `${i + 1}`
-            item.getChildByPath(this.WorldRank_PlayerPrefabPath.ScorePath).getComponent(Label).string = users[i].total_score + ``
+            item.getChildByPath(this.WorldRank_PlayerPrefabPath.ScorePath).getComponent(Label).string = this.Reduce_10KFloor(users[i].total_score) + ``
             item.getChildByPath(this.WorldRank_PlayerPrefabPath.HeadImagePath).getComponent(Sprite).sizeMode = Sprite.SizeMode.CUSTOM
             item.getChildByPath(this.WorldRank_PlayerPrefabPath.HeadImagePath).getComponent(Sprite).spriteFrame = users[i].avatar_sprite
 
@@ -120,7 +120,7 @@ export class WorldRank extends Component {
      * 关闭按钮
      */
     closeBtn() {
-        this.node.active =  false
+        this.node.active = false
     }
     /**加载头像，返回spriteframe */
     loadImage(icon_url: string) {
@@ -139,6 +139,10 @@ export class WorldRank extends Component {
                 }
             });
         });
+    }
+    /**超过10万，简化万 */
+    Reduce_10KFloor(source: number): string {
+        return source < 100000 ? Math.floor(source) + `` : (source / 10000).toFixed(2) + `万`
     }
 }
 
