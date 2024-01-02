@@ -9275,5 +9275,9 @@
     "value": {
       "depends": []
     }
+  },
+  "ca51fbde-f3b5-4522-a9a0-aa0223d2af1f": {
+    "url": "db://assets/Assets/Scr/GameRank.ts",
+    "value": {}
   }
 }

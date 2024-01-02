@@ -1333,7 +1333,7 @@
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Scr\\GameRank.ts": {
     "time": 1704175758665.391,
     "uuid": "56b69f43-1f3a-43fd-91c7-72195a09f74a",
-    "missing": false
+    "missing": true
   },
   "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Textures\\GameUI\\GameHint\\JoinCampHint2.meta": {
     "time": 1703571272000
@@ -2507,7 +2507,7 @@
     "missing": false
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr": {
-    "time": 1704190784079.3171,
+    "time": 1704191375445.2278,
     "uuid": "041e1e94-5cd2-4be9-97a6-39792b2470bb",
     "missing": false
   },
@@ -2742,7 +2742,7 @@
     "missing": false
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Scr\\GameRank.ts": {
-    "time": 1704185451351.0684,
+    "time": 1704191375441.2664,
     "uuid": "56b69f43-1f3a-43fd-91c7-72195a09f74a",
     "missing": false
   },
@@ -2920,7 +2920,7 @@
     "time": 1704176057713.1917
   },
   "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Scene\\Main.scene": {
-    "time": 1704184876589.1565,
+    "time": 1704191378474.6426,
     "uuid": "f1ccb636-2ee7-4335-bb07-f0f429042000",
     "missing": false
   },

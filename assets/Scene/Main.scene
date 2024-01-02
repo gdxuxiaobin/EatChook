@@ -2478,7 +2478,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -2585,7 +2585,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -2692,7 +2692,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -2799,7 +2799,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -2906,7 +2906,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -31536,7 +31536,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
