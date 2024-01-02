@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 5167.9649000018835,
+      "mTimestamp": 8472.754400014877,
       "chunkId": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
       "imports": [
         {
@@ -598,11 +598,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 86761.4708000049,
+      "mTimestamp": 13516.493000030518,
       "chunkId": "e690d8d21c3264f88cef1049bc05ae341c5f161a",
       "imports": [
         {
-          "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts",
+          "value": "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -611,12 +611,12 @@
             },
             "end": {
               "line": 4,
-              "column": 92
+              "column": 139
             }
           }
         },
         {
-          "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts",
+          "value": "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameExplain.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -625,12 +625,12 @@
             },
             "end": {
               "line": 5,
-              "column": 89
+              "column": 96
             }
           }
         },
         {
-          "value": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts",
+          "value": "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -639,12 +639,12 @@
             },
             "end": {
               "line": 6,
-              "column": 90
+              "column": 93
             }
           }
         },
         {
-          "value": "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -653,7 +653,7 @@
             },
             "end": {
               "line": 7,
-              "column": 142
+              "column": 94
             }
           }
         }
@@ -663,28 +663,28 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameExplain.ts"
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/GameRank.ts"
+            "url": "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameExplain.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/MyWorkspace/Heyyogame/EatChook/EatChook/assets/Assets/Scr/WorldRank.ts"
+            "url": "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Program%20Files/CocosEditors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+            "url": "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts"
           },
           "messages": []
         }
@@ -952,7 +952,7 @@
     },
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameExplain.ts": {
       "mTimestamp": {
-        "mtime": 1703570497700.01,
+        "mtime": 1704176057736.1304,
         "uuid": "ea4821e0-2acc-4bd5-8396-40f33252b75f"
       },
       "chunkId": "9748c985be96c9ad28939b4a67468fb72ef717f3",
@@ -1004,10 +1004,10 @@
     },
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": {
       "mTimestamp": {
-        "mtime": 1703814566644.7295,
+        "mtime": 1704176057737.1277,
         "uuid": "56b69f43-1f3a-43fd-91c7-72195a09f74a"
       },
-      "chunkId": "ff5ba4d84e55c1f1336fdd5943025340bc24dabc",
+      "chunkId": "18fc5cd1e206997bea6783b699a29b2a0001e5a7",
       "imports": [
         {
           "value": "cc"
@@ -1056,7 +1056,7 @@
     },
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts": {
       "mTimestamp": {
-        "mtime": 1703830265727.7676,
+        "mtime": 1704176057738.1248,
         "uuid": "89f584db-083c-4f4d-bb80-f5b7c60df839"
       },
       "chunkId": "927ec8868ad92c52aa6c396318e646a570746a0c",

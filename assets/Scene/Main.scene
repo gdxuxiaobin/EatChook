@@ -2478,8 +2478,8 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "default",
-    "defaultAnimation": "Run1",
+    "defaultSkin": "",
+    "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
     "_debugMesh": false,
@@ -2585,7 +2585,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "default",
+    "defaultSkin": "",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -2692,7 +2692,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "default",
+    "defaultSkin": "",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -2757,13 +2757,13 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 109.32,
-      "height": 117.3
+      "width": 246.32,
+      "height": 328.56
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5333882180753751,
-      "y": 0.004774083546462063
+      "x": 0.4451526469632998,
+      "y": 0.30435841246652057
     },
     "_id": "fah/sZO5hKaYZPjuxoPm37"
   },
@@ -2799,8 +2799,8 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "default",
-    "defaultAnimation": "Run1",
+    "defaultSkin": "",
+    "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
     "_debugMesh": false,
@@ -2906,7 +2906,7 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "default",
+    "defaultSkin": "",
     "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
@@ -31494,13 +31494,13 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1388.92,
-      "height": 1925.87
+      "width": 2784.36,
+      "height": 2462.54
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
-      "x": 0.5011591740345016,
-      "y": 0.0017342811300866622
+      "x": 0.6552169978020083,
+      "y": 0.21928577809903596
     },
     "_id": "a1zG+7F31MmY8KFFFgDzzA"
   },
@@ -31536,8 +31536,8 @@
       "__expectedType__": "sp.SkeletonData"
     },
     "_premultipliedAlpha": false,
-    "defaultSkin": "default",
-    "defaultAnimation": "Act_ChuChang",
+    "defaultSkin": "",
+    "defaultAnimation": "",
     "_enableBatch": false,
     "_sockets": [],
     "_debugMesh": false,

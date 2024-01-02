@@ -15,44 +15,6 @@
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\1100_Xiaoji0.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\1100_Xiaoji0.atlas"
     ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect": [
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
-      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\sprite-vs.chunk",
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\sprite-fs.chunk",
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.fnt": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.png"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.fnt": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.png"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.fnt": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.png"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas"
-    ],
-    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.json": [
-      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.atlas"
-    ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect": [
       "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
       "D:\\Program Files\\CocosEditors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
@@ -90,6 +52,161 @@
     ],
     "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": [
       "D:\\MyWorkspace\\Heyyogame\\EatChook\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Mat\\CircleAvatar.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\sprite-vs.chunk",
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\sprite-fs.chunk",
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.fnt": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Ranking.png"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.fnt": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken.png"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.fnt": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Font\\Fnt_EatChicken_Scaleplate.png"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameEnd\\GameEnd.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Anims\\GameUI\\GameStart\\GameStart.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1100_Xiaoji0\\1100_Xiaoji0.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4\\1104_Xiaoji4_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4\\1104_Xiaoji4_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4\\1104_Xiaoji4.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4\\1104_Xiaoji4.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5\\1105_Xiaoji5.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5\\1105_Xiaoji5.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5\\1105_Xiaoji5_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5\\1105_Xiaoji5_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6\\1106_Xiaoji6.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6\\1106_Xiaoji6.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6\\1106_Xiaoji6_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6\\1106_Xiaoji6_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7\\1107_Xiaoji7.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7\\1107_Xiaoji7.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8\\1108_Xiaoji8.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8\\1108_Xiaoji8.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7\\1107_Xiaoji7_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7\\1107_Xiaoji7_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8\\1108_Xiaoji8_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8\\1108_Xiaoji8_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9\\1109_Xiaoji9.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9\\1109_Xiaoji9.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9\\1109_Xiaoji9_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9\\1109_Xiaoji9_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10\\1110_Xiaoji10_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10\\1110_Xiaoji10_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10\\1110_Xiaoji10.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10\\1110_Xiaoji10.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1\\2101_Xiaoya1_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1\\2101_Xiaoya1_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1\\2101_Xiaoya1.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1\\2101_Xiaoya1.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2\\2102_Xiaoya2.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2\\2102_Xiaoya2.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2\\2102_Xiaoya2_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2\\2102_Xiaoya2_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3\\2103_Xiaoya3.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3\\2103_Xiaoya3.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3\\2103_Xiaoya3_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3\\2103_Xiaoya3_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4\\2104_Xiaoya4_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4\\2104_Xiaoya4_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4\\2104_Xiaoya4.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4\\2104_Xiaoya4.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5\\2105_Xiaoya5.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5\\2105_Xiaoya5.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5\\2105_Xiaoya5_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5\\2105_Xiaoya5_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6\\2106_Xiaoya6.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6\\2106_Xiaoya6.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6\\2106_Xiaoya6_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6\\2106_Xiaoya6_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7\\2107_Xiaoya7.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7\\2107_Xiaoya7.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7\\2107_Xiaoya7_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7\\2107_Xiaoya7_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8\\2108_Xiaoya8.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8\\2108_Xiaoya8.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8\\2108_Xiaoya8_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8\\2108_Xiaoya8_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9\\2109_Xiaoya9.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9\\2109_Xiaoya9.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9\\2109_Xiaoya9_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9\\2109_Xiaoya9_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10\\2110_Xiaoya10.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10\\2110_Xiaoya10.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10\\2110_Xiaoya10_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10\\2110_Xiaoya10_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3_ChuChang.atlas"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.json": [
+      "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2100_Xiaoya0\\2100_Xiaoya0.atlas"
     ]
   },
   "uuid": {
@@ -183,6 +300,178 @@
       "ee8f378c-f57e-4ad5-9311-e055c34afc77@6c48a",
       "7ce3b66b-da95-4640-8f51-5f4510e2eb93@6c48a",
       "2f1fd97a-4fcb-4a74-8770-e6e3ada5fc28@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1_ChuChang.json": [
+      "af23cd25-ce11-4371-a44c-3067b222702c@6c48a",
+      "4ec88350-139d-46d2-a8c9-524f6817ec48@6c48a",
+      "7fbc44e5-83a5-4d9f-86ea-b6c88089f54d@6c48a",
+      "2bd1f396-d4bf-4fcc-95e3-f3fa8f235093@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1101_Xiaoji1\\1101_Xiaoji1.json": [
+      "fcbae774-964a-43d2-9d37-5b75b0d6370a@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2.json": [
+      "cf9398aa-f4d0-4ac8-92ad-a3d6fdd87d72@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1102_Xiaoji2\\1102_Xiaoji2_ChuChang.json": [
+      "953ab88a-ab53-4e9a-a7a3-af32b96d5724@6c48a",
+      "eefb3bec-a12c-431f-84e6-9979e5c19be2@6c48a",
+      "53ee37dc-6ae2-410a-8acb-422aad0c3cbc@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1103_Xiaoji3\\1103_Xiaoji3.json": [
+      "45030ed6-13d6-44f8-a847-50b80e4557e7@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4\\1104_Xiaoji4.json": [
+      "06180713-daea-4284-aee8-8bf0b265302f@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1104_Xiaoji4\\1104_Xiaoji4_ChuChang.json": [
+      "520aefe3-2a73-4e47-8c4c-52e90a2c93c2@6c48a",
+      "a6594f7f-dd2e-4277-8341-64524428b6f1@6c48a",
+      "92579705-41d9-4d91-8f6e-6419990e9f96@6c48a",
+      "1fb88d38-dda5-4af0-9d07-dc99e90f3d12@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5\\1105_Xiaoji5.json": [
+      "214436ef-df64-4ace-9562-6be5c3c32f1f@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1105_Xiaoji5\\1105_Xiaoji5_ChuChang.json": [
+      "f0ad5930-c04b-4522-973c-eec9a72f3408@6c48a",
+      "3b642e2d-a0df-43cf-9768-5f6494bcefa9@6c48a",
+      "23cafdb2-116c-4555-a2d7-390fd12d4552@6c48a",
+      "364e1158-7537-4e29-9f5f-951ba259855f@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6\\1106_Xiaoji6.json": [
+      "6eac584a-60ce-4c36-9f79-1a56838ce0b3@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1106_Xiaoji6\\1106_Xiaoji6_ChuChang.json": [
+      "06010c96-cd0d-4d82-aa3c-17a4fc2b88eb@6c48a",
+      "dd6552bc-4d7d-4043-8516-fd11b4fa8c7e@6c48a",
+      "d248b01f-3552-493b-a91c-c32b27a8e6af@6c48a",
+      "8f45b544-a500-4a11-8ea6-50c64aab4fde@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7\\1107_Xiaoji7.json": [
+      "7f6408bc-a30a-43e5-9edb-651bec9c8fbc@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1107_Xiaoji7\\1107_Xiaoji7_ChuChang.json": [
+      "b5331194-16a0-45c8-8f6c-a31201499e6c@6c48a",
+      "68a4cd44-bd5c-477b-8da1-dce6a7b8362f@6c48a",
+      "8c386ca7-37c2-49c5-95b7-0cec5092e91e@6c48a",
+      "a34db5cf-2787-47fa-add4-a134cbd1365d@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8\\1108_Xiaoji8.json": [
+      "ecf77f8a-1e90-46f4-9c0c-6841177455d4@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1108_Xiaoji8\\1108_Xiaoji8_ChuChang.json": [
+      "f053e231-f215-4021-a59d-c7184483ebe4@6c48a",
+      "e4f62085-981c-44cc-9251-439d54c68070@6c48a",
+      "9ca230c2-e4e2-480d-b54f-6e8e531c2ec1@6c48a",
+      "1a430d4c-1c25-498e-89ef-aabd3acff8a2@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9\\1109_Xiaoji9.json": [
+      "3be44fd0-81cb-4e84-97da-0d7f2fb98f47@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1109_Xiaoji9\\1109_Xiaoji9_ChuChang.json": [
+      "9095ee14-8d44-4850-87cd-bfd43e86ba0f@6c48a",
+      "7a298fee-84b9-439e-b975-0ea7d748c685@6c48a",
+      "ae33b16c-d3d1-45a4-8028-1488933d3ac9@6c48a",
+      "c9bcf9d3-4997-453e-b270-fc625f30c7c7@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10\\1110_Xiaoji10.json": [
+      "e7bc1bc4-893b-40a5-8104-daaf7ba79c50@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Chook\\1110_Xiaoji10\\1110_Xiaoji10_ChuChang.json": [
+      "16f5d6ac-3bb8-4b53-81ed-2935e97d2162@6c48a",
+      "3ef9f0c3-4ca4-45d7-8a48-362f20f9cec7@6c48a",
+      "caa368f1-66aa-4f83-b50e-f892c43fb07e@6c48a",
+      "1270217a-d462-4fb1-9649-cd9aa8f0ed93@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1\\2101_Xiaoya1.json": [
+      "848859ba-bc85-44e2-8fd4-7e16a1acd78c@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2101_Xiaoya1\\2101_Xiaoya1_ChuChang.json": [
+      "276a91dc-114e-492f-9b78-2ab17a6335be@6c48a",
+      "d8431fa5-bf49-4289-a403-a855a6e8d137@6c48a",
+      "c66bfe5c-48e4-455d-8b21-d4c7caef6718@6c48a",
+      "14b53a51-4c30-4aef-b6ba-9af5d711282d@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2\\2102_Xiaoya2.json": [
+      "9d9c1f1c-2ad4-403e-ae90-d2ef93d4ec89@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2102_Xiaoya2\\2102_Xiaoya2_ChuChang.json": [
+      "cb079d13-a895-4138-8dd0-35bf4a5c7337@6c48a",
+      "7b6b0eda-096a-412d-9af1-626624c1538d@6c48a",
+      "3d0ac115-145b-4854-b81b-52736ada532b@6c48a",
+      "f47687fe-96cb-48e2-b638-ac5c1401ffc0@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3\\2103_Xiaoya3.json": [
+      "7de498a8-5276-433c-915d-a4291ad509d4@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2103_Xiaoya3\\2103_Xiaoya3_ChuChang.json": [
+      "2b8f9c09-0c5c-4cee-9d5b-38a22fe65f3f@6c48a",
+      "33c42e9a-1999-41da-865b-324c97c96337@6c48a",
+      "8a782725-ab2c-44f2-a3ed-1b84850f3674@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4\\2104_Xiaoya4.json": [
+      "829660ae-d6b7-4e1d-8d53-525c9f993917@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2104_Xiaoya4\\2104_Xiaoya4_ChuChang.json": [
+      "e92fbe43-ff4b-4635-b197-4fad145880af@6c48a",
+      "c29128ff-3432-4fe3-80c7-f610ab880cf6@6c48a",
+      "008af796-4ecf-451e-908e-040c62b220de@6c48a",
+      "737eeeeb-c0d9-41eb-a306-e0bdc19fe1e8@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5\\2105_Xiaoya5.json": [
+      "ca997d1b-ab10-4898-84e9-a1dd90281b9c@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2105_Xiaoya5\\2105_Xiaoya5_ChuChang.json": [
+      "0dce4b27-3aa7-4f81-89b3-abc04c5fd844@6c48a",
+      "ee9c4f12-0de5-4777-8989-a70e7250d093@6c48a",
+      "3e2d2917-c5f0-48d1-94cb-067ac3a3dd96@6c48a",
+      "bd922e07-3e54-482f-830f-d21724f73820@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6\\2106_Xiaoya6.json": [
+      "9aa5cb18-0380-4fee-8398-17b4246a1380@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2106_Xiaoya6\\2106_Xiaoya6_ChuChang.json": [
+      "76385eca-5df7-4b13-a541-955b2ec58626@6c48a",
+      "b5a771e3-1b27-4fd5-8a44-6cdea767a094@6c48a",
+      "32f434c6-7187-4529-b7b1-f6c6fa40056a@6c48a",
+      "3aa3a15e-9c43-47cf-9e2c-66146b2333fa@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7\\2107_Xiaoya7.json": [
+      "9fdbe974-e17b-4af1-b451-d3a685a880b5@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2107_Xiaoya7\\2107_Xiaoya7_ChuChang.json": [
+      "0e599351-e203-4a73-a83b-030df773fd10@6c48a",
+      "45b418e8-6966-4fdb-8a42-374fc5b0c2d2@6c48a",
+      "bd764b5d-0233-4e61-9a06-842f29406c7d@6c48a",
+      "508dfeab-8f5f-4772-bc9e-091c44afb280@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8\\2108_Xiaoya8.json": [
+      "275473a6-4c32-46c9-9f95-1d10de59fb8f@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2108_Xiaoya8\\2108_Xiaoya8_ChuChang.json": [
+      "8aa11390-98bf-48dd-a14a-f46bbd5030e7@6c48a",
+      "2a4ebfcf-8d3e-4337-bc98-8c73bd987254@6c48a",
+      "b13e9c46-53e0-462e-af20-57d2b64817c1@6c48a",
+      "290ce9e6-b335-48f6-8751-0b72bc7c320d@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9\\2109_Xiaoya9.json": [
+      "c506fec9-67a4-4e90-afc2-5e223b656e7c@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2109_Xiaoya9\\2109_Xiaoya9_ChuChang.json": [
+      "7e01913a-fd21-4cc2-889e-03a2d22838ec@6c48a",
+      "ca4f5b7b-f39c-4976-bf6f-9b08f8f232a9@6c48a",
+      "ea999849-1770-4fca-a011-19e873cea4f0@6c48a",
+      "67192e67-88fe-4d94-bfa4-3c14b290ba4d@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10\\2110_Xiaoya10.json": [
+      "806aa5d6-a5f2-4937-b77c-d00f63835d2b@6c48a"
+    ],
+    "C:\\Users\\HY-PC-007\\Desktop\\EatChicken\\EatChook\\assets\\Assets\\Character\\Duck\\2110_Xiaoya10\\2110_Xiaoya10_ChuChang.json": [
+      "da2eb415-b1c1-4fba-810f-ac35503c0bd0@6c48a",
+      "76995fe6-25b7-41b4-b7bd-fbbee852cbb6@6c48a",
+      "ca1ee4ac-a06d-45d6-a153-6eaa328d67bb@6c48a",
+      "b132ec2a-312d-4994-b4ef-fba4eafe05f7@6c48a"
     ]
   }
 }
