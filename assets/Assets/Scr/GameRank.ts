@@ -57,8 +57,11 @@ export class GameRank extends Component {
 
     @property({ type: Sprite })
     GameRank_Btn_Close: Sprite;
-    @property({ type: [Node],displayName:`标题图片: 0=小鸡，1=小鸭` })
-    TitleSprite: Node[] = [];
+    
+    @property({type:[Node],displayName: `鸡标题`})
+    Chicken_Title: Node[] = []
+    @property({ type: [Node],displayName:`鸭标题` })
+    Duck_Title: Node[] = []
 
     @property({ type: SpriteFrame, displayName: `默认头像` })
     DefaultHeadImage: SpriteFrame
@@ -117,11 +120,11 @@ export class GameRank extends Component {
     *  */
     PreLoadGameRank(values: GameRankkItemInfo[],WinTeam: number) {
         if(WinTeam==0){
-            this.TitleSprite[0].active = true
-            this.TitleSprite[1].active = false
+            this.Chicken_Title.forEach((item)=>{item.active = true})
+            this.Duck_Title.forEach((item)=>{item.active = false})
         }else{
-            this.TitleSprite[0].active = false
-            this.TitleSprite[1].active = true
+            this.Chicken_Title.forEach((item)=>{item.active = false})
+            this.Duck_Title.forEach((item)=>{item.active = true})
 
         }
         let players = values

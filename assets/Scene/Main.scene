@@ -17064,7 +17064,7 @@
         "__id__": 881
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 1021
@@ -17151,7 +17151,7 @@
         "__id__": 871
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 874
@@ -25771,12 +25771,20 @@
     "GameRank_Btn_Close": {
       "__id__": 870
     },
-    "TitleSprite": [
+    "Chicken_Title": [
       {
         "__id__": 642
       },
       {
+        "__id__": 648
+      }
+    ],
+    "Duck_Title": [
+      {
         "__id__": 645
+      },
+      {
+        "__id__": 651
       }
     ],
     "DefaultHeadImage": {
@@ -26003,7 +26011,7 @@
         "__id__": 1011
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 1014
