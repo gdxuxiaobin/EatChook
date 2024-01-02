@@ -140,8 +140,13 @@ export class GameRank extends Component {
             this.GameRank_Ranking[i].Score.string = `${players[i].score < 100000 ? players[i].score : Math.floor(players[i].score / 10000) + `万`}`
             this.GameRank_Ranking[i].Liansheng.string = players[i].curliansheng + ``
             this.GameRank_Ranking[i].WorldRank.string = players[i].rank_no + ``
-            this.GameRank_Ranking[i].GetLiansheng.string = `(${players[i].getLiansheng < 0 ? `` : `+`}${players[i].getLiansheng})`
             this.GameRank_Ranking[i].GetScore.string = `+${players[i].getScore < 100000 ? players[i].getScore : Math.floor(players[i].getScore / 10000) + `万`}`
+            if (players[i].getLiansheng < 0) {
+                this.GameRank_Ranking[i].GetLiansheng.string = ``
+            } else {
+                this.GameRank_Ranking[i].GetLiansheng.string = `(+${players[i].getLiansheng})`
+            }
+
             if (players[i].player_type == 0) {
                 this.GameRank_Ranking[i].ChickenSign.forEach( (item)=>{ item.active = true} )
                 this.GameRank_Ranking[i].DuckSign.forEach( (item)=>{ item.active = false} )
@@ -180,7 +185,12 @@ export class GameRank extends Component {
         ScoreLabel.string = `${player.score < 100000 ? player.score : Math.floor(player.score / 10000) + `万`}`
         curlianshengLabel.string = player.curliansheng + ``
         WorldRankLabel.string = player.rank_no + ``
-        GetLianshengLabel.string = `(${player.getLiansheng < 0 ? `` : `+`}${player.getLiansheng})`
+        if (player.getLiansheng < 0) {
+            GetLianshengLabel.string = ``
+        } else {
+            GetLianshengLabel.string = `(+${player.getLiansheng})`
+        }
+
         if(player.getScore!=0){
             GetScoreLabel.string = `+${player.getScore < 100000 ? player.getScore : Math.floor(player.getScore / 10000) + `万`}`
         }else{
