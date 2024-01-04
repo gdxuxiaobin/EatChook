@@ -188,9 +188,9 @@ export class GameRank extends Component {
         curlianshengLabel.string = player.curliansheng + ``
         WorldRankLabel.string = player.rank_no + ``
         if (player.getLiansheng < 0) {
-            GetLianshengLabel.string = ``
+            GetLianshengLabel.string = `吃了${player.curliansheng}道菜`
         } else {
-            GetLianshengLabel.string = `(+${player.getLiansheng})`
+            GetLianshengLabel.string = `吃了${player.curliansheng}道菜(+${player.getLiansheng})`
         }
 
         if(player.getScore!=0){
