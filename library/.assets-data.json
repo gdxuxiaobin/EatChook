@@ -110,7 +110,6 @@
         "df45e4e8-69dd-43e7-b470-87016724cfc7",
         "54c34405-b956-46df-86c7-9039aa76d099@f9941",
         "bbe186f9-0ebe-4ee7-b557-c98a79e7b473@f9941",
-        "687fc57e-e491-4dd2-83d6-daad71cfad7d",
         "f57f4be6-790e-4269-abb8-105915486329",
         "f57f4be6-790e-4269-abb8-105915486329",
         "c912b594-4d42-4000-8ce8-cffea97e69e2@f9941",
@@ -188,9 +187,6 @@
         "4da907b8-ad65-4f44-9c2c-9a2b5aedf2ba@f9941",
         "ca46870e-14a4-4646-87cc-edf94fe6b051@f9941",
         "e2baeafb-9b4f-4ca7-8ad0-70a3940620c6",
-        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
-        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
-        "a2224d7b-6b3a-493a-814a-491584c0803d",
         "f1ccb636-2ee7-4335-bb07-f0f429042000",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
         "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
@@ -8105,9 +8101,7 @@
   },
   "9dd86a24-005a-49fd-8771-2dacee1179eb": {
     "url": "db://assets/Assets/Character/Duck/2100_Xiaoya0/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "caa368f1-66aa-4f83-b50e-f892c43fb07e@6c48a": {
     "url": "db://assets/Assets/Character/Chook/1110_Xiaoji10/1110_Xiaoji10_ChuChang_3.png@6c48a",
@@ -8212,9 +8206,7 @@
   },
   "f62d4109-40c2-4832-b3be-4a7f46318358": {
     "url": "db://assets/Assets/Character/Duck/2101_Xiaoya1/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "10fa08ea-bdb8-4d9a-81fb-13a87b03ab8f": {
     "url": "db://assets/Assets/Character/Duck/2102_Xiaoya2/2102_Xiaoya2.atlas",
@@ -8319,9 +8311,7 @@
   },
   "42ce9ee1-aa99-4668-8261-98c72d87b5a7": {
     "url": "db://assets/Assets/Character/Duck/2102_Xiaoya2/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "3d0ac115-145b-4854-b81b-52736ada532b@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2102_Xiaoya2/2102_Xiaoya2_ChuChang_3.png@6c48a",
@@ -8411,9 +8401,7 @@
   },
   "6f58f624-d02c-4f93-95f5-a9f16c4ba03e": {
     "url": "db://assets/Assets/Character/Duck/2103_Xiaoya3/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "7de498a8-5276-433c-915d-a4291ad509d4@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2103_Xiaoya3/2103_Xiaoya3.png@6c48a",
@@ -8518,9 +8506,7 @@
   },
   "802fb0bd-e16f-4e56-8d89-c826097887c4": {
     "url": "db://assets/Assets/Character/Duck/2104_Xiaoya4/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "fb351763-eced-4017-898d-d0356f13a2cc": {
     "url": "db://assets/Assets/Character/Duck/2105_Xiaoya5/2105_Xiaoya5.atlas",
@@ -8625,9 +8611,7 @@
   },
   "cb3be901-7b0c-4640-896e-1e2838617ad9": {
     "url": "db://assets/Assets/Character/Duck/2105_Xiaoya5/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "3e2d2917-c5f0-48d1-94cb-067ac3a3dd96@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2105_Xiaoya5/2105_Xiaoya5_ChuChang_3.png@6c48a",
@@ -8732,9 +8716,7 @@
   },
   "d4b39c83-f01e-4291-95d1-63eedd464bf3": {
     "url": "db://assets/Assets/Character/Duck/2106_Xiaoya6/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "3aa3a15e-9c43-47cf-9e2c-66146b2333fa@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2106_Xiaoya6/2106_Xiaoya6_ChuChang_4.png@6c48a",
@@ -8839,9 +8821,7 @@
   },
   "07671b05-8a85-4e96-9643-45f9d5fb93ea": {
     "url": "db://assets/Assets/Character/Duck/2107_Xiaoya7/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "bd764b5d-0233-4e61-9a06-842f29406c7d@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2107_Xiaoya7/2107_Xiaoya7_ChuChang_3.png@6c48a",
@@ -8946,9 +8926,7 @@
   },
   "b6a1516f-f8d1-40eb-b61f-0e05c995e612": {
     "url": "db://assets/Assets/Character/Duck/2108_Xiaoya8/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "290ce9e6-b335-48f6-8751-0b72bc7c320d@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2108_Xiaoya8/2108_Xiaoya8_ChuChang_4.png@6c48a",
@@ -9053,9 +9031,7 @@
   },
   "a11f4197-04cd-4eae-9804-797a3ce6db2c": {
     "url": "db://assets/Assets/Character/Duck/2109_Xiaoya9/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "ea999849-1770-4fca-a011-19e873cea4f0@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2109_Xiaoya9/2109_Xiaoya9_ChuChang_3.png@6c48a",
@@ -9160,9 +9136,7 @@
   },
   "9826da1e-cc73-41d6-8a5b-06d142490387": {
     "url": "db://assets/Assets/Character/Duck/2110_Xiaoya10/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "b132ec2a-312d-4994-b4ef-fba4eafe05f7@6c48a": {
     "url": "db://assets/Assets/Character/Duck/2110_Xiaoya10/2110_Xiaoya10_ChuChang_4.png@6c48a",
@@ -9197,19 +9171,19 @@
     }
   },
   "d2a3b9fa-6d13-440e-9a39-9893ac5e2ce3": {
-    "url": "db://assets/Assets/Character/Duck/2200_Xiaya",
+    "url": "db://assets/Assets/Character/Duck/2200_Huabanche",
     "value": {}
   },
   "30034e34-6a3b-4175-baba-883c98e33a51": {
-    "url": "db://assets/Assets/Character/Duck/2300_Xiaya",
+    "url": "db://assets/Assets/Character/Duck/2300_Diandongche",
     "value": {}
   },
   "b27613d6-3aff-404a-b67f-db0ca70bcaa0": {
-    "url": "db://assets/Assets/Character/Duck/2400_Xiaoya",
+    "url": "db://assets/Assets/Character/Duck/2400_Motuoche1",
     "value": {}
   },
   "71b9876e-8da8-4fd6-a70b-009d045bf921": {
-    "url": "db://assets/Assets/Character/Duck/2401_Xiaoya",
+    "url": "db://assets/Assets/Character/Duck/2401_Motuoche2",
     "value": {}
   },
   "11e1ed7f-8f65-4b02-b5cd-67db988914d6": {
@@ -9230,54 +9204,386 @@
   },
   "92a28321-a592-4470-90f3-e518ca4fdbbb": {
     "url": "db://assets/Assets/Character/Duck/2200_Xiaya/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "64a42369-f850-4fb8-b91b-5f4084370618": {
     "url": "db://assets/Assets/Character/Duck/2300_Xiaya/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "4f783903-c14a-4964-ad7f-754ef4a6a546": {
     "url": "db://assets/Assets/Character/Duck/2400_Xiaoya/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "21ed6761-e950-4643-b041-b386d6d9f28e": {
     "url": "db://assets/Assets/Character/Duck/2401_Xiaoya/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "d7d4cb17-55e3-41db-a858-f0559fc341ac": {
     "url": "db://assets/Assets/Character/Duck/2500_Xiaoya/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "38c912ad-40dc-4975-8081-e086d5fa2538": {
     "url": "db://assets/Assets/Character/Duck/2501_Xiaoya/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "cd33d672-c596-407f-b384-b25a956d59c1": {
     "url": "db://assets/Assets/Character/Duck/2600_Feiji1/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "89e2c25e-8512-4ea0-87e3-edb79c74b0ba": {
     "url": "db://assets/Assets/Character/Duck/2601_Feiji2/Thumbs.db",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "ca51fbde-f3b5-4522-a9a0-aa0223d2af1f": {
     "url": "db://assets/Assets/Scr/GameRank.ts",
     "value": {}
+  },
+  "9b09866b-13e3-4e2b-99bd-bed4afb0070b": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche",
+    "value": {}
+  },
+  "8e9a9110-729b-434a-9c98-484d0352d916": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba965e74-c068-47e9-9579-0aab210e55f0": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche.json",
+    "value": {
+      "depends": [
+        "15bdcdd9-ce79-4e67-93d0-b9cc0ea5d2ac@6c48a"
+      ]
+    }
+  },
+  "15bdcdd9-ce79-4e67-93d0-b9cc0ea5d2ac": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "15bdcdd9-ce79-4e67-93d0-b9cc0ea5d2ac@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche.png@6c48a",
+    "value": {
+      "depends": [
+        "15bdcdd9-ce79-4e67-93d0-b9cc0ea5d2ac"
+      ]
+    }
+  },
+  "a5ec7be2-3136-47d9-acb5-f20502466e5e": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "16aa179c-1725-4b67-a941-3eb78a33d2d2": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche_ChuChang.json",
+    "value": {
+      "depends": [
+        "64bf6632-6455-44e4-b28c-ba2891e99898@6c48a"
+      ]
+    }
+  },
+  "64bf6632-6455-44e4-b28c-ba2891e99898": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "64bf6632-6455-44e4-b28c-ba2891e99898@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1200_Huabanche/1200_Huabanche_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "64bf6632-6455-44e4-b28c-ba2891e99898"
+      ]
+    }
+  },
+  "afb4f42f-24ae-46c9-80a3-e771d12f66b3": {
+    "url": "db://assets/Assets/Character/Chook/scene.scene",
+    "value": {}
+  },
+  "e83b5a08-ca65-42ed-914c-71dea2962b20": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1",
+    "value": {}
+  },
+  "62843706-ec6a-430d-8b60-1207c4ec739f": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1_ChuChang.json",
+    "value": {
+      "depends": [
+        "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b@6c48a"
+      ]
+    }
+  },
+  "c2aaab26-af5f-4339-a7cb-5f7aea530e74": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b"
+      ]
+    }
+  },
+  "e1b05db4-30e0-41d3-8468-d21732505bec": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "9fa8a7f2-f7ef-44c4-9c4f-f0d4218057ff": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1.json",
+    "value": {
+      "depends": [
+        "acc0080e-b358-47ba-994f-efabcffe7bcf@6c48a"
+      ]
+    }
+  },
+  "acc0080e-b358-47ba-994f-efabcffe7bcf": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "acc0080e-b358-47ba-994f-efabcffe7bcf@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1400_Motuoche1/1400_Motuoche1.png@6c48a",
+    "value": {
+      "depends": [
+        "acc0080e-b358-47ba-994f-efabcffe7bcf"
+      ]
+    }
+  },
+  "182ca5a6-1927-4ccc-a2b4-4fc8e922e416": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_ChuChang.json",
+    "value": {
+      "depends": [
+        "22ad3e7a-fdd8-4b99-ac43-9d62cec32cae@6c48a"
+      ]
+    }
+  },
+  "414d7f43-5e67-4f41-8533-945cc2dacc7e": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "22ad3e7a-fdd8-4b99-ac43-9d62cec32cae": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "22ad3e7a-fdd8-4b99-ac43-9d62cec32cae@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "22ad3e7a-fdd8-4b99-ac43-9d62cec32cae"
+      ]
+    }
+  },
+  "5ffc482a-43f7-418f-aea0-922e8327c1b7": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_Jichu.json",
+    "value": {
+      "depends": [
+        "28cc7d32-8c11-45b5-bf9b-046a2d6f621a@6c48a"
+      ]
+    }
+  },
+  "76da0a73-f5ba-4385-962b-d8ed32a9b126": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_Jichu.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "28cc7d32-8c11-45b5-bf9b-046a2d6f621a": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_Jichu.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "28cc7d32-8c11-45b5-bf9b-046a2d6f621a@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1600_Feiji1/1600_Feiji1_Jichu.png@6c48a",
+    "value": {
+      "depends": [
+        "28cc7d32-8c11-45b5-bf9b-046a2d6f621a"
+      ]
+    }
+  },
+  "4809e39c-4d11-4b96-af58-e29b70d93883": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "c9fd843d-0ad5-4902-8ae5-7d45a3533abb": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2.json",
+    "value": {
+      "depends": [
+        "9e9243df-9e53-4e05-86be-851aec2c7f3b@6c48a"
+      ]
+    }
+  },
+  "9e9243df-9e53-4e05-86be-851aec2c7f3b": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9e9243df-9e53-4e05-86be-851aec2c7f3b@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2.png@6c48a",
+    "value": {
+      "depends": [
+        "9e9243df-9e53-4e05-86be-851aec2c7f3b"
+      ]
+    }
+  },
+  "e2091520-cdc0-4b70-b604-9ba9eed997e3": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "9f40b517-9d09-442f-bffc-54340dbb6216": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2_ChuChang.json",
+    "value": {
+      "depends": [
+        "80b5cfc5-a0a9-4f35-a340-9721065b1dbb@6c48a"
+      ]
+    }
+  },
+  "80b5cfc5-a0a9-4f35-a340-9721065b1dbb": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "80b5cfc5-a0a9-4f35-a340-9721065b1dbb@6c48a": {
+    "url": "db://assets/Assets/Character/Chook/1601_Feiji2/1601_Feiji2_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "80b5cfc5-a0a9-4f35-a340-9721065b1dbb"
+      ]
+    }
+  },
+  "4f97778b-0429-4c22-8f22-8a6bc9f05ba9": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "7bd31a72-8cfa-4e1c-9934-72007ddf4f27": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1_ChuChang.json",
+    "value": {
+      "depends": [
+        "8d2fd3fe-963f-446c-afa4-3d591b28f251@6c48a"
+      ]
+    }
+  },
+  "8d2fd3fe-963f-446c-afa4-3d591b28f251": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8d2fd3fe-963f-446c-afa4-3d591b28f251@6c48a": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "8d2fd3fe-963f-446c-afa4-3d591b28f251"
+      ]
+    }
+  },
+  "caa30dc4-257a-44fd-a9a9-d1040ad5a087": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "2766d06b-8869-4fa9-b593-53482562dc9f": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1.json",
+    "value": {
+      "depends": [
+        "c8ffc719-1d4f-4d84-b03b-6cefe0402192@6c48a"
+      ]
+    }
+  },
+  "c8ffc719-1d4f-4d84-b03b-6cefe0402192": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c8ffc719-1d4f-4d84-b03b-6cefe0402192@6c48a": {
+    "url": "db://assets/Assets/Character/Duck/2600_Feiji1/2600_Feiji1.png@6c48a",
+    "value": {
+      "depends": [
+        "c8ffc719-1d4f-4d84-b03b-6cefe0402192"
+      ]
+    }
+  },
+  "44dc1bcf-e917-490b-a5bb-d3a377bfe500": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2_ChuChang.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "02bfa408-db9c-4a4f-9bde-d88ae11f8c9f": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2_ChuChang.json",
+    "value": {
+      "depends": [
+        "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2@6c48a"
+      ]
+    }
+  },
+  "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2_ChuChang.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2@6c48a": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2_ChuChang.png@6c48a",
+    "value": {
+      "depends": [
+        "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2"
+      ]
+    }
+  },
+  "98d1d724-87bf-41f6-bcda-514f94e4c5d8": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2.json",
+    "value": {
+      "depends": [
+        "a431143d-2410-4fdd-9c5b-f785019d0476@6c48a"
+      ]
+    }
+  },
+  "6ae80793-54f2-4b5d-bac4-2900ee86a494": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2.atlas",
+    "value": {
+      "depends": []
+    }
+  },
+  "a431143d-2410-4fdd-9c5b-f785019d0476": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a431143d-2410-4fdd-9c5b-f785019d0476@6c48a": {
+    "url": "db://assets/Assets/Character/Duck/2601_Feiji2/2601_Feiji2.png@6c48a",
+    "value": {
+      "depends": [
+        "a431143d-2410-4fdd-9c5b-f785019d0476"
+      ]
+    }
   }
 }

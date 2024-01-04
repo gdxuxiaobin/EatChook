@@ -142,6 +142,7 @@ export class GameRank extends Component {
             this.GameRank_Ranking[i].Liansheng.string = players[i].curliansheng + ``
             this.GameRank_Ranking[i].WorldRank.string = players[i].rank_no + ``
             this.GameRank_Ranking[i].GetScore.string = `+${players[i].getScore < 100000 ? players[i].getScore : Math.floor(players[i].getScore / 10000) + `万`}`
+            if(players[i].getScore == 0){this.GameRank_Ranking[i].GetScore.string = ``}
             if (players[i].getLiansheng < 0) {
                 this.GameRank_Ranking[i].GetLiansheng.string = ``
             } else {
