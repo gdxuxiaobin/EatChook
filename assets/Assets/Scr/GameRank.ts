@@ -129,6 +129,7 @@ export class GameRank extends Component {
         }
         let players = values
         for (let i = 0; i < 3; i++) {
+            this.GameRank_Ranking[i].GetLiansheng.node.parent.active = true
             if (i >= players.length) {
                 //默认设置
                 this.SetTopDefaultItem(this.GameRank_Ranking[i])
@@ -207,10 +208,10 @@ export class GameRank extends Component {
         Item.Score.string = ``
         Item.WorldRank.string = ``
         Item.Liansheng.string = ``
-        Item.GetLiansheng.string = ``
         Item.GetScore.string = ``
         Item.ChickenSign.forEach( (item)=>{ item.active = false} )
         Item.DuckSign.forEach( (item)=>{ item.active = false} )
+        Item.GetLiansheng.node.parent.active = false
     }
 
     ClickWorldRank() {
@@ -221,6 +222,7 @@ export class GameRank extends Component {
      * 关闭按钮
      */
     closeBtn() {
+        this.GameRank_Ranking_Root.removeAllChildren()
         this.node.active = false;
     }
     /**加载头像，返回spriteframe */
