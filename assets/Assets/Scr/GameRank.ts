@@ -143,7 +143,7 @@ export class GameRank extends Component {
             this.GameRank_Ranking[i].WorldRank.string = players[i].rank_no + ``
             this.GameRank_Ranking[i].GetScore.string = `+${players[i].getScore < 100000 ? players[i].getScore : Math.floor(players[i].getScore / 10000) + `万`}`
             if(players[i].getScore == 0){this.GameRank_Ranking[i].GetScore.string = ``}
-            if (players[i].getLiansheng < 0) {
+            if (players[i].getLiansheng <= 0) {
                 this.GameRank_Ranking[i].GetLiansheng.string = ``
             } else {
                 this.GameRank_Ranking[i].GetLiansheng.string = `(+${players[i].getLiansheng})`
@@ -187,7 +187,7 @@ export class GameRank extends Component {
         ScoreLabel.string = `${player.score < 100000 ? player.score : Math.floor(player.score / 10000) + `万`}`
         curlianshengLabel.string = player.curliansheng + ``
         WorldRankLabel.string = player.rank_no + ``
-        if (player.getLiansheng < 0) {
+        if (player.getLiansheng <= 0) {
             GetLianshengLabel.string = `吃了${player.curliansheng}道菜`
         } else {
             GetLianshengLabel.string = `吃了${player.curliansheng}道菜(+${player.getLiansheng})`
