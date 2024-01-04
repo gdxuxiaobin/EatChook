@@ -304,7 +304,7 @@
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "520cd23d6b705586a774942564f6dcaf2bfc534c"
+            "id": "c9d84ef2ecace046bbb4154b9826dc899697554d"
           },
           "messages": []
         },
@@ -316,9 +316,9 @@
           "messages": []
         }
       },
-      "timestamp": 1704340315816
+      "timestamp": 1704347752190
     },
-    "520cd23d6b705586a774942564f6dcaf2bfc534c": {
+    "c9d84ef2ecace046bbb4154b9826dc899697554d": {
       "imports": {
         "cc": {
           "resolved": {
@@ -328,7 +328,7 @@
           "messages": []
         }
       },
-      "timestamp": 1704340316033
+      "timestamp": 1704347752372
     }
   },
   "entries": {
@@ -337,6 +337,6 @@
     "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "823dcf9db92fd488afc60c766b4237a14764ca46",
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameExplain.ts": "9748c985be96c9ad28939b4a67468fb72ef717f3",
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts": "927ec8868ad92c52aa6c396318e646a570746a0c",
-    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": "520cd23d6b705586a774942564f6dcaf2bfc534c"
+    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": "c9d84ef2ecace046bbb4154b9826dc899697554d"
   }
 }

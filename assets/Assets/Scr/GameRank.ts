@@ -224,6 +224,10 @@ export class GameRank extends Component {
      */
     closeBtn() {
         this.GameRank_Ranking_Root.removeAllChildren()
+        for(let i = 0;i<3;i++){
+            this.GameRank_Ranking[i].ChickenSign.forEach(item=>{item.active = false})
+            this.GameRank_Ranking[i].DuckSign.forEach(item=>{item.active = false})
+        }
         this.node.active = false;
     }
     /**加载头像，返回spriteframe */

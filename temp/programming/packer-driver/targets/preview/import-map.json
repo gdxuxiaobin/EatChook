@@ -5,7 +5,7 @@
     "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/82/823dcf9db92fd488afc60c766b4237a14764ca46.js",
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameExplain.ts": "./chunks/97/9748c985be96c9ad28939b4a67468fb72ef717f3.js",
     "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/WorldRank.ts": "./chunks/92/927ec8868ad92c52aa6c396318e646a570746a0c.js",
-    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": "./chunks/52/520cd23d6b705586a774942564f6dcaf2bfc534c.js"
+    "file:///C:/Users/HY-PC-007/Desktop/EatChicken/EatChook/assets/Assets/Scr/GameRank.ts": "./chunks/c9/c9d84ef2ecace046bbb4154b9826dc899697554d.js"
   },
   "scopes": {
     "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js": {
@@ -41,13 +41,13 @@
     "./chunks/e6/e690d8d21c3264f88cef1049bc05ae341c5f161a.js": {
       "__unresolved_0": "./chunks/82/823dcf9db92fd488afc60c766b4237a14764ca46.js",
       "__unresolved_1": "./chunks/97/9748c985be96c9ad28939b4a67468fb72ef717f3.js",
-      "__unresolved_2": "./chunks/52/520cd23d6b705586a774942564f6dcaf2bfc534c.js",
+      "__unresolved_2": "./chunks/c9/c9d84ef2ecace046bbb4154b9826dc899697554d.js",
       "__unresolved_3": "./chunks/92/927ec8868ad92c52aa6c396318e646a570746a0c.js"
     },
     "./chunks/92/927ec8868ad92c52aa6c396318e646a570746a0c.js": {
       "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
     },
-    "./chunks/52/520cd23d6b705586a774942564f6dcaf2bfc534c.js": {
+    "./chunks/c9/c9d84ef2ecace046bbb4154b9826dc899697554d.js": {
       "cc": "./chunks/86/86ea51a86e5d858891ef07385334b7b1017d7ca2.js"
     },
     "./chunks/97/9748c985be96c9ad28939b4a67468fb72ef717f3.js": {
