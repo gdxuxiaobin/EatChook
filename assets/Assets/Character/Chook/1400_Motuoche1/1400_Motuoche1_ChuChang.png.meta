@@ -2,7 +2,7 @@
   "ver": "1.0.25",
   "importer": "image",
   "imported": true,
-  "uuid": "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b",
+  "uuid": "35481303-a7a2-4f94-b61c-b6a52d1c1557",
   "files": [
     ".json",
     ".png"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b@6c48a",
+      "uuid": "35481303-a7a2-4f94-b61c-b6a52d1c1557@6c48a",
       "displayName": "1400_Motuoche1_ChuChang",
       "id": "6c48a",
       "name": "texture",
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b",
+        "imageUuidOrDatabaseUri": "35481303-a7a2-4f94-b61c-b6a52d1c1557",
         "visible": true
       },
       "ver": "1.0.22",
@@ -37,6 +37,6 @@
     "fixAlphaTransparencyArtifacts": true,
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "f8f6a31c-ac09-45d7-a71d-c7d4312b1d9b@6c48a"
+    "redirect": "35481303-a7a2-4f94-b61c-b6a52d1c1557@6c48a"
   }
 }

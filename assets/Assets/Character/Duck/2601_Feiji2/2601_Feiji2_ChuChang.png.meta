@@ -2,7 +2,7 @@
   "ver": "1.0.25",
   "importer": "image",
   "imported": true,
-  "uuid": "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2",
+  "uuid": "dd1648c9-112d-495e-8104-7acff1dafa70",
   "files": [
     ".json",
     ".png"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2@6c48a",
+      "uuid": "dd1648c9-112d-495e-8104-7acff1dafa70@6c48a",
       "displayName": "2601_Feiji2_ChuChang",
       "id": "6c48a",
       "name": "texture",
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2",
+        "imageUuidOrDatabaseUri": "dd1648c9-112d-495e-8104-7acff1dafa70",
         "visible": true
       },
       "ver": "1.0.22",
@@ -37,6 +37,6 @@
     "fixAlphaTransparencyArtifacts": true,
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "d98d5b2c-8b6e-45e6-8aa5-e583c60b77a2@6c48a"
+    "redirect": "dd1648c9-112d-495e-8104-7acff1dafa70@6c48a"
   }
 }

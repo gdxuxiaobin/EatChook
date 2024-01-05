@@ -2,7 +2,7 @@
   "ver": "1.0.25",
   "importer": "image",
   "imported": true,
-  "uuid": "64bf6632-6455-44e4-b28c-ba2891e99898",
+  "uuid": "812c4187-0046-4da1-a230-710203173f75",
   "files": [
     ".json",
     ".png"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "64bf6632-6455-44e4-b28c-ba2891e99898@6c48a",
+      "uuid": "812c4187-0046-4da1-a230-710203173f75@6c48a",
       "displayName": "1200_Huabanche_ChuChang",
       "id": "6c48a",
       "name": "texture",
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "64bf6632-6455-44e4-b28c-ba2891e99898",
+        "imageUuidOrDatabaseUri": "812c4187-0046-4da1-a230-710203173f75",
         "visible": true
       },
       "ver": "1.0.22",
@@ -37,6 +37,6 @@
     "fixAlphaTransparencyArtifacts": true,
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "64bf6632-6455-44e4-b28c-ba2891e99898@6c48a"
+    "redirect": "812c4187-0046-4da1-a230-710203173f75@6c48a"
   }
 }
