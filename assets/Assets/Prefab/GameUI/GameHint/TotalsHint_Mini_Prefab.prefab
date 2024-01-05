@@ -829,7 +829,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Title_Label",
+    "_name": "PlayerTotalsh_Label",
     "_objFlags": 0,
     "_parent": {
       "__id__": 34
@@ -852,7 +852,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -45.71000000000001,
+      "x": -44.00000000000001,
       "y": -24,
       "z": 0
     },
@@ -892,7 +892,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 45.71,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -904,7 +904,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "0aPREkg8RBr6YhiyHKad5A"
+    "fileId": "e070J5+6FB9bn0Sf3WlGOd"
   },
   {
     "__type__": "cc.Label",
@@ -922,16 +922,16 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 242,
+      "g": 250,
+      "b": 18,
       "a": 255
     },
-    "_string": "积分",
-    "_horizontalAlign": 1,
+    "_string": "100",
+    "_horizontalAlign": 0,
     "_verticalAlign": 1,
-    "_actualFontSize": 20,
-    "_fontSize": 20,
+    "_actualFontSize": 25,
+    "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 0,
@@ -940,7 +940,7 @@
     "_isSystemFontUsed": true,
     "_spacingX": 0,
     "_isItalic": false,
-    "_isBold": false,
+    "_isBold": true,
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
@@ -948,7 +948,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "b1q3RrCBFDjJmh2k5Ium7A"
+    "fileId": "d5OYkli3BL+5LHSriG94bB"
   },
   {
     "__type__": "cc.LabelOutline",
@@ -973,7 +973,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "39l7AZZVJGxLbSQhjc9oLa"
+    "fileId": "1beX3JhiJHzqC6mS1E6JOI"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -983,14 +983,14 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "da4plm9Q1Lr7W1M1LHcCsP",
+    "fileId": "2bI3I7ZmFGzITcigah5tks",
     "instance": null,
     "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
   },
   {
     "__type__": "cc.Node",
-    "_name": "PlayerTotalsh_Label",
+    "_name": "Title_Label",
     "_objFlags": 0,
     "_parent": {
       "__id__": 34
@@ -1053,7 +1053,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 45.71,
+      "width": 44,
       "height": 54.4
     },
     "_anchorPoint": {
@@ -1065,7 +1065,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "e070J5+6FB9bn0Sf3WlGOd"
+    "fileId": "0aPREkg8RBr6YhiyHKad5A"
   },
   {
     "__type__": "cc.Label",
@@ -1083,16 +1083,16 @@
     "_dstBlendFactor": 4,
     "_color": {
       "__type__": "cc.Color",
-      "r": 242,
-      "g": 250,
-      "b": 18,
+      "r": 255,
+      "g": 255,
+      "b": 255,
       "a": 255
     },
-    "_string": "150",
-    "_horizontalAlign": 0,
+    "_string": "积分",
+    "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 25,
-    "_fontSize": 25,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 0,
@@ -1101,7 +1101,7 @@
     "_isSystemFontUsed": true,
     "_spacingX": 0,
     "_isItalic": false,
-    "_isBold": true,
+    "_isBold": false,
     "_isUnderline": false,
     "_underlineHeight": 2,
     "_cacheMode": 0,
@@ -1109,7 +1109,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "d5OYkli3BL+5LHSriG94bB"
+    "fileId": "b1q3RrCBFDjJmh2k5Ium7A"
   },
   {
     "__type__": "cc.LabelOutline",
@@ -1134,7 +1134,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "1beX3JhiJHzqC6mS1E6JOI"
+    "fileId": "39l7AZZVJGxLbSQhjc9oLa"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -1144,7 +1144,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "2bI3I7ZmFGzITcigah5tks",
+    "fileId": "da4plm9Q1Lr7W1M1LHcCsP",
     "instance": null,
     "targetOverrides": null,
     "nestedPrefabInstanceRoots": null
@@ -1262,6 +1262,7 @@
       "__id__": 0
     },
     "fileId": "a1TWrqivNNoJsOiL6zeAeu",
+    "instance": null,
     "targetOverrides": null
   }
 ]

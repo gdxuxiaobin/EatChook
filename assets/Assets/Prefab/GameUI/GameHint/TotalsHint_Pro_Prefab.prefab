@@ -905,7 +905,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -272.58000000000004,
+      "x": -33,
       "y": 0,
       "z": 0
     },
@@ -1066,7 +1066,7 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -2.842170943040401e-14,
+      "x": -66,
       "y": 0,
       "z": 0
     },
@@ -1255,7 +1255,7 @@
     "_spacingX": 0,
     "_spacingY": 0,
     "_verticalDirection": 1,
-    "_horizontalDirection": 0,
+    "_horizontalDirection": 1,
     "_constraint": 0,
     "_constraintNum": 2,
     "_affectedByScale": false,
@@ -1399,6 +1399,7 @@
       "__id__": 0
     },
     "fileId": "5a6GLh09VKB6IYNOK4s1Tl",
+    "instance": null,
     "targetOverrides": null
   }
 ]
